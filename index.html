@@ -1,10 +1,10 @@
 Hello World
 
-
-Ffmpeg pip example
+<br>
+Ffmpeg pip ( picture in picture) example
+<br>
 
 <pre>
 ffmpeg -f alsa -i pulse -f x11grab -s 1920x1080 -r 30 -i :0.0+0,0 -vf "movie=/dev/video0:f=video4linux2, scale=320:240, fps, setpts=PTS-STARTPTS [movie]; [in][movie] overlay=main_w-overlay_w-2:main_h-overlay_h-2
- [out]" -vcodec libx264 -crf 20 -preset veryfast -minrate 150k -maxrate 500k -s 960x540 -acodec libfaac -ar 44100 -ab 96000 -threads 0 -f flv - | tee name.flv | ffmpeg -i - -codec copy -f flv -metadata streamNam
-e=livestream test.flv
+[out]" -vcodec libx264 -crf 20 -preset veryfast -minrate 150k -maxrate 500k -s 960x540 -acodec libfaac -ar 44100 -ab 96000 -threads 0 -f flv - | tee name.flv | ffmpeg -i - -codec copy -f flv -metadata streamName=livestream test.flv
 </pre>
