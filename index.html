@@ -1,10 +1,193 @@
-Hello World
-
-<br>
-Ffmpeg pip ( picture in picture) example
-<br>
-
 <pre>
-ffmpeg -f alsa -i pulse -f x11grab -s 1920x1080 -r 30 -i :0.0+0,0 -vf "movie=/dev/video0:f=video4linux2, scale=320:240, fps, setpts=PTS-STARTPTS [movie]; [in][movie] overlay=main_w-overlay_w-2:main_h-overlay_h-2
-[out]" -vcodec libx264 -crf 20 -preset veryfast -minrate 150k -maxrate 500k -s 960x540 -acodec libfaac -ar 44100 -ab 96000 -threads 0 -f flv - | tee name.flv | ffmpeg -i - -codec copy -f flv -metadata streamName=livestream test.flv
-</pre>
+Max Shaposhnikoff
+
+<a href="https://www.linkedin.com/in/shaposhnikoff" style="text-decoration:none;"><span style="font: 80% Arial,sans-serif; color:#0783B6;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="См. профиль пользователя Max Shaposhnikoff в LinkedIn" style="vertical-align:middle;" border="0">&nbsp;Max Shaposhnikoff</span></a>
+<h3>Senior Linux SysAdmin / Devops Engineer<br>Kiev,Ukraine</h3>
+<h2>Summary</h2>
+<h3>Experienced DevOps and Senior Systems Engineer with 15 years industry experience </h3>
+
+
+						
+Birth           12.01.1976
+Phone:          +38(044)577****,
+                +38(068)8062252
+
+
+        
+jabber: shaposhnikoff@gmail.com
+------------------------------------------------------------ Education ------------------------------------------------------------------
+Moscow Technical University of Communication and Informatics (MTUCI) 1992 - 1997
+
+Software of computers and automation systems
+
+------------------------------------------------------- Certifications -------------------------------------------------------
+* TCP/IP Administration - 2000, Brainbench
+* Linux Administration (General) - 2001,2009 Brainbench
+
+* OpenStack System Administrator Certification ( MCA200)  2015
+
+------------------------------------------------------- Skills and Qualifications -------------------------------------------------------
+* Managed up to 10 direct reports.
+* More than 15 years of experience in the telecommunication fields, hands on experience with LAN/WAN networks, 
+	    deep understanding of telecommunication infrastructure including: PBX ( Asterisk ) 
+	    and UNIX based soft switches - Mera,IXC,3CX Phone System 
+	    L2/L3 Switches,Vlan-s and others
+	    
+* More then 15 years experience working as UNIX engineer.
+
+* Continually learning new programs and systems. 
+
+* Ability to rapidly firefight in unknown environments.
+
+* Operating Systems: 	UNIX (FreeBSD/Openbsd)
+	    GNU Linux ( Debian,Centos,CoreOS )
+
+* Programming/
+  Scripting Languages	Shell (sh, tcsh, bash, ksh), awk/sed, Python
+  
+* Network  Products   	Cisco routers and switches, HP switches - 3100, 3600, 5120, 5500; 
+	        
+* Email: 		Email servers (exim,sendmail, postfix,), 
+	    mailing list managers  (ezmlm, Smartlist, Majordomo), 
+	    AV/AS - (F-Prot, Sophos, Kaspersky, AMaViS, SpamAssassin), 
+	    MUA - Courier IMAP,dovecot
+	    
+* Network Technologies  BGP, RIP, some OSPF, RADIUS, Samba, DNS ( BIND,Powerdns, djbdns)
+
+* Databases		MySQL, PostgreSQL
+
+* Backups		Amanda, rsync, duplicity
+
+* Configuration Management - Chef, Ansible
+  
+  Jenkins - Release build out, environment, deployment, configuration, continuous delivery, Gerrit integration
+
+* VPN 			MPD 4/5/6, Linux pppd, Openvpn, IPsec, Cisco IPSEC
+
+* Virtualization	Vmware ESXi, Citrix XEN, OpenVZ ,KVM , FreeBSD jail , Docker, LXC, Libvirt, Vagrant
+
+* Cloud Computing       Amazon AWS, Scalr, RightScale, Onapp
+
+* Web			Apache, lighttpd , thin, mongrel, nginx + php-fpm + memcache , mod_passenger
+	    SVN - mod_dav_svn, mod_authz_svn,
+	    Phusion Passenger - a.k.a. mod_rails+nginx/apache, mongrel-cluster , thin cluster
+
+* Revision control software	GIT
+
+* HA			High-Availability Storage's With GlusterFS, Linux HA Pacemaker,FreeBSD 
+
+* Monitoring System	Cacti, Zabbix, Nagios, Munin, Observium
+
+* BT/issue tracking system -  RT, Redmine, Kayako, Atlassian Jira,Confluence 
+
+* Voip 			MVTS, Freeswitch , Kamailio, Asterisk (pjsip etc.),Nginx-RTMP,etc
+
+
+
+--------------------------------------------------- Related Expirience -------------------------------------------------------
+
+<h2>EPAM Systems </h2>
+
+Jan,2015 - Till Now
+
+<h3>Senior Systems Engineer </h3>
+
+Project Roles - Build Engineer 
+
+Participation - Product deployment automation. Environment configuration and setup. CI configuration, job creation, lobs flow configuration and maintenance.
+
+Build Automation - Create Jenkins + Gerrit automated building internal projects. Continuous Integration of building and testing a software projects continuously, each time new changes are made.
+
+Continuous Testing - running Unit tests on build applications on previous step.
+
+Continuous Delivery - running (creating) containers ( Docker/Vagrant) and running applications inside it for developers proposes. All delivery steps automated with Ansible recipes.
+
+Continuous Monitoring - monitoring created Vms automatically with Zabbix agent orchestration via Ansible
+
+Server configuration management via Ansible
+
+
+Team                                Dev team : 10 members, QA Team - 7 members
+
+Database                            Oracle Database Server11.2.0.4 
+
+Tools                               Oracle Database Server,  WebLogic Application Server, SQL Developer, Oracle Client, Git, Eclipse Luna, Ant, 
+		    JDK, Toplink, SmartGit/eGit plugin for eclipse, RHEL EAP Jboss, Jenkins, Artifactory, SonarQube
+
+Technologies                        Java, GWT.
+
+
+
+
+
+
+<h3>Senior Devops  Engineer - Special Integral Systems
+January 2011 - Jan 2015 </h3>
+
+<a href="http://special-is.com">http://special-is.com</a> 
+
+
+* Build Automation - Create Jenkins automated building internal projects..
+* Continuous Integration of building and testing a software projects continuously, each time new changes are made.
+* Continuous Testing - running Unit tests on build applications on previous step.
+* Continuous Delivery - running (creating) containers ( Docker/Vagrant) and running applications inside it for developers proposes. 
+    All delivery steps automated with Ansible/Chef recipes.
+* Continuous Monitoring - monitoring created Vms automatically with Zabbix agent orchestration via Ansible
+* Server configuration management via Ansible/Chef
+* Advanced OpenVPN deployment ( ipv6 include )
+* Capacity planning, Bottleneck identification
+* PXE kickstarting of CentOS/Ubuntu servers
+
+
+<h3>FreeBSD/Voip Engineer - IXC company
+January 2009 - January 2011
+Chief networking officer</h3>
+
+<a href="http://ixc.ua/">http://ixc.ua</a>
+
+* Working with the Engineering team to design, build and maintain scalable systems that support high traffic web services and back-end tools and applications
+* Planning and executing projects to improve production infrastructure
+* Performing and automating production deployments
+* Create continuous integration build server ( night build's) with Jenkins 	server 
+* Wrote design specifications and performed Quality Assurance testing on prototype hardware.
+* Specified desktop and network hardware for the development team; proposed initial network designs;
+* Researched network and database security requirements for WAN and LAN ; outlined office and test lab environments.
+* Setup and support developers environment, installation and configuration IXCSoftswitch for VOIP providers, database tuning.
+* Setup High-Availability Storage With GlusterFS On Ubuntu 10.04
+* SVN, mail, web, VPN servers support.
+* Developed a simple High Availability solution for corporate webserver and database server utilizing VRRP.
+* Responsible for all internal and external DNS using BIND9
+
+--------------------------------------------
+
+<h3>Unix & Voip Engineer - Golden Gate
+January 2006 - January 2009</h3>
+
+<a href="http://www.zv.ua">http://www.zv.ua</a>
+
+* Administrator of corporate communications corporation "Golden Gate"
+* Implementation and fine tuning of corporate VOIP/TDM network based on Asterisk (FreeBSD)
+* Organization and implementation of corporate telephone network based on Asterisk (FreeBSD)
+* Expand corporate VOIP infrastructure to add remote subsidiaries in the following cities: Vinnitsa, Sevastopol, Simferopol, Kharkov, Uzhgorod
+* Integrate Panasonic PBX with Asterisk using H.323 protocol stack.
+* Integrate Asterisk PBX with TDM using a common interface cards FXO FXS ISDN PRI
+* Writing routing logic PBX Asterisk, IVR, voice mail support
+* The daily administration of servers running FreeBSD.
+* Support for network services: firewall, dns, ntp
+
+--------------------------------------------
+
+<h3>Ukrtelecom ISP
+Jan 2000 -  November 2006
+System Administrator</h3>
+
+<a href="http://crimea.ukrtelecom.ua">http://crimea.ukrtelecom.ua</a> 
+
+* Engineered, implemented and administrated network WAN/LAN. Provided technical support for Cisco and software routers OS FreeBSD (zebra).
+* Pre sales engineering of customers networks for the purpose of discovering.
+* Configured and administrated servers with SMTP, DNS, HTTP, RADIUS, VPN, PPPoE, PPtP, DHCP. Programming Shell, PHP a little .
+
+
+
+OTHER
+Married, ready for business trips.
