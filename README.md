@@ -3,7 +3,8 @@
 
 <h5>Kiev,Ukraine</h5> 
 <h5>+380688062252</h5>
-<h5>telegram  [shaposhnikoff](https://t.me/shaposhnikoff) </h5>
+
+telegram  [shaposhnikoff](https://t.me/shaposhnikoff)
 
 <h1>Summary </h1>
 
