@@ -1,2 +1,215 @@
-# shaposhnikoff.github.io
-shaposhnikoff.github.io
+<pre>
+
+<img src="pic/657567.jpg" alt="Max I. Shaposhnikoff style="width:304px;height:228px;">
+
+<a href="https://www.linkedin.com/in/mshaposhnikoff" style="text-decoration:none;"><span style="font: 80% Arial,sans-serif; color:#0783B6;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="См. профиль пользователя Max Shaposhnikoff в LinkedIn" style="vertical-align:middle;" border="0">&nbsp;Max Shaposhnikoff</span></a>
+<h3>Senior Linux SysAdmin / Devops Engineer<br>Kiev,Ukraine</h3>
+<h2>Summary</h2>
+<h3>Build and Configuration Manager, DevOps Engineer </h3>
+
+Birth           12.01.1976
+Phone:          +380688062252
+skype:          shaposhnikoff
+
+
+<h3>Education</h3>
+Moscow Technical University of Communication and Informatics (MTUCI) 1992 - 1997
+Software of computers and automation systems
+
+<h3>Certifications</h3>
+
+* TCP/IP Administration - 2000, Brainbench
+* Linux Administration (General) - 2001,2009 Brainbench
+* OpenStack System Administrator Certification ( MCA200)  2015
+
+<a href="https://training.mirantis.com/verify/certificate/status/jJg3rA0WJsg2IIZ-TyAHLw/200-692-449"><img src="pic/mirantis-logo.png"></a> 
+
+<h3>Skills and Qualifications</h3>
+
+
+I am a qualified specialist with extensive hands-on experience in build engineering, configuration management, and DevOps engineering.
+My key expertise includes design and implementation of continuous integration, delivery, and deployment using Java, Jenkins, Git, Docker, 
+Vagrant, Ansible, and AWS/EC2.
+
+I also have considerable skills in automating deployments of Java appllications with Tomcat, and AWS, as well as almost 20 years of experience 
+in UNIX/Linux and Middleware/Application Server administration experience.
+Being a self-motivated, responsible, and sociable team player, I can use my technical expertise to implement quality solutions and bring added value.
+
+
+
+<h3>Detailed technical knowledge and hands-on experience of Build Engineering, Configuration Management and DevOps Engineering</h3>
+
+--
+Linux, Docker, Swarm, Kubernetes, Mesos, Consul[-template], Packer, Vagrant, MySQL, Redis, 
+Shell, Ansible, Solr, Artifactory, Nexus, Git, Nginx, Nagios, Zabbix, Hybris, HAProxy, SQL, Apache,
+Logstash, Elasticsearch, Kibana,Fluent-bit/Fluentd, FreeRADIUS, TCP/IP, DNS, SNMP, LDAP, RADIUS, HTTP(S), RESTful, XML, JSON.
+
+--
+Jenkins - Release build out, environment, deployment, configuration, continuous delivery, Gerrit integration
+
+--
+Docker - pack Java microservices into a shipping containers , which will be deployed to Kubernetes.
+
+--
+Kubernetes - Jenkins CI/CD integrations, include creating fully automated build environments, with Amazon EC2 container service
+as Docker registry, Kubernetes as Jenkins nodes runner and Spring Boot application Docker images hosting.
+Centralized pods logging , using Elasticsearch/Fluent-bit
+HELM package creation , to improve deployment speed.
+
+--
+Centos, Debian, Ubuntu, CoreOS
+Virtualization - Docker, KVM, LXC, Libvirt, Vagrant
+Mirantis OpenStack MCA200
+
+--
+Backup, automation infrastructure changes with Ansible 
+
+--
+Tracking system - Redmine, Jira,Trac
+Monitoring - Nagios Cacti Munin Observium Zabbix 
+--
+
+Self-educated, self-motivated, responsible, sociable, good team player, ability to work under pressure.
+
+
+--------------------------------------------------- Related Expirience -------------------------------------------------------
+
+<h2>First Ukrainian International Bank </h2>
+
+<a href="http://pumb.ua">http://pumb.ua</a>
+
+<h3>Senior Devops Engineer
+Apr, 2017 - Now
+</h3>
+
+Corezoid digital core (c) @corezoid.com maintanance , scaling, deployment , support , monitoring and configuration management.
+Applying configuration changes using Ansible, AWS, Terraform, Packer, etc.
+
+Maintanance of K8S cluster, creating HELM charts for Jenkins deployed microservices via Jenkins jobs,
+configuration and patch management
+
+
+
+
+<h2>EPAM Systems </h2>
+
+<a href="http://epam.com">http://epam.com</a>
+
+<h3>Senior Devops Engineer
+Feb 2014 - Apr 2017 </h3>
+
+* Design and develop continuous deployment pipeline, integrating Test-Kitchen, Docker, Git , Jenkins and Ansible across geographically separated hosting zones in AWS.
+
+* Performed new Ansible automation to replace old-bash-style scripting tools to provide Continous integration / 
+  Continous delivery of results working of Development team
+
+* Performed custom Docker integration solution to run test suites ( functional, unit, web, integration tests ) - 
+  running tests in docker-compose created environment with hybris image and wide range of mysql database versions.
+
+* Developed from scratch fully completed CI/CD solution (Jenkins/Docker/Ansible based) to build and deploy artifacts starting from git pull and ending to checking Hybris startup logs and email notification to dev team members.
+
+* Developed many fully customized Ansible playbooks for maintanence next application on customer cloud - Apache Solr Cluster, SMTP server Postfix. 
+
+* Also, created and maintained everyday ansible automation and special automated branch to GoLive production environment's
+
+
+* Collect the new technologies and tools, and introduced them to the client; in which way it helped the company build up an agile development environment. 
+    It improved the product quantity and the work efficiency.
+* Developed automation and deployment utilities using Bash and Ansible.
+* Designed and developed automated deployment and scaling processes based on Docker and Ansible for a wide range of server types and application tiers, including Elasticsearch, Tomcat, Varnish And SOLR Clusters.
+* Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions.
+* Created automation and deployment templates for relational databases (standalone and RDS).
+* Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions (Zabbix && Ansible ).
+
+
+
+* Project Roles - Build Engineer 
+* Participation - Product deployment automation. Environment configuration and setup. CI configuration, job creation, lobs flow configuration and maintenance.
+* Build Automation - Create Jenkins + Gerrit automated building internal projects. Continuous Integration of building and testing a software projects continuously, each time new changes are made.
+* Continuous Testing - running Unit tests on build applications on previous step.
+* Continuous Delivery - running (creating) containers ( Docker/Vagrant) and running applications inside it for developers proposes. All delivery steps automated with Ansible recipes.
+* Continuous Monitoring - monitoring created Vms automatically with Zabbix agent orchestration via Ansible
+* Server configuration management via Ansible
+
+  Team                                Dev team : 100 members, QA Team - 70 members
+  Database                            Oracle Database Server11.2.0.4 
+  Tools                               Oracle Database Server,  WebLogic Application Server, SQL Developer, Oracle Client, Git, Eclipse Luna, Ant, 
+  				      JDK, Toplink, SmartGit/eGit plugin for eclipse, RHEL EAP Jboss, Jenkins, Artifactory, SonarQube
+
+  Technologies                        Java, GWT.
+
+
+
+
+
+
+<h3>Senior Devops  Engineer - Special Integral Systems
+Jan 2011 - Jan 2014 </h3>
+
+<a href="http://special-is.com">http://special-is.com</a> 
+
+
+* Build Automation - Create Jenkins automated building internal projects..
+* Continuous Integration of building and testing a software projects continuously, each time new changes are made.
+* Continuous Testing - running Unit tests on build applications on previous step.
+* Continuous Delivery - running (creating) containers ( Docker/Vagrant) and running applications inside it for developers proposes. 
+    All delivery steps automated with Ansible/Chef recipes.
+* Continuous Monitoring - monitoring created Vms automatically with Zabbix agent orchestration via Ansible
+* Server configuration management via Ansible/Chef
+* Advanced OpenVPN deployment ( ipv6 include )
+* Capacity planning, Bottleneck identification
+* PXE kickstarting of CentOS/Ubuntu servers
+
+
+<h3>FreeBSD/Voip Engineer - IXC company
+January 2009 - January 2011
+Chief networking officer</h3>
+
+<a href="http://ixc.ua/">http://ixc.ua</a>
+
+* Working with the Engineering team to design, build and maintain scalable systems that support high traffic web services and back-end tools and applications
+* Planning and executing projects to improve production infrastructure
+* Performing and automating production deployments
+* Create continuous integration build server ( night build's) with Jenkins 	server 
+* Wrote design specifications and performed Quality Assurance testing on prototype hardware.
+* Specified desktop and network hardware for the development team; proposed initial network designs;
+* Researched network and database security requirements for WAN and LAN ; outlined office and test lab environments.
+* Setup and support developers environment, installation and configuration IXCSoftswitch for VOIP providers, database tuning.
+* Setup High-Availability Storage With GlusterFS On Ubuntu 10.04
+* SVN, mail, web, VPN servers support.
+* Developed a simple High Availability solution for corporate webserver and database server utilizing VRRP.
+* Responsible for all internal and external DNS using BIND9
+
+--------------------------------------------
+
+<h3>Unix & Voip Engineer - Golden Gate
+January 2006 - January 2009</h3>
+
+<a href="http://www.zv.ua">http://www.zv.ua</a>
+
+* Administrator of corporate communications corporation "Golden Gate"
+* Implementation and fine tuning of corporate VOIP/TDM network based on Asterisk (FreeBSD)
+* Organization and implementation of corporate telephone network based on Asterisk (FreeBSD)
+* Expand corporate VOIP infrastructure to add remote subsidiaries in the following cities: Vinnitsa, Sevastopol, Simferopol, Kharkov, Uzhgorod
+* Integrate Panasonic PBX with Asterisk using H.323 protocol stack.
+* Integrate Asterisk PBX with TDM using a common interface cards FXO FXS ISDN PRI
+* Writing routing logic PBX Asterisk, IVR, voice mail support
+* The daily administration of servers running FreeBSD.
+* Support for network services: firewall, dns, ntp
+
+--------------------------------------------
+
+<h3>Ukrtelecom ISP
+Jan 2000 -  November 2006
+System Administrator</h3>
+
+<a href="http://crimea.ukrtelecom.ua">http://crimea.ukrtelecom.ua</a> 
+
+* Engineered, implemented and administrated network WAN/LAN. Provided technical support for Cisco and software routers OS FreeBSD (zebra).
+* Pre sales engineering of customers networks for the purpose of discovering.
+* Configured and administrated servers with SMTP, DNS, HTTP, RADIUS, VPN, PPPoE, PPtP, DHCP. Programming Shell, PHP a little .
+
+
+
+OTHER
+Married, ready for business trips.
