@@ -121,5 +121,6 @@ Jan 2011 - Jan 2014 </h3>
 
 
 
-OTHER
+<h1>OTHER</h1>
+
 Married, ready for business trips.
