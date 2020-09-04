@@ -68,7 +68,7 @@ Self-educated, self-motivated, responsible, sociable, good team player, ability 
 
 
 ---------------------- Related Expirience --------------------------------
-Grid Dynamics[fdfsdfsdfsd] 
+Grid Dynamics 
 Senior Devops Engineer
 
   Dec , 2019 - Now
