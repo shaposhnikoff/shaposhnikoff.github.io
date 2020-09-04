@@ -104,7 +104,7 @@ Main responsibilities on the project
     	* Maintenance of project infrastructure ( CI/CD pipelines ( Jenkins) , Help with creating Dockerfiles, knowledge sharing )
     	* Create and maintaince Kubernetes cluster which work as Jenkins slave runner for needs of Development team ( Kubernetes run specific 			pods , for example with specific version of Node.js and this allow developers to run various environments to getting the best 			results ). We use Kubernetes cluster for these purposes because we can start and stop pods in cluster very quickly
 
-	All this infrastructure are developed to use in separate environments, so, to prepare it to use in dev, or stage, or prod we need to 		change only AWS Network settings ( VPC, SG, Subnets) and we ready to apply this configuration to another account.
+All this infrastructure are developed to use in separate environments, so, to prepare it to use in dev, or stage, or prod we need to 		change only AWS Network settings ( VPC, SG, Subnets) and we ready to apply this configuration to another account.
 
 
                                                                                                                                         
