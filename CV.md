@@ -64,7 +64,7 @@ Detailed technical knowledge and hands-on experience of Build Engineering, Confi
 	
 * Monitoring - Prometheus (alertmanager, blackboxexporter. all types of exporters), Nagios,Zabbix
  
-Self-educated, self-motivated, responsible, sociable, good team player, ability to work under pressure.
+### Self-educated, self-motivated, responsible, sociable, good team player, ability to work under pressure.
 
 
 # Related Expirience
