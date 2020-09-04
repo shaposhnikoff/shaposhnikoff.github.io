@@ -1,5 +1,5 @@
 
-# Max I. Shaposhnikoff 
+# Max I. Shaposhnikov
 
 ### Senior Systems Engineer, 
 ### Build,Release and Configuration Manager
