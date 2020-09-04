@@ -1,7 +1,7 @@
 
 # Max I. Shaposhnikoff 
 
-![avatar](pic/avatar.jpg)
+![](./pic/avatar.jpg =100x20)
 ### Senior Systems Engineer, 
 ### Build,Release and Configuration Manager
 
