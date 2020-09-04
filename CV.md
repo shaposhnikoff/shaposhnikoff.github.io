@@ -66,8 +66,11 @@ Monitoring - Nagios Cacti Munin Observium Zabbix
 
 Self-educated, self-motivated, responsible, sociable, good team player, ability to work under pressure.
 
-
+```
 ---------------------- Related Expirience --------------------------------
+```
+
+
 Grid Dynamics 
 Senior Devops Engineer
 
