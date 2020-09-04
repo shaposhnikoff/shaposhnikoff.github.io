@@ -6,9 +6,10 @@
 
 #### Kiev,Ukraine
 
-* Birth           12.01.1976
-* Phone:          +380688062252
-* telegram        @shaposhnikoff
+* Birth		12.01.1976
+* Phone:		+380688062252
+* telegram		[shaposhnikoff](https://t.me/shaposhnikoff)
+
 
 ### Education
 
