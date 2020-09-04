@@ -1,24 +1,24 @@
 
-Max I. Shaposhnikoff 
+# Max I. Shaposhnikoff 
 
 
-Senior Systems Engineer, 
-Build,Release and Configuration Manager
+###Senior Systems Engineer, 
+###Build,Release and Configuration Manager
 
-Kiev,Ukraine
+######Kiev,Ukraine
 
-Birth           12.01.1976
-Phone:          +380688062252
-telegram        @shaposhnikoff
+* Birth           12.01.1976
+* Phone:          +380688062252
+* telegram        @shaposhnikoff
 
-Education
+###Education
 
-Moscow Technical University of Communication and Informatics (MTUCI) 
+####Moscow Technical University of Communication and Informatics (MTUCI) 
 1992 - 1997
 Software of computers and automation systems
  
 
-Skills and Qualifications
+## Skills and Qualifications
 
 
 I am a qualified specialist with extensive hands-on experience in build  engineering, configuration management, and DevOps practice.
@@ -34,7 +34,7 @@ Being a self-motivated, responsible, and sociable team player, I can use my tech
 Detailed technical knowledge and hands-on experience of Build Engineering, Configuration Management and DevOps Engineering
 
 
---
+ --
 Linux, Docker, Swarm, Kubernetes, Mesos, Consul[-template], Packer, Vagrant, MySQL, Redis, 
 Shell, Ansible, Solr, Artifactory, Nexus, Git, Nginx, Nagios, Zabbix, Hybris, HAProxy, SQL, Apache,
 Logstash, Elasticsearch, Kibana,Fluent-bit/Fluentd, FreeRADIUS, TCP/IP, DNS, SNMP, LDAP, RADIUS, HTTP(S), RESTful, XML, JSON.
@@ -66,9 +66,8 @@ Monitoring - Nagios Cacti Munin Observium Zabbix
 
 Self-educated, self-motivated, responsible, sociable, good team player, ability to work under pressure.
 
-```
+
 ---------------------- Related Expirience --------------------------------
-```
 
 
 Grid Dynamics 
