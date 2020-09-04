@@ -105,11 +105,9 @@ Self-educated, self-motivated, responsible, sociable, good team player, ability 
     * Maintenance of project infrastructure ( CI/CD pipelines ( Jenkins) , Help with creating Dockerfiles, knowledge sharing )
     * Create and maintaince Kubernetes cluster which work as Jenkins slave runner for needs of Development team ( Kubernetes run specific pods , for example with specific version of Node.js and this allow developers to run various environments to getting the best results ). We use Kubernetes cluster for these purposes because we can start and stop pods in cluster very quickly
                                                                                                                                         
-First Ukrainian International Bank 
-
-  Senior Devops Engineer
+### First Ukrainian International Bank 
+#### Senior Devops Engineer
   Apr, 2017 - Dec , 2018
-
 
   * Automated build and deployment process with Gitlab CI, eliminating 80% of manual work
   * Automated deployments for 200+ cloud servers( EC2/ECS) using Ansible ,Terraform and Bash.
@@ -120,9 +118,8 @@ First Ukrainian International Bank
 
 
 
-EPAM Systems 
-
-  Senior Devops Engineer
+### EPAM Systems 
+#### Senior Devops Engineer
   Feb 2014 - Apr 2017 
 
 
@@ -140,8 +137,8 @@ EPAM Systems
   * Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions (Zabbix && Ansible ).
 
 
-
-Senior Devops  Engineer - Special Integral Systems
+### Special Integral Systems
+#### Senior Devops  Engineer 
   Jan 2011 - Jan 2014 
 
   * Build Automation - Create Jenkins automated building internal projects..
@@ -156,10 +153,10 @@ Senior Devops  Engineer - Special Integral Systems
   * PXE kickstarting of CentOS/Ubuntu servers
 
 
-FreeBSD/Voip Engineer - IXC company
+### IXS company 
+#### Chief networking engineer
   January 2009 - January 2011
-  Chief networking officer
-
+ 
 
   * Working with the Engineering team to design, build and maintain scalable systems that support high traffic web services and back-end tools and applications
   * Planning and executing projects to improve production infrastructure
@@ -174,8 +171,8 @@ FreeBSD/Voip Engineer - IXC company
   * Developed a simple High Availability solution for corporate webserver and database server utilizing VRRP.
   * Responsible for all internal and external DNS using BIND9
 
-
-Unix & Voip Engineer - Golden Gate
+### Golden Gate 
+#### Unix & Voip Engineer
   January 2006 - January 2009
 
 
@@ -191,10 +188,10 @@ http://www.zv.ua
   * The daily administration of servers running FreeBSD.
   * Support for network services: firewall, dns, ntp
 
-Ukrtelecom ISP
+### Ukrtelecom ISP
+#### System Administrator
   Jan 2000 -  November 2006
-  System Administrator
-
+  
 
 http://crimea.ukrtelecom.ua 
 
