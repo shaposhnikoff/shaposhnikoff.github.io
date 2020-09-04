@@ -33,35 +33,22 @@ Being a self-motivated, responsible, and sociable team player, I can use my tech
 Detailed technical knowledge and hands-on experience of Build Engineering, Configuration Management and DevOps Engineering
 
 
---
-Linux, Docker, Swarm, Kubernetes, Mesos, Consul[-template], Packer, Vagrant, MySQL, Redis, 
-Shell, Ansible, Solr, Artifactory, Nexus, Git, Nginx, Nagios, Zabbix, Hybris, HAProxy, SQL, Apache,
-Logstash, Elasticsearch, Kibana,Fluent-bit/Fluentd, FreeRADIUS, TCP/IP, DNS, SNMP, LDAP, RADIUS, HTTP(S), RESTful, XML, JSON.
+* Linux, Docker, Swarm, Kubernetes, Mesos, Consul[-template], Packer, Vagrant, MySQL, Redis, 
+	Shell, Ansible, Solr, Artifactory, Nexus, Git, Nginx, Nagios, Zabbix, Hybris, HAProxy, SQL, 	Apache, Logstash, Elasticsearch, Kibana,Fluent-bit/Fluentd, FreeRADIUS, TCP/IP, DNS, SNMP, 	LDAP, RADIUS, HTTP(S), RESTful, XML, JSON.
+* Jenkins - Release build out, environment, deployment, configuration, continuous delivery, 	Gerrit integration
+* Docker - pack Java microservices into a shipping containers , which will be deployed to 	Kubernetes.
+* Kubernetes - Jenkins CI/CD - [ARGO](https://argocd) Ci/CD integrations, include creating 	fully automated build environments, with Amazon( Gitlab/Dockerhub) container service
+	as Docker registry, Kubernetes as Jenkins nodes runner and Spring Boot application Docker 	images hosting.
+* Centralized pods logging , using Elasticsearch/Fluent-bit
+* HELM package creation , to improve deployment speed.
 
---
-Jenkins - Release build out, environment, deployment, configuration, continuous delivery, Gerrit integration
+* Centos, Debian, Ubuntu, CoreOS
+* Virtualization - Docker, KVM, LXC, Libvirt, Vagrant
+* Mirantis OpenStack MCA200
 
---
-Docker - pack Java microservices into a shipping containers , which will be deployed to Kubernetes.
-
---
-Kubernetes - Jenkins CI/CD - ARGO Ci/CD integrations, include creating fully automated build environments, with Amazon( Gitlab/Dockerhub) container service
-as Docker registry, Kubernetes as Jenkins nodes runner and Spring Boot application Docker images hosting.
-Centralized pods logging , using Elasticsearch/Fluent-bit
-HELM package creation , to improve deployment speed.
-
---
-Centos, Debian, Ubuntu, CoreOS
-Virtualization - Docker, KVM, LXC, Libvirt, Vagrant
-Mirantis OpenStack MCA200
-
---
-Backup, automation infrastructure changes with Ansible 
-
---
-Tracking system - Redmine, Jira,Trac
---
-Monitoring - Nagios Cacti Munin Observium Zabbix 
+* Backup, automation infrastructure changes with Ansible 
+* Tracking system - Redmine, Jira,Trac
+* Monitoring - Prometheus ( Nagios Cacti Munin Observium Zabbix 
 --
 Self-educated, self-motivated, responsible, sociable, good team player, ability to work under pressure.
 
