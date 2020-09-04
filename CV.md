@@ -68,7 +68,7 @@ Self-educated, self-motivated, responsible, sociable, good team player, ability 
 
 
 ### Grid Dynamics 
-#### Senior Devops Engineer
+#### Senior Systems Engineer
 
   Dec , 2019 - Now
   Google Cloud Engine - Frontend ( Pantheon project ) - Release engineer                                                                                                  
@@ -106,7 +106,7 @@ Self-educated, self-motivated, responsible, sociable, good team player, ability 
     * Create and maintaince Kubernetes cluster which work as Jenkins slave runner for needs of Development team ( Kubernetes run specific pods , for example with specific version of Node.js and this allow developers to run various environments to getting the best results ). We use Kubernetes cluster for these purposes because we can start and stop pods in cluster very quickly
                                                                                                                                         
 ### First Ukrainian International Bank 
-#### Senior Devops Engineer
+#### Senior Systems Engineer
   Apr, 2017 - Dec , 2018
 
   * Automated build and deployment process with Gitlab CI, eliminating 80% of manual work
@@ -119,7 +119,7 @@ Self-educated, self-motivated, responsible, sociable, good team player, ability 
 
 
 ### EPAM Systems 
-#### Senior Devops Engineer
+#### Senior Systems Engineer
   Feb 2014 - Apr 2017 
 
 
@@ -138,7 +138,7 @@ Self-educated, self-motivated, responsible, sociable, good team player, ability 
 
 
 ### Special Integral Systems
-#### Senior Devops  Engineer 
+#### Senior Systems Engineer 
   Jan 2011 - Jan 2014 
 
   * Build Automation - Create Jenkins automated building internal projects..
