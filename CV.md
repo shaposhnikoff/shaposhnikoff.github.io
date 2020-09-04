@@ -73,38 +73,36 @@ Self-educated, self-motivated, responsible, sociable, good team player, ability 
 ######  Dec , 2019 - Now
 ######  Google Cloud Engine - Frontend ( Pantheon project )
 ######  Release engineer                                                                                                  
-
-
 Main responsibilities on the project 
 
-  * Making sure thats the rapid/pantheon is producing releasable candidates.
+   * Making sure thats the rapid/pantheon is producing releasable candidates.
       If not - tracking down whiy isn't and resolve it.
-    * Be ready to verifing and test releases created by pantheon. 
-    * Assisting oncall SRE with prod if asked.
-    * Be ready to rollout, rollback, and other types of duties by request.
-    * Verifing blessed release and push additional candidates to build.
-    * Keep tracking of the progress on manual tests, resolve it if needed.
-    * Always be release ready.
+   * Be ready to verifing and test releases created by pantheon. 
+   * Assisting oncall SRE with prod if asked.
+   * Be ready to rollout, rollback, and other types of duties by request.
+   * Verifing blessed release and push additional candidates to build.
+   * Keep tracking of the progress on manual tests, resolve it if needed.
+   * Always be release ready.
 
  
 ######  Dec,2018 - Dec 2019 
 ######  IOT && ECS project for one of our customers
 
-  * AWS ( ES2, SNS, SQS, IoT Core, Lambda, S3, Route 53, ACM, WAF, KMS, DynamoDB, ECS Fargate, ECR, Cognito, Codebuild) , Docker, Terraform, Ansible, Azure Devops, Jenkins - pipelines, releases, AWS integration ( Codebuild, Codedeploy)
 
-  Main responsibilities on the project 
+Main responsibilities on the project 
 
-  * Create and maintain full stack of Terraform infrastructure in AVS 
+   * AWS ( ES2, SNS, SQS, IoT Core, Lambda, S3, Route 53, ACM, WAF, KMS, DynamoDB, ECS Fargate, ECR, Cognito, Codebuild) , Docker, Terraform, Ansible, Azure Devops, Jenkins - pipelines, releases, AWS integration ( Codebuild, Codedeploy)
+   * 	Create and maintain full stack of Terraform infrastructure in AVS 
      (creating infrastructure for 
-    * ECS ( Fargate, task definitions and service descriptions )  
-    * ELB ( Application LB, target groups for set of Docker containers)  
-    * ECR ( Automated creation Docker repo from CI/CD pipelines ) 
-    * ACM ( Automated provision of Letsencrypt / Other types of certs ) 
-    * VPC ( Subnets , Nat GW, IGW ) 
-    * Route53, SNS,SQS , Lambda
-    * Hashicorp Packer provision containers  for AWS ( creating custom AMI, upload it to S3, deploy to EC2)
-    * Maintenance of project infrastructure ( CI/CD pipelines ( Jenkins) , Help with creating Dockerfiles, knowledge sharing )
-    * Create and maintaince Kubernetes cluster which work as Jenkins slave runner for needs of Development team ( Kubernetes run specific 		pods , for example with specific version of Node.js and this allow developers to run various environments to getting the best 		results ). We use Kubernetes cluster for these purposes because we can start and stop pods in cluster very quickly
+    	* ECS ( Fargate, task definitions and service descriptions )  
+    	* ELB ( Application LB, target groups for set of Docker containers)  
+    	* ECR ( Automated creation Docker repo from CI/CD pipelines ) 
+    	* ACM ( Automated provision of Letsencrypt / Other types of certs ) 
+    	* VPC ( Subnets , Nat GW, IGW ) 
+    	* Route53, SNS,SQS , Lambda
+    	* Hashicorp Packer provision containers  for AWS ( creating custom AMI, upload it to S3, deploy to EC2)
+    	* Maintenance of project infrastructure ( CI/CD pipelines ( Jenkins) , Help with creating Dockerfiles, knowledge sharing )
+    	* Create and maintaince Kubernetes cluster which work as Jenkins slave runner for needs of Development team ( Kubernetes run specific 			pods , for example with specific version of Node.js and this allow developers to run various environments to getting the best 			results ). We use Kubernetes cluster for these purposes because we can start and stop pods in cluster very quickly
 
 	All this infrastructure are developed to use in separate environments, so, to prepare it to use in dev, or stage, or prod we need to 		change only AWS Network settings ( VPC, SG, Subnets) and we ready to apply this configuration to another account.
 
