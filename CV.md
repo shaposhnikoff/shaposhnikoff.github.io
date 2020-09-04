@@ -72,7 +72,7 @@ Grid Dynamics
 Senior Devops Engineer
 
   Dec , 2019 - Now
-  Google CE ( Pantheon project ) - Release engineer                                                                                                  
+  Google Cloud Engine - Frontend ( Pantheon project ) - Release engineer                                                                                                  
   Main responsibilities on the project 
 
   * Making sure thats the rapid/pantheon is producing releasable candidates.
@@ -105,9 +105,7 @@ Senior Devops Engineer
     * Hashicorp Packer provision containers  for AWS ( creating custom AMI, upload it to S3, deploy to EC2) 
     * Maintenance of project infrastructure ( CI/CD pipelines ( Jenkins) , Help with creating Dockerfiles, knowledge sharing )
     * Create and maintaince Kubernetes cluster which work as Jenkins slave runner for needs of Development team ( Kubernetes run specific pods , for example with specific version of Node.js and this allow developers to run various environments to getting the best results ). We use Kubernetes cluster for these purposes because we can start and stop pods in cluster very quickly
-                                                                                                                                     
-                                                                                                                                     
-                                                                                                                                     
+                                                                                                                                        
 First Ukrainian International Bank 
 
   Senior Devops Engineer
