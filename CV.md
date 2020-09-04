@@ -44,17 +44,23 @@ Detailed technical knowledge and hands-on experience of Build Engineering, Confi
 	* Docker - pack Java microservices into a shipping containers , which will be deployed to
 	Kubernetes.
 	
-	* Kubernetes - Jenkins CI/CD - [ARGO](https://argocd) Ci/CD integrations, include creating fully     
-	automated build environments, with Amazon( Gitlab/Dockerhub) container service
+	* Kubernetes - Jenkins CI/CD - [ARGO](https://argocd) Ci/CD integrations, include creating     	fully automated build environments, with Amazon( Gitlab/Dockerhub) container service
 	as Docker registry, Kubernetes as Jenkins nodes runner and Spring Boot application Docker 	images hosting.
 	
 	* Centralized pods logging , using Elasticsearch/Fluent-bit
+	
 	* HELM package creation , to improve deployment speed.
+	
 	* Centos, Debian, Ubuntu, CoreOS
+	
 	* Virtualization - Docker, KVM, LXC, Libvirt, Vagrant
+	
 	* Mirantis OpenStack MCA200
+	
 	* Backup, automation infrastructure changes with Ansible 
+	
 	* Tracking system - Redmine, Jira,Trac
+	
 	* Monitoring - Prometheus (alertmanager, blackboxexporter. all types of exporters),Nagios, 	Cacti,Munin,Observium,Zabbix
  
 ### Self-educated, self-motivated, responsible, sociable, good team player, ability to work under pressure.
