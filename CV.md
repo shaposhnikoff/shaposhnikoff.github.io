@@ -87,8 +87,8 @@ Main responsibilities on the project
     * Always be release ready.
 
  
-  Dec,2018 - Dec 2019 
-  IOT && ECS project for one of our customers
+######  Dec,2018 - Dec 2019 
+######  IOT && ECS project for one of our customers
 
   * AWS ( ES2, SNS, SQS, IoT Core, Lambda, S3, Route 53, ACM, WAF, KMS, DynamoDB, ECS Fargate, ECR, Cognito, Codebuild) , Docker, Terraform, Ansible, Azure Devops, Jenkins - pipelines, releases, AWS integration ( Codebuild, Codedeploy)
 
