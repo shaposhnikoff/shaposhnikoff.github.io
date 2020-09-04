@@ -70,9 +70,12 @@ Self-educated, self-motivated, responsible, sociable, good team player, ability 
 ### Grid Dynamics 
 #### Senior Systems Engineer
 
-  Dec , 2019 - Now
-  Google Cloud Engine - Frontend ( Pantheon project ) - Release engineer                                                                                                  
-  Main responsibilities on the project 
+######  Dec , 2019 - Now
+######  Google Cloud Engine - Frontend ( Pantheon project )
+######  Release engineer                                                                                                  
+
+
+Main responsibilities on the project 
 
   * Making sure thats the rapid/pantheon is producing releasable candidates.
       If not - tracking down whiy isn't and resolve it.
@@ -84,7 +87,8 @@ Self-educated, self-motivated, responsible, sociable, good team player, ability 
     * Always be release ready.
 
  
-  Dec , 2018 - Dec 2019 IOT && ECS project for one of our customers
+  Dec,2018 - Dec 2019 
+  IOT && ECS project for one of our customers
 
   * AWS ( ES2, SNS, SQS, IoT Core, Lambda, S3, Route 53, ACM, WAF, KMS, DynamoDB, ECS Fargate, ECR, Cognito, Codebuild) , Docker, Terraform, Ansible, Azure Devops, Jenkins - pipelines, releases, AWS integration ( Codebuild, Codedeploy)
 
