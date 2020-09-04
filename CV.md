@@ -34,7 +34,7 @@ Being a self-motivated, responsible, and sociable team player, I can use my tech
 Detailed technical knowledge and hands-on experience of Build Engineering, Configuration Management and DevOps Engineering
 
 
- --
+--
 Linux, Docker, Swarm, Kubernetes, Mesos, Consul[-template], Packer, Vagrant, MySQL, Redis, 
 Shell, Ansible, Solr, Artifactory, Nexus, Git, Nginx, Nagios, Zabbix, Hybris, HAProxy, SQL, Apache,
 Logstash, Elasticsearch, Kibana,Fluent-bit/Fluentd, FreeRADIUS, TCP/IP, DNS, SNMP, LDAP, RADIUS, HTTP(S), RESTful, XML, JSON.
@@ -70,8 +70,8 @@ Self-educated, self-motivated, responsible, sociable, good team player, ability 
 ---------------------- Related Expirience --------------------------------
 
 
-Grid Dynamics 
-Senior Devops Engineer
+### Grid Dynamics 
+#### Senior Devops Engineer
 
   Dec , 2019 - Now
   Google Cloud Engine - Frontend ( Pantheon project ) - Release engineer                                                                                                  
