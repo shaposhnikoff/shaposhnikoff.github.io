@@ -60,9 +60,9 @@ Backup, automation infrastructure changes with Ansible
 
 --
 Tracking system - Redmine, Jira,Trac
+--
 Monitoring - Nagios Cacti Munin Observium Zabbix 
 --
-
 Self-educated, self-motivated, responsible, sociable, good team player, ability to work under pressure.
 
 
