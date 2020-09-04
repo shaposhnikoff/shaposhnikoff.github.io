@@ -44,7 +44,7 @@ Detailed technical knowledge and hands-on experience of Build Engineering, Confi
 	
 * Docker - pack Java microservices into a shipping containers , which will be deployed to Kubernetes.
 	
-* Kubernetes - Jenkins CI/CD - [ARGO](https://argocd) Ci/CD integrations, include creating fully automated build 
+* Kubernetes - Jenkins CI/CD - [ARGO](https://argoproj.github.io/) Ci/CD integrations, include creating fully automated build 
 	environments, with 	Amazon (Gitlab/Dockerhub) container service as Docker registry, Kubernetes as Jenkins nodes 
 	runner and Spring Boot application Docker images hosting.
 	
