@@ -56,7 +56,7 @@ Detailed technical knowledge and hands-on experience of Build Engineering, Confi
 	
 * Virtualization - Docker, KVM, LXC, Libvirt, Vagrant
 	
-* Mirantis OpenStack MCA200
+* [Mirantis OpenStack MCA200](https://training.mirantis.com/verify/certificate/status/jJg3rA0WJsg2IIZ-TyAHLw/200-692-449)
 	
 * Backup, automation infrastructure changes with Ansible 
 	
