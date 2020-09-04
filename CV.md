@@ -7,14 +7,14 @@ Build,Release and Configuration Manager
 
 Kiev,Ukraine
 
-
 Birth           12.01.1976
 Phone:          +380688062252
 telegram        @shaposhnikoff
 
 Education
 
-Moscow Technical University of Communication and Informatics (MTUCI) 1992 - 1997
+Moscow Technical University of Communication and Informatics (MTUCI) 
+1992 - 1997
 Software of computers and automation systems
  
 
@@ -68,7 +68,7 @@ Self-educated, self-motivated, responsible, sociable, good team player, ability 
 
 
 ---------------------- Related Expirience --------------------------------
-Grid Dynamics 
+Grid Dynamics[fdfsdfsdfsd] 
 Senior Devops Engineer
 
   Dec , 2019 - Now
