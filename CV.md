@@ -11,9 +11,9 @@
 * Phone:          +380688062252
 * telegram        @shaposhnikoff
 
-###Education
+### Education
 
-####Moscow Technical University of Communication and Informatics (MTUCI) 
+#### Moscow Technical University of Communication and Informatics (MTUCI) 
 1992 - 1997
 Software of computers and automation systems
  
