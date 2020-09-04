@@ -48,9 +48,14 @@ Detailed technical knowledge and hands-on experience of Build Engineering, Confi
 
 * Backup, automation infrastructure changes with Ansible 
 * Tracking system - Redmine, Jira,Trac
-* Monitoring - Prometheus ( Nagios Cacti Munin Observium Zabbix 
---
-Self-educated, self-motivated, responsible, sociable, good team player, ability to work under pressure.
+* Monitoring - Prometheus ( ) 
+	* Nagios 
+	* Cacti 
+	* Munin 
+	* Observium 
+	* Zabbix
+ 
+### Self-educated, self-motivated, responsible, sociable, good team player, ability to work under pressure.
 
 
 ---------------------- Related Expirience --------------------------------
