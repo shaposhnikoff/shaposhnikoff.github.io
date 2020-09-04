@@ -75,7 +75,7 @@ Senior Devops Engineer
   Google CE ( Pantheon project ) - Release engineer                                                                                                  
   Main responsibilities on the project 
 
-    * Making sure thats the rapid/pantheon is producing releasable candidates.
+  * Making sure thats the rapid/pantheon is producing releasable candidates.
       If not - tracking down whiy isn't and resolve it.
     * Be ready to verifing and test releases created by pantheon. 
     * Assisting oncall SRE with prod if asked.
