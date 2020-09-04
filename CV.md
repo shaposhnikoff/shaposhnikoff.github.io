@@ -110,7 +110,7 @@ All this infrastructure are developed to use in separate environments, so, to pr
                                                                                                                                         
 ### First Ukrainian International Bank 
 #### Senior Systems Engineer
-  Apr, 2017 - Dec , 2018
+######  Apr, 2017 - Dec , 2018
 
   * Automated build and deployment process with Gitlab CI, eliminating 80% of manual work
   * Automated deployments for 200+ cloud servers( EC2/ECS) using Ansible ,Terraform and Bash.
@@ -123,7 +123,7 @@ All this infrastructure are developed to use in separate environments, so, to pr
 
 ### EPAM Systems 
 #### Senior Systems Engineer
-  Feb 2014 - Apr 2017 
+######  Feb 2014 - Apr 2017 
 
 
   * Design and develop continuous deployment pipeline, integrating Test-Kitchen, Docker, Git , Jenkins and Ansible across geographically separated hosting zones in AWS.
@@ -142,7 +142,7 @@ All this infrastructure are developed to use in separate environments, so, to pr
 
 ### Special Integral Systems
 #### Senior Systems Engineer 
-  Jan 2011 - Jan 2014 
+######  Jan 2011 - Jan 2014 
 
   * Build Automation - Create Jenkins automated building internal projects..
   * Continuous Integration of building and testing a software projects continuously, each time new changes are made.
@@ -158,7 +158,7 @@ All this infrastructure are developed to use in separate environments, so, to pr
 
 ### IXS company 
 #### Chief networking engineer
-  January 2009 - January 2011
+######  January 2009 - January 2011
  
 
   * Working with the Engineering team to design, build and maintain scalable systems that support high traffic web services and back-end tools and applications
@@ -176,7 +176,7 @@ All this infrastructure are developed to use in separate environments, so, to pr
 
 ### Golden Gate 
 #### Unix & Voip Engineer
-  January 2006 - January 2009
+######  January 2006 - January 2009
 
 
 http://www.zv.ua
@@ -193,7 +193,7 @@ http://www.zv.ua
 
 ### Ukrtelecom ISP
 #### System Administrator
-  Jan 2000 -  November 2006
+######  Jan 2000 -  November 2006
   
 
 http://crimea.ukrtelecom.ua 
