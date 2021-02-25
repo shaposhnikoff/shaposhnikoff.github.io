@@ -40,6 +40,9 @@ jobs:
           outputFile: shaposhnikov_cv.pdf
           pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
 
+      - name : "Remove index html"
+        run: rm index.html
+
       - name: setup git config
         run: |
           git config user.name shaposhnikoff
