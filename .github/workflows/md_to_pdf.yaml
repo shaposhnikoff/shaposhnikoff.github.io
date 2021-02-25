@@ -1,0 +1,50 @@
+name: Update BM digital contacts for Anytone 878
+
+on:
+  schedule:
+      - cron: '0 22 * * *'
+  push:
+    branches: [ test1 ]
+  pull_request:
+    branches: [ test1 ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Setup Python Environment
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+
+#      - name: Install Requirements
+ #       run: pip3 install -r requirements.txt
+
+          
+#      - name: 'Get pandoc'
+#        run:  sudo apt-get install pandoc
+    
+#      - name: 'Get My TODO List'
+#        run:  pandoc ./cv.md > index.html
+  
+      - name: html to pdf
+        uses: fifsky/html-to-pdf-action@master
+        with:
+          htmlFile: index.html
+          outputFile: resume.pdf
+          pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+
+      - name: setup git config
+        run: |
+          git config user.name ${{ secrets.USERNAME }}
+          git config user.email ${{ secrets.EMAIL }}
+
+      - name: commit changes
+        run: |
+          chmod +x ./acommit.sh
+          ./acommit.sh
+          
