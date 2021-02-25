@@ -25,11 +25,11 @@ jobs:
  #       run: pip3 install -r requirements.txt
 
           
-#      - name: 'Get pandoc'
-#        run:  sudo apt-get install pandoc
+      - name: 'Get pandoc'
+        run:  sudo apt-get install pandoc
     
-#      - name: 'Get My TODO List'
-#        run:  pandoc ./cv.md > index.html
+      - name: 'Get My TODO List'
+        run:  pandoc ./cv.md > index.html
   
       - name: html to pdf
         uses: fifsky/html-to-pdf-action@master
@@ -40,11 +40,11 @@ jobs:
 
       - name: setup git config
         run: |
-          git config user.name ${{ secrets.USERNAME }}
-          git config user.email ${{ secrets.EMAIL }}
+          git config user.name shaposhnikoff
+          git config user.email max@shaposhnikoff.info
 
       - name: commit changes
         run: |
-          chmod +x ./acommit.sh
-          ./acommit.sh
+          chmod +x ./commit.sh
+          ./commit.sh
           
