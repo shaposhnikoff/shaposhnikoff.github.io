@@ -4,7 +4,9 @@ on:
   schedule:
       - cron: '0 22 * * *'
   push:
+    branches: [ master ]
     branches: [ test1 ]
+    branches: [ test ]    
   pull_request:
     branches: [ test1 ]
 
