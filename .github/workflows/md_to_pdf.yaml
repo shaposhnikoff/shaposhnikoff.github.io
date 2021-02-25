@@ -1,4 +1,4 @@
-name: Update BM digital contacts for Anytone 878
+name: Update CV from MD to PDF 
 
 on:
   schedule:
