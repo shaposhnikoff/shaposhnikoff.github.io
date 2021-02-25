@@ -16,6 +16,9 @@
 * Amateur radio callsign [UT3UDX](https://www.qrz.com/db/UT3UDX)
 
 
+
+Link to this CV in [PDF](shaposhnikov_cv.pdf) 
+
 ## Education
 
 ### Moscow Technical University of Communication and Informatics (MTUCI) 
