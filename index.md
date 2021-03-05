@@ -1,5 +1,5 @@
 
-# Max I. Shaposhnikov
+# Maksym I. Shaposhnikov
 
 ### Senior Systems Engineer, 
 ### Build,Release and Configuration Manager
@@ -9,7 +9,7 @@
 
 * Birth		12.01.1976
 * Phone:		+380688062252
-* email     [Max I. Shaposhnikov](mailto:shaposhnikoff@gmail.com?subject=[GitHub]%20CV) 
+* email     [Maksym I. Shaposhnikov](mailto:shaposhnikoff@gmail.com?subject=[GitHub]%20CV) 
 * telegram		[shaposhnikoff](https://t.me/shaposhnikoff)
 * Amateur radio callsign [UT3UDX](https://www.qrz.com/db/UT3UDX)
 
