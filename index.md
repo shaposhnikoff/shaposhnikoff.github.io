@@ -78,35 +78,7 @@ Detailed technical knowledge and hands-on experience of Build Engineering, Confi
 
 ### Grid Dynamics 
 #### Senior Systems Engineer
-
-######  Dec , 2019 - Now
-######  Google Cloud Engine - Frontend ( Pantheon project )
-######  Release engineer                                                                                                  
-Main responsibilities on the project 
-
-   * Main responsibilities ( operational part )  on the project
-   * Making sure that's the rapid/pantheon is producing releasable candidates. 
-   * Triage and resolve release issues
-   * Develop, vetirify, test and automate Pantheon releases
-   * Oncall prod SRE
-   * Rollout, rollback of releases and other release engineering duties 
-   * Verifying blessed release and push additional candidates to build
-   * Keep tracking of the progress on manual tests, resolve it if needed
-   * Always be release ready
-
-Development part of activities on the project  
-
-   * Develop release automation code
-   * Code reviews of team members work
-   * Work with the SRE  and development team to design and develop scripts to operate Deployment process
-   * Review and provide feedback on technical details of developers team
-   * Assist Principal Engineers  with project scope
-   * Provide maintenance of Application Lifecycle Management ( full scope of tasks, starting from developing  custom scripts which monitor count of open bugs and issues and ending develop  scripts to send custom notifications to developers, which bugs are expired and block project release processing ) 
-
-
-
- 
-######  Dec,2018 - Dec 2019 
+######  Dec,2018 - Now
 ######  IOT && ECS project for Jabil company
 
 
