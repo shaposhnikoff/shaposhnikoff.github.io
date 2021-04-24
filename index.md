@@ -6,12 +6,7 @@
 
 #### Kiev, Ukraine
 
-
-* Birth		12.01.1976
-* Phone:		+380688062252
-* email     [Maksym I. Shaposhnikov](mailto:shaposhnikoff@gmail.com?subject=[GitHub]%20CV) 
 * telegram		[shaposhnikoff](https://t.me/shaposhnikoff)
-* Amateur radio callsign [UT3UDX](https://www.qrz.com/db/UT3UDX)
 
 
 
