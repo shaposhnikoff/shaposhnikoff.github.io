@@ -73,7 +73,7 @@ Detailed technical knowledge and hands-on experience of Build Engineering, Confi
 ### Grid Dynamics 
 #### Senior Systems Engineer
 
-###### Current Project - Real time internet bidding
+###### Current Project - Real time ADS internet bidding
 
 Main responsibilities on the project 
    
