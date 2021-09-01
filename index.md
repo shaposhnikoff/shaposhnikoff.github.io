@@ -12,7 +12,7 @@
 
 Link to this CV in [PDF](shaposhnikov_cv.pdf) 
 
-## Education
+## EDUCATION
 
 ### Moscow Technical University of Communication and Informatics (MTUCI) 
 
@@ -21,8 +21,7 @@ Link to this CV in [PDF](shaposhnikov_cv.pdf)
 Software of computers and automation systems
  
 
-## Skills and Qualifications
-
+## RESUME SUMMARY
 
 I am a qualified specialist with extensive hands-on experience in build engineering, configuration management, and DevOps practice.
 
@@ -66,11 +65,36 @@ Detailed technical knowledge and hands-on experience of Build Engineering, Confi
 ### Self-educated, self-motivated, responsible, sociable, good team player, ability to work under pressure.
 
 
-# Related Experience
+# WORK Experience
+
+
 
 
 ### Grid Dynamics 
 #### Senior Systems Engineer
+
+###### Current Project - Real time internet bidding
+
+Main responsibilities on the project 
+   
+   *  Create and maintain fully automated CI/CD pipelines for code deployment using Jetbrains Teamcity, Youtrack, Hub and 
+      also Build agent for it using Helm and Terraform for infrastructure provisioning.
+
+   *  Create and maintain Terraform infrastructure for all king of Kubernetes clusters used in project - include ASG, 
+      Spot instances, Logging and alarming ( Prom/Alertm/Graf/Blackb/Nodeexp)
+
+   *  Actively manage, improve, and monitor cloud infrastructure on AWS, EC2, S3, including backups, patches, and scaling
+
+   *  Reduced costs by ~$3,000 each month by eliminating unnecessary servers and consolidating databases
+
+   *  Built and deployed Docker containers to break up monolithic app into microservices.
+
+   *  Improving developer workflow, increasing scalability, and optimizing speed.
+
+
+
+   
+
 ######  Dec,2018 - Now
 ######  IOT && ECS project for Jabil company
 
