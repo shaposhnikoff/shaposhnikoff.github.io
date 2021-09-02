@@ -82,6 +82,8 @@ Main responsibilities on the project
 
    *  Create and maintain Terraform infrastructure for all king of Kubernetes clusters used in project - include ASG, 
       Spot instances, Logging and alarming ( Prom/Alertm/Graf/Blackb/Nodeexp)
+   
+   *  Centralised Logging system for K8S using Loki/Grafana/fluent-bit
 
    *  Actively manage, improve, and monitor cloud infrastructure on AWS, EC2, S3, including backups, patches, and scaling
 
