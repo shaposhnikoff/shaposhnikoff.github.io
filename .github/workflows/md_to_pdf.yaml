@@ -2,7 +2,7 @@ name: Update CV from MD to PDF
 
 on:
   schedule:
-      - cron: '0 17 * * *'
+      - cron: '0 22 * * *'
   push:
     branches: 
       - '*' 
@@ -22,11 +22,6 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.7
-
-
-#      - name: Install Requirements
- #       run: pip3 install -r requirements.txt
-
           
       - name: 'Get pandoc'
         run:  sudo apt-get install pandoc
