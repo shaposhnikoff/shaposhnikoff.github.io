@@ -70,7 +70,7 @@ Detailed technical knowledge and hands-on experience of Build Engineering, Confi
 
 
 
-### Grid Dynamics 
+### Zoolatec 
 #### Senior Systems Engineer
 
 ###### Current Project - Real time internet bidding platform
@@ -93,9 +93,6 @@ Main responsibilities on the project
 
    *  Improving developer workflow, increasing scalability, and optimizing speed.
 
-
-
-   
 
 ######  Dec,2018 - Now
 ######  IOT && ECS project for Jabil company
