@@ -10,7 +10,7 @@
 
 
 
-Link to this CV in [PDF](shaposhnikov_cv.pdf) 
+Link to this CV in [PDF](dist/cv.pdf) 
 
 ## EDUCATION
 
