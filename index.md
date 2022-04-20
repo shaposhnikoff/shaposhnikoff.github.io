@@ -231,14 +231,12 @@ programming IOT, ESP32 / ESP8266, creating custom firmware for these boards (bas
 Making software support of monitoring / checking / load balancing internal infrastructure to perform best practices of IoT. 
 
 
-I also have a HAM radio license in Ukraine - call sing UT3UDX
+I also have a HAM radio license in Ukraine 
 and have a technician expertise in:
 
 * DMR
 * Hot Spots
-* Duplexers
 * SVXLink
-* Repeater Builds
 
 and I also maintain the free repo of Brandmeister Digital contacts in CSV format.
 
