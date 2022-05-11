@@ -73,29 +73,28 @@ Detailed technical knowledge and hands-on experience of Build Engineering, Confi
 ### Zoolatec 
 #### Senior Systems Engineer
 
-###### Current Project - Real time internet bidding platform
+###### Current Project - ECS cluster management, Jenkins/Docker/Terraform maintenance
+###### Jan,2020 - Now
 
 Main responsibilities on the project 
    
-   *  Create and maintain fully automated CI/CD pipelines for code deployment using Jetbrains Teamcity, Youtrack, Hub and 
-      also Build agent for it using Helm and Terraform for infrastructure provisioning.
+   *  Create and maintain fully automated CI/CD pipelines for code deployment using Jenkins/Terraform/Ansible/Docker 
+   *  Prepare and maintain EC2 Fleet cloud instances , which launches EC2 Spot or On Demand instances as worker nodes 
+   	for Jenkins CI server, automatically scaling the capacity with the load.
 
-   *  Create and maintain Terraform infrastructure for all king of Kubernetes clusters used in project - include ASG, 
-      Spot instances, Logging and alarming ( Prom/Alertm/Graf/Blackb/Nodeexp)
+   *  Create and maintain Terraform infrastructure for all ECS/ECR/Lambda/ALB types of AWS infrastructure of a project
    
-   *  Centralised Logging system for K8S using Loki/Grafana/fluent-bit
-
-   *  Actively manage, improve, and monitor cloud infrastructure on AWS, EC2, S3, including backups, patches, and scaling
+   *  Centralised Monitirong system ( migrated is about 8000 nodes from NewRelic to Datadog  ) 
 
    *  Reduced costs by ~$3,000 each month by eliminating unnecessary servers and consolidating databases
-
-   *  Built and deployed Docker containers to break up monolithic app into microservices.
-
+   
    *  Improving developer workflow, increasing scalability, and optimizing speed.
+   
+   *  Miscellaneous Docker/Ansible/Python work
 
 
-######  Dec,2018 - Now
-######  IOT && ECS project for Jabil company
+######  Dec,2018 - Jan,2020
+######  IOT && ECS project for ***** company
 
 
 Main responsibilities on the project 
