@@ -151,66 +151,22 @@ Used technologies - Python :)
 ### Special Integral Systems
 #### Senior Systems Engineer 
 ######  Jan 2011 - Jan 2014 
-
-  * Build Automation - Create Jenkins automated building internal projects.
-  * Continuous Integration of building and testing a software projects continuously, each time new changes are made.
-  * Continuous Testing - running Unit tests on build applications on previous step.
-  * Continuous Delivery - running (creating) containers ( Docker/Vagrant) and running applications inside it for developers proposes. 
-    All delivery steps automated with Ansible/Chef recipes.
-  * Continuous Monitoring - monitoring created Vms automatically with Zabbix agent orchestration via Ansible.
-  * Server configuration management via Ansible/Chef
-  * Advanced OpenVPN deployment (ipv6 include )
-  * Capacity planning, Bottleneck identification
-  * PXE kickstarting of CentOS/Ubuntu servers
-
+...
 
 ### IXC company 
 #### Chief networking engineer
 ######  January 2009 - January 2011
- 
-
-  * Working with the Engineering team to design, build and maintain scalable systems that support high traffic web services and back-end tools and applications.
-  * Planning and executing projects to improve production infrastructure.
-  * Performing and automating production deployments.
-  * Create continuous integration build server (night build's) with Jenkins 	server 
-  * Wrote design specifications and performed Quality Assurance testing on prototype hardware.
-  * Specified desktop and network hardware for the development team; proposed initial network designs.
-  * Researched network and database security requirements for WAN and LAN; outlined office and test lab environments.
-  * Setup and support developers’ environment, installation, and configuration IXCSoftswitch for VOIP providers, database tuning.
-  * Setup High-Availability Storage with GlusterFS On Ubuntu 10.04
-  * SVN, mail, web, VPN servers support.
-  * Developed a simple High Availability solution for corporate webserver and database server utilizing VRRP.
-  * Responsible for all internal and external DNS using BIND9.
+...
 
 ### Golden Gate 
 #### Unix & VoIP Engineer
 ######  January 2006 - January 2009
-
-
-http://www.zv.ua
-
-  * Admin of corporate communications corporation "Golden Gate"
-  * Implementation and fine tuning of corporate VOIP/TDM network based on Asterisk (FreeBSD)
-  * Organization and implementation of corporate telephone network based on Asterisk (FreeBSD)
-  * Expand corporate VOIP infrastructure to add remote subsidiaries in the following cities: Vinnitsa, Sevastopol, Simferopol, Kharkov, Uzhgorod
-  * Integrate Panasonic PBX with Asterisk using H.323 protocol stack.
-  * Integrate Asterisk PBX with TDM using a common interface cards FXO FXS ISDN PRI
-  * Writing routing logic PBX Asterisk, IVR, voice mail support.
-  * The daily administration of servers running FreeBSD.
-  * Support for network services: firewall, dns, ntp
+...
 
 ### Ukrtelecom ISP
 #### System Administrator
 ######  Jan 2000 -  November 2006
-  
-
-http://crimea.ukrtelecom.ua 
-
-  * Engineered, implemented, and administrated network WAN/LAN. Provided technical support for Cisco and software routers OS FreeBSD (zebra).
-  * Presales engineering of customers networks for the purpose of discovering.
-  * Configured and administrated servers with SMTP, DNS, HTTP, RADIUS, VPN, PPPoE, PPtP, DHCP. Programming Shell, a little PHP.
-
-
+...
 
 ## Other
 
