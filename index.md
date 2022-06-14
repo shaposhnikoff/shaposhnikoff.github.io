@@ -94,7 +94,7 @@ Main responsibilities on the project
    
    *  Miscellaneous Docker/Ansible/Python work
 
-![alt text](pic/gd_logo.jpeg)
+![alt text](pic/gd_logo.jpg)
 
 ### Grid Dynamics
 #### Senior Systems Engineer
@@ -128,7 +128,7 @@ I'm also spended a 6 month as a contractor in Google (Seattle), works as Release
 Used technologies - Python :)
 
 
-![alt text](pic/epam_logo.jpeg) 
+![alt text](pic/epam_logo.jpg) 
 ### EPAM Systems 
 #### Senior Systems Engineer
 ######  Feb 2014 - Apr 2017 
