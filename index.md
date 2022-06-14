@@ -70,11 +70,13 @@ Detailed technical knowledge and hands-on experience of Build Engineering, Confi
 
 
 
+
+![alt text](pic/zt_logo.jpg) 
 ### Zoolatec 
 #### Senior Systems Engineer
 
 ###### Current Project - ECS cluster management, Jenkins/Docker/Terraform maintenance
-###### Jan,2020 - Now
+###### Dec,2020 - Now
 
 Main responsibilities on the project 
    
@@ -93,8 +95,10 @@ Main responsibilities on the project
    *  Miscellaneous Docker/Ansible/Python work
 
 
-######  Dec,2018 - Jan,2020
-######  IOT && ECS project for ***** company
+### Grid Dynamics
+#### Senior Systems Engineer
+######  Dec,2017 -Dec,2020
+######  IOT && ECS project for NDA company
 
 
 Main responsibilities on the project 
@@ -111,21 +115,16 @@ Main responsibilities on the project
    * Maintenance of project infrastructure (CI/CD pipelines (Jenkins), Help with creating Dockerfiles, knowledge sharing)
    * Create and maintain Kubernetes cluster that work as Jenkins slave runner for needs of Development team (Kubernetes run specific pods, for example with specific version of Node.js and this allows developers to run various environments to getting the best results). We use Kubernetes cluster for these purposes because we can start and stop pods in cluster very quickly.
 
+   * Automated build and deployment process with Gitlab CI, eliminating 80% of manual work.
+   * Automated deployments for 200+ cloud servers (EC2/ECS) using Ansible, Terraform and Bash.
+   * Applying configuration changes using Ansible, AWS, Terraform, Packer, etc.
+   * Maintenance of K8S cluster, creating HELM charts for Jenkins deployed microservices via Jenkins jobs, configuration, and patch management.
+
 All this infrastructure are developed to use in separate environments, so, to prepare it to use in dev, or stage, or prod we need to change only AWS Network settings (VPC, SG, Subnets) and we ready to apply this configuration to another account.
 
 
-                                                                                                                                        
-### First Ukrainian International Bank 
-#### Senior Systems Engineer
-######  Apr, 2017 - Dec , 2018
-
-  * Automated build and deployment process with Gitlab CI, eliminating 80% of manual work.
-  * Automated deployments for 200+ cloud servers (EC2/ECS) using Ansible, Terraform and Bash.
-  * Corezoid digital core (c) @corezoid.com maintenance, scaling, deployment, support, monitoring and configuration management.
-  * Applying configuration changes using Ansible, AWS, Terraform, Packer, etc.
-  * Maintenance of K8S cluster, creating HELM charts for Jenkins deployed microservices via Jenkins jobs, configuration, and patch management.
-
-
+I'm also spended a 6 month as a contractor in Google (Seattle), works as Release Engineer in a Google Cloud Frontend Team.
+Used technologies - Python :)
 
 
 ### EPAM Systems 
