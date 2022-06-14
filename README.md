@@ -2,7 +2,6 @@
 <h1> Maksim I. Shaposhnikov </h1>
 
 <h5>Kiev,Ukraine</h5> 
-<h5>+380688062252</h5>
 
 telegram  [shaposhnikoff](https://t.me/shaposhnikoff)
 
