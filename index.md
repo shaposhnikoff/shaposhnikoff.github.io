@@ -128,24 +128,7 @@ Used technologies - Python :)
   * Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions (Zabbix && Ansible).
 
 
-### Special Integral Systems
-#### Senior Systems Engineer 
-######  Jan 2011 - Jan 2014 
-...
 
-### IXC company 
-#### Chief networking engineer
-######  January 2009 - January 2011
-...
-
-### Golden Gate 
-#### Unix & VoIP Engineer
-######  January 2006 - January 2009
-...
-
-### Ukrtelecom ISP
-#### System Administrator
-######  Jan 2000 -  November 2006
 ...
 
 ## Other
