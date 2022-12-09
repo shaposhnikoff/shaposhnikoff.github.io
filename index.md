@@ -60,10 +60,6 @@ Apache, Logstash, Elasticsearch, Kibana, Fluent-bit/Fluentd, FreeRADIUS, TCP/IP,
 # WORK Experience
 
 
-
-
-
-![alt text](pic/zt_logo.jpg) 
 ### Zoolatec 
 #### Senior Systems Engineer
 
@@ -86,7 +82,6 @@ Main responsibilities on the project
    
    *  Miscellaneous Docker/Ansible/Python work
 
-![alt text](pic/gd_logo.jpg)
 
 ### Grid Dynamics
 #### Senior Systems Engineer
@@ -120,7 +115,6 @@ I'm also spended a 6 month as a contractor in Google (Seattle), works as Release
 Used technologies - Python :)
 
 
-![alt text](pic/epam_logo.jpg) 
 ### EPAM Systems 
 #### Senior Systems Engineer
 ######  Feb 2014 - Apr 2017 
