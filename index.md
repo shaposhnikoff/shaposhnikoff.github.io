@@ -3,14 +3,12 @@
 
 ### Senior Systems Engineer, 
 ### Build, Release and Configuration Manager
+### CI/CD | AWS | Ansible | Terraform | Python | Docker | Jenkins | Kubernetes
 
 #### Kiev, Ukraine
 
 * telegram		[shaposhnikoff](https://t.me/shaposhnikoff)
 
-
-
-Link to this CV in [PDF](dist/cv.pdf) 
 
 ## EDUCATION
 
@@ -25,6 +23,11 @@ Software of computers and automation systems
 
 I am a qualified specialist with extensive hands-on experience in build engineering, configuration management, and DevOps practice.
 
+Linux guy first and foremost. Experience in centralized config management, cloud and some on-premise infrastructure, CI/CD. 
+Always aiming for zero downtime and those lovely smooth deployments.
+Experience in centralized config management, cloud and some on-premise infrastructure, CI/CD. 
+Always aiming for zero downtime and those lovely smooth deployments.
+
 My key expertise includes design and implementation of continuous integration, delivery, and deployment using Jenkins, Gitlab CI/CD, Argo CD/CD, Git, Docker, Vagrant, Ansible, and AWS/EC2.
 
 I also have considerable skills in automating deployments of Java applications with Tomcat, and AWS, as well as almost 20 years of experience in UNIX/Linux and Middleware/Application Server administration.
@@ -34,9 +37,8 @@ Being a self-motivated, responsible, and sociable team player, I can use my tech
 Detailed technical knowledge and hands-on experience of Build Engineering, Configuration Management and DevOps Engineering.
 
 
-* Linux, Docker, Swarm, Kubernetes, Mesos, Consul[-template], Packer, Vagrant, MySQL, Redis, Shell, Ansible, Solr, 
-	Artifactory, Nexus, Git, Nginx, Nagios, Zabbix, Hybris, HAProxy, SQL, Apache, Logstash, Elasticsearch, Kibana, 
-	Fluent-bit/Fluentd, FreeRADIUS, TCP/IP, DNS, SNMP, LDAP, RADIUS, HTTP(S), RESTful, XML, JSON.
+* Linux, Docker, Kubernetes, Packer, Vagrant, MySQL, Redis, Shell, Ansible, Artifactory, Nexus, Git, Nginx, Zabbix, Prometheus, HAProxy, SQL, 
+Apache, Logstash, Elasticsearch, Kibana, Fluent-bit/Fluentd, FreeRADIUS, TCP/IP, DNS, SNMP, LDAP, RADIUS, HTTP(S), RESTful, XML, JSON.
 	
 * Jenkins - Release build out, environment, deployment, configuration, continuous delivery, Gerrit integration.
 	
@@ -49,16 +51,6 @@ Detailed technical knowledge and hands-on experience of Build Engineering, Confi
 * Centralized pods logging, using Elasticsearch/Fluent-bit
 	
 * Helm package creation, to improve deployment speed.
-	
-* Centos, Debian, Ubuntu, CoreOS
-	
-* Virtualization - Docker, KVM, LXC, Libvirt, Vagrant
-	
-* [Mirantis OpenStack MCA200](https://training.mirantis.com/verify/certificate/status/jJg3rA0WJsg2IIZ-TyAHLw/200-692-449)
-	
-* Backup, automation infrastructure changes with Ansible 
-	
-* Tracking system - Redmine, Jira, Trac
 	
 * Monitoring - Prometheus (alertmanager, blackboxexporter, other types of exporters), Nagios, Zabbix
  
