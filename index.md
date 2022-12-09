@@ -30,12 +30,6 @@ Always aiming for zero downtime and those lovely smooth deployments.
 
 My key expertise includes design and implementation of continuous integration, delivery, and deployment using Jenkins, Gitlab CI/CD, Argo CD/CD, Git, Docker, Vagrant, Ansible, and AWS/EC2.
 
-I also have considerable skills in automating deployments of Java applications with Tomcat, and AWS, as well as almost 20 years of experience in UNIX/Linux and Middleware/Application Server administration.
-
-Being a self-motivated, responsible, and sociable team player, I can use my technical expertise to implement quality solutions and bring added value.
-
-Detailed technical knowledge and hands-on experience of Build Engineering, Configuration Management and DevOps Engineering.
-
 
 * Linux, Docker, Kubernetes, Packer, Vagrant, MySQL, Redis, Shell, Ansible, Artifactory, Nexus, Git, Nginx, Zabbix, Prometheus, HAProxy, SQL, 
 Apache, Logstash, Elasticsearch, Kibana, Fluent-bit/Fluentd, FreeRADIUS, TCP/IP, DNS, SNMP, LDAP, RADIUS, HTTP(S), RESTful, XML, JSON.
