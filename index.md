@@ -53,6 +53,9 @@ Main responsibilities on the project
    *  Create and maintain fully automated CI/CD pipelines for code deployment using Jenkins/Terraform/Ansible/Docker 
    *  Prepare and maintain EC2 Fleet cloud instances , which launches EC2 Spot or On Demand instances as worker nodes 
    	for Jenkins CI server, automatically scaling the capacity with the load.
+   *  Create and applied completely from scratch an assembly of AMI images - x86 and Graviton (arm64) automatic deployment (updating AMI images)
+      for more than 30 clusters ECS - python and boto3
+       
    *  Create and maintain Terraform infrastructure for all ECS/ECR/Lambda/ALB types of AWS infrastructure of a project
    *  Centralised Monitirong system ( migrated is about 8000 nodes from NewRelic to Datadog  ) 
    *  Reduced costs by ~$3,000 each month by eliminating unnecessary servers and consolidating databases
