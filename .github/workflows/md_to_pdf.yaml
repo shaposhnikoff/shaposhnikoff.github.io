@@ -28,7 +28,22 @@ jobs:
     
       - name: 'Get My TODO List'
         run:  pandoc ./index.md > index.html
-  
+
+      - uses: actions/checkout@v2
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
+      - name: Convert Markdown to PDF
+        run: pandoc index.md -o README_MD.pdf
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: index
+          path: README_MD.pdf
+        
+
 #      - name: html to pdf
 #        uses: fifsky/html-to-pdf-action@master
 #        with:
