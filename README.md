@@ -11,11 +11,6 @@ Innovative Senior DevOps Engineer with a strong Linux background and 15+ years o
 experience designing, implementing, and managing cutting-edge deployment automation 
 of cloud resources.
 
-<h1>Education</h1>
-Moscow Technical University of Communication and Informatics (MTUCI) 1992 - 1997
-
-Software of computers and automation systems
-
 <h1>Experience</h1>
 
 Qualified specialist with extensive hands-on experience in build engineering, configuration management, and DevOps engineering.
