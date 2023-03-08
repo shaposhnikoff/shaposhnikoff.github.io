@@ -7,11 +7,6 @@
 
 * telegram		[shaposhnikoff](https://t.me/shaposhnikoff)
 
-
-### EDUCATION
-#### Moscow Technical University of Communication and Informatics (MTUCI) 
-1992 - 1997
-Software of computers and automation systems
  
 
 ## RESUME SUMMARY
