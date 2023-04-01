@@ -16,13 +16,13 @@ DevOps Engineer with experience in designing, implementing and maintaining cloud
 My key expertise includes design and implementation of continuous integration, delivery, and deployment using Jenkins, Gitlab CI/CD, Argo CD/CD, Git, Docker, Vagrant, Ansible, and AWS/EC2.
 
 
- • Strong understanding of DevOps principles and methodologies.
- • Strong experience with Python
- • Proficiency in cloud infrastructure management using AWS.
- • Experience in configuration management using Ansible,Terraform.
- • Working knowledge of Kubernetes and Docker containerization.
- • Expertise in Continuous Integration/Deployment (CI/CD) using Jenkins and ARGO CI.
- • Familiarity with scripting languages such as Python, Bash.
+ - Strong understanding of DevOps principles and methodologies.
+ - Strong experience with Python
+ - Proficiency in cloud infrastructure management using AWS.
+ - Experience in configuration management using Ansible,Terraform.
+ - Working knowledge of Kubernetes and Docker containerization.
+ - Expertise in Continuous Integration/Deployment (CI/CD) using Jenkins and ARGO CI.
+ - Familiarity with scripting languages such as Python, Bash.
  
 # WORK Experience
 
