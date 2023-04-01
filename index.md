@@ -11,32 +11,18 @@
 
 ## RESUME SUMMARY
 
-I am a qualified specialist with extensive hands-on experience in build engineering, configuration management, and DevOps practice.
-
-Linux guy first and foremost. Experience in centralized config management, cloud and some on-premise infrastructure, CI/CD. 
-Always aiming for zero downtime and those lovely smooth deployments.
-Experience in centralized config management, cloud and some on-premise infrastructure, CI/CD. 
-Always aiming for zero downtime and those lovely smooth deployments.
+DevOps Engineer with experience in designing, implementing and maintaining cloud infrastructure on AWS. Strong experience with Python, Bash scripting, automation tools like Ansible and Terraform.
 
 My key expertise includes design and implementation of continuous integration, delivery, and deployment using Jenkins, Gitlab CI/CD, Argo CD/CD, Git, Docker, Vagrant, Ansible, and AWS/EC2.
 
 
-* Linux, Docker, Kubernetes, Packer, Vagrant, MySQL, Redis, Shell, Ansible, Artifactory, Nexus, Git, Nginx, Zabbix, Prometheus, HAProxy, SQL, 
-Apache, Logstash, Elasticsearch, Kibana, Fluent-bit/Fluentd, FreeRADIUS, TCP/IP, DNS, SNMP, LDAP, RADIUS, HTTP(S), RESTful, XML, JSON.
-	
-* Jenkins - Release build out, environment, deployment, configuration, continuous delivery, Gerrit integration.
-	
-* Docker - pack Java microservices into a shipping containers, which will be deployed to Kubernetes.
-	
-* Kubernetes - Jenkins CI/CD - [ARGO](https://argoproj.github.io/) CI/CD integrations, include creating fully automated build. 
-	environments, with 	Amazon (Gitlab/Dockerhub) container service as Docker registry, Kubernetes as Jenkins nodes 
-	runner and Spring Boot application Docker images hosting.
-	
-* Centralized pods logging, using Elasticsearch/Fluent-bit
-	
-* Helm package creation, to improve deployment speed.
-	
-* Monitoring - Prometheus (alertmanager, blackboxexporter, other types of exporters), Nagios, Zabbix
+ • Strong understanding of DevOps principles and methodologies.
+ • Strong experience with Python
+ • Proficiency in cloud infrastructure management using AWS.
+ • Experience in configuration management using Ansible,Terraform.
+ • Working knowledge of Kubernetes and Docker containerization.
+ • Expertise in Continuous Integration/Deployment (CI/CD) using Jenkins and ARGO CI.
+ • Familiarity with scripting languages such as Python, Bash.
  
 # WORK Experience
 
@@ -45,18 +31,10 @@ Apache, Logstash, Elasticsearch, Kibana, Fluent-bit/Fluentd, FreeRADIUS, TCP/IP,
 
 Main responsibilities on the project 
    
-   *  Create and maintain fully automated CI/CD pipelines for code deployment using Jenkins/Terraform/Ansible/Docker 
-   *  Prepare and maintain EC2 Fleet cloud instances , which launches EC2 Spot or On Demand instances as worker nodes 
-   	for Jenkins CI server, automatically scaling the capacity with the load.
-   *  Create and applied completely from scratch an assembly of AMI images - x86 and Graviton (arm64) automatic deployment (updating AMI images)
-      for more than 30 clusters ECS - python and boto3
-       
-   *  Create and maintain Terraform infrastructure for all ECS/ECR/Lambda/ALB types of AWS infrastructure of a project
-   *  Centralised Monitirong system ( migrated is about 8000 nodes from NewRelic to Datadog  ) 
-   *  Reduced costs by ~$3,000 each month by eliminating unnecessary servers and consolidating databases
-   *  Improving developer workflow, increasing scalability, and optimizing speed.
-   *  Miscellaneous Docker/Ansible/Python work
-
+ - Implemented Ansible and Terraform scripts to automate system deployments resulting in an increase in infrastructure efficiency by 50%.
+ - Designed and implemented a cloud infrastructure on AWS to support the company's product suite.
+ - Developed and maintained Python tools to interact with the cloud infrastructure and automate deployment processes.
+ - Managed and maintained Continuous Integration and Deployment pipelines using Jenkins.
 
 ### Grid Dynamics - Senior Systems Engineer
 ######  Dec,2017 - Dec,2020
@@ -64,25 +42,10 @@ Main responsibilities on the project
 
 Main responsibilities on the project 
 
-   * AWS (EC2, SNS, SQS, IoT Core, Lambda, S3, Route 53, ACM, WAF, KMS, DynamoDB, ECS Fargate, ECR, Cognito, CodeBuild), Docker, Terraform, Ansible, Azure Devops, Jenkins - pipelines, releases, AWS integration (CodeBuild, CodeDeploy)
-   * Create and maintain full stack of Terraform infrastructure in AWS - creating infrastructure for 
-   * ECS (Fargate, task definitions and service descriptions)  
-   * ELB (Application LB, target groups for set of Docker containers)  
-   * ECR (Automated creation Docker repo from CI/CD pipelines) 
-   * ACM (Automated provision of LetsEncrypt / Other types of certs) 
-   * VPC (Subnets, Nat GW, IGW) 
-   * Route53, SNS, SQS, Lambda
-   * Hashicorp Packer provision containers for AWS (creating custom AMI, upload it to S3, deploy to EC2)
-   * Maintenance of project infrastructure (CI/CD pipelines (Jenkins), Help with creating Dockerfiles, knowledge sharing)
-   * Create and maintain Kubernetes cluster that work as Jenkins slave runner for needs of Development team (Kubernetes run specific pods, for example with specific version of Node.js and this allows developers to run various environments to getting the best results). We use Kubernetes cluster for these purposes because we can start and stop pods in cluster very quickly.
-   * Automated build and deployment process with Gitlab CI, eliminating 80% of manual work.
-   * Automated deployments for 200+ cloud servers (EC2/ECS) using Ansible, Terraform and Bash.
-   * Applying configuration changes using Ansible, AWS, Terraform, Packer, etc.
-   * Maintenance of K8S cluster, creating HELM charts for Jenkins deployed microservices via Jenkins jobs, configuration, and patch management.
+ - Designed and managed the cloud infrastructure on AWS for DEF's production environment.
+ - Developed scripts using Bash and Python to automate infrastructure deployments and configuration management.
+ - Implemented monitoring and logging systems to provide visibility to the infrastructure and applications.
 
-All this infrastructure are developed to use in separate environments, so, to prepare it to use in dev, or stage, or prod we need to change only AWS Network settings (VPC, SG, Subnets) and we ready to apply this configuration to another account.
-
-I'm also spended a 12 month as a contractor in Google (Seattle), works as Release Engineer in a Google Cloud Frontend Team.
 
 ### EPAM Systems - Senior Systems Engineer
 ######  Feb 2014 - Apr 2017 
