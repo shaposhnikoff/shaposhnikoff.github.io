@@ -64,4 +64,29 @@ Main responsibilities on the project
   * Created automation and deployment templates for relational databases (standalone and RDS).
   * Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions (Zabbix && Ansible).
 
-...
+
+## Other
+
+  Married, ready for business trips.
+
+## Hobby 
+
+programming IOT, ESP32 / ESP8266, creating custom firmware for these boards (based on Tasmota / ESPhome),
+
+  * I develop from scratch (and update from time to time) the IOT infrastructure of my Smart Home, 
+  * Create and develop Smarthome Core configurations (HomeAssistant/Mosquitto MQTT broker, Prometheus/Grafana) 
+  * Develop ( and update )  SmartHome software ( mainly OTA ) configurations for various devices 
+    * Tuya smart plugs
+    * Sonoff switches 
+    * RTMP security cameras
+    * wide scope of humidity/temperature/water( and air) pressure /current/voltage/power consumption sensors) 
+
+Making software support of monitoring / checking / load balancing internal infrastructure to perform best practices of IOT 
+
+
+Also, i have a HAM radio licence in Ukraine - callsing UT3UDX
+and have a technician expertise in:
+
+* DMR, APRS, SVXLink, Repeater Builds
+
+
