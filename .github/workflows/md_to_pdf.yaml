@@ -26,22 +26,23 @@ jobs:
       - name: 'Get pandoc'
         run:  sudo apt-get install pandoc
     
-      - name: 'Get My TODO List'
-        run:  pandoc ./index.md > index.html
+      - name: 'Convert index.md to index.html with pandoc'
+        run:  pandoc index.md > index.html
 
       - uses: actions/checkout@v2
       - name: Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
+
       - name: Convert Markdown to PDF
-        run: pandoc index.md -o README_MD.pdf
+        run: pandoc index.md -o index.pdf
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v2
         with:
           name: index
-          path: README_MD.pdf
+          path: index.pdf
         
 
 #      - name: html to pdf
@@ -57,17 +58,12 @@ jobs:
           htmlPath: 'index.html'
           pdfName: 'cv'
 
-
-#      - name : "Remove index html"
-#        run: rm index.html
-
       - name: setup git config
         run: |
           git config user.name shaposhnikoff
           git config user.email max@shaposhnikoff.info
           git add .
           
-
       - name: commit changes
         run: |
           chmod +x ./commit.sh
