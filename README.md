@@ -1,120 +1,91 @@
+# Maksym Shaposhnikov
 
-<h1> Maksim I. Shaposhnikov </h1>
+### Senior Systems Engineer, Build, Release and Configuration Manager
+### CI/CD | AWS | Ansible | Terraform | Python | Docker | Jenkins | Kubernetes
+### Kiev, Ukraine
 
-<h5>Kiev,Ukraine</h5> 
+* telegram		[shaposhnikoff](https://t.me/shaposhnikoff)
 
-telegram  [shaposhnikoff](https://t.me/shaposhnikoff)
+ 
 
-<h1>Summary </h1>
+## RESUME SUMMARY
 
-Innovative Senior DevOps Engineer with a strong Linux background and 15+ years of 
-experience designing, implementing, and managing cutting-edge deployment automation 
-of cloud resources.
+DevOps Engineer with experience in designing, implementing and maintaining cloud infrastructure on AWS. Strong experience with Python, Bash scripting, automation tools like Ansible and Terraform.
 
-<h1>Experience</h1>
-
-Qualified specialist with extensive hands-on experience in build engineering, configuration management, and DevOps engineering.
-My key expertise includes design and implementation of continuous integration, delivery, and deployment using Java, Jenkins, Git, 
-Docker, Vagrant, Ansible, and AWS/EC2.
-
-I also have considerable skills in automating deployments of Java appllications with Tomcat, and AWS, as well as almost 20 years 
-of experience in UNIX/Linux and Middleware/Application Server administration experience.
-Being a self-motivated, responsible, and sociable team player, I can use my technical expertise to implement quality solutions 
-and bring added value.
+My key expertise includes design and implementation of continuous integration, delivery, and deployment using Jenkins, Gitlab CI/CD, Argo CD/CD, Git, Docker, Vagrant, Ansible, and AWS/EC2.
 
 
-<h2>First Ukrainian International Bank</h2>
+ - Strong understanding of DevOps principles and methodologies.
+ - Strong experience with Python
+ - Proficiency in cloud infrastructure management using AWS.
+ - Experience in configuration management using Ansible,Terraform.
+ - Working knowledge of Kubernetes and Docker containerization.
+ - Expertise in Continuous Integration/Deployment (CI/CD) using Jenkins and ARGO CI.
+ - Familiarity with scripting languages such as Python, Bash.
+ 
+# WORK Experience
 
-<h3>Senior Devops Engineer                                                                  Apr, 2017 - Now </h3>
+### Zoolatec - Senior Systems Engineer
+###### Dec,2020 - Now
 
-* Automated deployments for 200+ cloud servers using Ansible ,Terraform and Bash.
+Main responsibilities on the project 
+   
+ - Implemented Ansible and Terraform scripts to automate system deployments resulting in an increase in infrastructure efficiency by 50%.
+ - Designed and implemented a cloud infrastructure on AWS to support the company's product suite.
+ - Developed and maintained Python tools to interact with the cloud infrastructure and automate deployment processes.
+ - Managed and maintained Continuous Integration and Deployment pipelines using Jenkins.
 
-* Automated build and deployment process with Gitlab CI, eliminating 80% of manual work
+### Grid Dynamics - Senior Systems Engineer
+######  Dec,2017 - Dec,2020
+######  IOT && ECS project for NDA company
 
-* Corezoid digital core (c) @corezoid.com maintanance , scaling, deployment , support , monitoring and configuration management.
-Applying configuration changes using Ansible, AWS, Terraform, Packer, etc.
+Main responsibilities on the project 
 
-* Maintanance of K8S cluster, creating HELM charts for Jenkins deployed microservices via Jenkins jobs,
-configuration and patch management
-
-
-
-
-<h2>EPAM Systems </h2>
-
-<h3>Senior Devops Engineer
-Feb 2014 - Apr 2017 </h3>
-
-* Design and develop continuous deployment pipeline, integrating Test-Kitchen, Docker, Git , Jenkins and Ansible across geographically separated hosting zones in AWS.
-
-* Performed new Ansible automation to replace old-bash-style scripting tools to provide Continous integration / 
-  Continous delivery of results working of Development team
-
-* Performed custom Docker integration solution to run test suites ( functional, unit, web, integration tests ) - 
-  running tests in docker-compose created environment with hybris image and wide range of mysql database versions.
-
-* Developed from scratch fully completed CI/CD solution (Jenkins/Docker/Ansible based) to build and deploy artifacts starting from git pull and ending to checking Hybris startup logs and email notification to dev team members.
-
-* Developed many fully customized Ansible playbooks for maintanence next application on customer cloud - Apache Solr Cluster, SMTP server Postfix. 
-
-* Also, created and maintained everyday ansible automation and special automated branch to GoLive production environment's
+ - Designed and managed the cloud infrastructure on AWS for DEF's production environment.
+ - Developed scripts using Bash and Python to automate infrastructure deployments and configuration management.
+ - Implemented monitoring and logging systems to provide visibility to the infrastructure and applications.
 
 
-* Collect the new technologies and tools, and introduced them to the client; in which way it helped the company build up an agile development environment. 
-    It improved the product quantity and the work efficiency.
-* Developed automation and deployment utilities using Bash and Ansible.
-* Designed and developed automated deployment and scaling processes based on Docker and Ansible for a wide range of server types and application tiers, including Elasticsearch, Tomcat, Varnish And SOLR Clusters.
-* Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions.
-* Created automation and deployment templates for relational databases (standalone and RDS).
-* Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions (Zabbix && Ansible ).
+### EPAM Systems - Senior Systems Engineer
+######  Feb 2014 - Apr 2017 
 
 
-
-* Project Roles - Build Engineer 
-* Participation - Product deployment automation. Environment configuration and setup. CI configuration, job creation, lobs flow configuration and maintenance.
-* Build Automation - Create Jenkins + Gerrit automated building internal projects. Continuous Integration of building and testing a software projects continuously, each time new changes are made.
-* Continuous Testing - running Unit tests on build applications on previous step.
-* Continuous Delivery - running (creating) containers ( Docker/Vagrant) and running applications inside it for developers proposes. All delivery steps automated with Ansible recipes.
-* Continuous Monitoring - monitoring created Vms automatically with Zabbix agent orchestration via Ansible
-* Server configuration management via Ansible
-
-  Team                                Dev team : 100 members, QA Team - 70 members
-  Database                            Oracle Database Server11.2.0.4 
-  Tools                               Oracle Database Server,  WebLogic Application Server, SQL Developer, Oracle Client, Git, Eclipse Luna, Ant, 
-  				      JDK, Toplink, SmartGit/eGit plugin for eclipse, RHEL EAP Jboss, Jenkins, Artifactory, SonarQube
-
-  Technologies                        Java, GWT.
+  * Design and develop continuous deployment pipeline, integrating Test-Kitchen, Docker, Git, Jenkins and Ansible across geographically separated hosting zones in AWS.
+  * Performed new Ansible automation to replace old-bash-style scripting tools to provide Continuous integration / Continuous delivery of results working of Development team.
+  * Performed custom Docker integration solution to run test suites (functional, unit, web, integration tests) - running tests in docker-compose created environment with hybris image and wide range of MySQL database versions.
+  * Developed fully completed CI/CD solution (Jenkins/Docker/Ansible based) from scratch to build and deploy artifacts starting from git pull and ending to checking Hybris startup logs and email notification to dev team members.
+  * Developed many fully customized Ansible playbooks for maintenance next application on customer cloud - Apache Solr Cluster, SMTP server Postfix.
+  * Also, created and maintained everyday ansible automation and special automated branch to GoLive production environments.
+  * Collect the new technologies and tools and introduced them to the client; in which way it helped the company build up an agile development environment - it improved the product quantity and the work efficiency.
+  * Developed automation and deployment utilities using Bash and Ansible.
+  * Designed and developed automated deployment and scaling processes based on Docker and Ansible for a wide range of server types and application tiers, including Elasticsearch, Tomcat, Varnish and SOLR Clusters.
+  * Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions.
+  * Created automation and deployment templates for relational databases (standalone and RDS).
+  * Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions (Zabbix && Ansible).
 
 
+## Other
+
+  Married, ready for business trips.
+
+## Hobby 
+
+programming IOT, ESP32 / ESP8266, creating custom firmware for these boards (based on Tasmota / ESPhome),
+
+  * I develop from scratch (and update from time to time) the IOT infrastructure of my Smart Home, 
+  * Create and develop Smarthome Core configurations (HomeAssistant/Mosquitto MQTT broker, Prometheus/Grafana) 
+  * Develop ( and update )  SmartHome software ( mainly OTA ) configurations for various devices 
+    * Tuya smart plugs
+    * Sonoff switches 
+    * RTMP security cameras
+    * wide scope of humidity/temperature/water( and air) pressure /current/voltage/power consumption sensors) 
+
+Making software support of monitoring / checking / load balancing internal infrastructure to perform best practices of IOT 
 
 
+Also, i have a HAM radio licence in Ukraine - callsing UT3UDX
+and have a technician expertise in:
+
+* DMR, APRS, SVXLink, Repeater Builds
 
 
-<h3>Senior Devops  Engineer - Special Integral Systems
-
-Jan 2011 - Jan 2014 </h3>
-
-* Team lead of system administrators team ( 3 persosns)
-* Build Automation - Create Jenkins automated building internal projects..
-* Continuous Integration of building and testing a software projects continuously, each time new changes are made.
-* Continuous Testing - running Unit tests on build applications on previous step.
-* Continuous Delivery - running (creating) containers ( Docker/Vagrant) and running applications inside it for developers proposes. 
-    All delivery steps automated with Ansible/Chef recipes.
-* Continuous Monitoring - monitoring created Vms automatically with Zabbix agent orchestration via Ansible
-* Server configuration management via Ansible/Chef
-* Advanced OpenVPN deployment ( ipv6 include )
-* Capacity planning, Bottleneck identification
-* PXE kickstarting of CentOS/Ubuntu servers
-
-
-
-
-* Engineered, implemented and administrated network WAN/LAN. Provided technical support for Cisco and software routers OS FreeBSD (zebra).
-* Pre sales engineering of customers networks for the purpose of discovering.
-* Configured and administrated servers with SMTP, DNS, HTTP, RADIUS, VPN, PPPoE, PPtP, DHCP. Programming Shell, PHP a little .
-
-
-
-<h1>OTHER</h1>
-
-Married, ready for business trips.
