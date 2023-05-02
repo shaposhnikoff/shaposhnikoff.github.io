@@ -1,4 +1,3 @@
-
 # Maksym Shaposhnikov
 
 ### Senior Systems Engineer, Build, Release and Configuration Manager
