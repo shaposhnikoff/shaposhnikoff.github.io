@@ -1,8 +1,8 @@
 name: Update CV from MD to PDF 
 
 on:
-  schedule:
-      - cron: '0 22 * * *'
+#  schedule:
+#      - cron: '0 22 * * *'
   push:
     branches: 
       - '*' 
