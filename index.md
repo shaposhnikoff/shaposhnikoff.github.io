@@ -30,11 +30,15 @@ My key expertise includes design and implementation of continuous integration, d
 
 Main responsibilities on the project 
    
- - Implemented Ansible and Terraform scripts to automate system deployments resulting in an increase in infrastructure efficiency by 50%.
- - Designed and implemented a cloud infrastructure on AWS to support the company's product suite.
- - Developed and maintained Python tools to interact with the cloud infrastructure and automate deployment processes.
- - Managed and maintained Continuous Integration and Deployment pipelines using Jenkins.
-
+ -  Kubernetes: Proficient in managing Kubernetes clusters, deploying and scaling applications, configuring networking, and troubleshooting issues.
+ -  Helm: Skilled in utilizing Helm charts for packaging and deploying applications in Kubernetes, managing dependencies, and ensuring reproducibility.
+ -  ArgoCD: Experienced in implementing ArgoCD for GitOps-based continuous deployment, automating application deployment and monitoring synchronization.
+ -  GitOps: Proficient in applying GitOps principles to maintain infrastructure and application configurations as code, enabling automated deployments and version control.
+ -  Continuous Integration/Continuous Deployment (CI/CD): Implementing and optimizing modern CI/CD pipelines to automate build, test, and deployment processes, ensuring rapid and reliable software releases based on Github Actions.
+    Infrastructure as Code (IaC): Creating ifrastructure utilizing tools like Terragrunt/Terraform or Ansible to provision and manage infrastructure resources, enabling reproducibility and scalability. Importing Clickops based infrastructure to Terraform 
+ -  Scripting and Automation: Proficient in scripting languages (e.g., Bash, Python) and automation tools to streamline repetitive tasks, improve efficiency, and enhance system reliability.
+ -  Monitoring and Logging: Experience with monitoring tools (e.g., Prometheus, Grafana) and log aggregation platforms (e.g., ELK Stack) to proactively monitor system health, identify performance bottlenecks, and troubleshoot issues.
+ 
 ### Grid Dynamics - Senior Systems Engineer
 ######  Dec,2017 - Dec,2020
 ######  IOT && ECS project for NDA company
