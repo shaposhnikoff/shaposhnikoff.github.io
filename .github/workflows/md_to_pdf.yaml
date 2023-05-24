@@ -23,7 +23,7 @@ jobs:
         with:
           python-version: 3.7
           
-      - name: 'Get pandoc'
+      - name: Install pandoc
         run:  sudo apt-get install pandoc
     
       - name: 'Convert index.md to index.html with pandoc'
@@ -35,14 +35,14 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
 
-      - name: Convert Markdown to PDF
+      - name: Convert index.md to index.pdf
         run: pandoc index.md -o index.pdf
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v2
         with:
           name: index
-          path: index.pdf
+          path: dist/index.pdf
         
 
 #      - name: html to pdf
