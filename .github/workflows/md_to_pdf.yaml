@@ -29,6 +29,9 @@ jobs:
       - name: 'Convert index.md to index.html with pandoc'
         run:  pandoc index.md > index.html
 
+      - name: 'Convert index.md to index.pdf with pandoc'
+        run:  pandoc index.md > index.pdf
+
       - uses: actions/checkout@v2
       - name: Install dependencies
         run: |
