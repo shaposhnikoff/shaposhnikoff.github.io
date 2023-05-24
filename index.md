@@ -45,7 +45,7 @@ Main responsibilities on the project
 
 Main responsibilities on the project 
 
- - Designed and managed the cloud infrastructure on AWS for DEF's production environment.
+ - Designed and managed the cloud infrastructure on AWS for PROD&&DEV environments.
  - Developed scripts using Bash and Python to automate infrastructure deployments and configuration management.
  - Implemented monitoring and logging systems to provide visibility to the infrastructure and applications.
 
