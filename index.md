@@ -29,7 +29,9 @@ My key expertise includes design and implementation of continuous integration, d
 ###### Dec,2020 - Now
 
 Main responsibilities on the project 
-   
+
+ -  EMR (Elastic Map Reduse ) AWS clusters , EMR studio deployment and Support, DataLake, Glue Databases and Tables, IAM roles, permissions and access
+ -  Terragrunt multiaccount , multitieams architecture, deployment and development
  -  Kubernetes: Proficient in managing Kubernetes clusters, deploying and scaling applications, configuring networking, and troubleshooting issues.
  -  Helm: Skilled in utilizing Helm charts for packaging and deploying applications in Kubernetes, managing dependencies, and ensuring reproducibility.
  -  ArgoCD: Experienced in implementing ArgoCD for GitOps-based continuous deployment, automating application deployment and monitoring synchronization.
