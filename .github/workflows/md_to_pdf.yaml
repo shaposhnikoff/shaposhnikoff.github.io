@@ -19,30 +19,26 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Setup Python Environment
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: 3.7
-          
-      - name: Install pandoc
-        run:  sudo apt-get install pandoc
-    
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
+
       - name: 'Convert index.md to index.html with pandoc'
         run:  pandoc index.md > index.html
 
       - name: 'Convert index.md to index.pdf with pandoc'
         run:  pandoc index.md > index.pdf
 
-      - uses: actions/checkout@v2
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
-
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v2
         with:
           name: index
-          path: dist/index.pdf
+          path: index.pdf
         
       - name: setup git config
         run: |
