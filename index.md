@@ -1,6 +1,6 @@
 # Maksym Shaposhnikov
 
-### Senior Systems Engineer, Build, Release and Configuration Manager
+### Senior Devops Engineer, Build, Release and Configuration Manager
 ### CI/CD | AWS | Ansible | Terraform | Python | Docker | Jenkins | Kubernetes
 ### Kiev, Ukraine
 
@@ -25,7 +25,7 @@ My key expertise includes design and implementation of continuous integration, d
  
 # WORK Experience
 
-### Zoolatec - Senior Systems Engineer
+### Zoolatec - Senior Devops Engineer
 ###### Dec,2020 - Now
 
 Main responsibilities on the project 
@@ -41,7 +41,7 @@ Main responsibilities on the project
  -  Scripting and Automation: Proficient in scripting languages (e.g., Bash, Python) and automation tools to streamline repetitive tasks, improve efficiency, and enhance system reliability.
  -  Monitoring and Logging: Experience with monitoring tools (e.g., Prometheus, Grafana) and log aggregation platforms (e.g., ELK Stack) to proactively monitor system health, identify performance bottlenecks, and troubleshoot issues.
  
-### Grid Dynamics - Senior Systems Engineer
+### Grid Dynamics - Senior Devops Engineer
 ######  Dec,2017 - Dec,2020
 ######  IOT && ECS project for NDA company
 
@@ -52,7 +52,7 @@ Main responsibilities on the project
  - Implemented monitoring and logging systems to provide visibility to the infrastructure and applications.
 
 
-### EPAM Systems - Senior Systems Engineer
+### EPAM Systems - Senior Devops Engineer
 ######  Feb 2014 - Apr 2017 
 
 
@@ -71,27 +71,20 @@ Main responsibilities on the project
 
 
 ## Other
-
   Married, ready for business trips.
 
 ## Hobby 
-
 programming IOT, ESP32 / ESP8266, creating custom firmware for these boards (based on Tasmota / ESPhome),
-
-  * I develop from scratch (and update from time to time) the IOT infrastructure of my Smart Home, 
+  * Develop from scratch (and update from time to time) the IOT infrastructure of my Smart Home, 
   * Create and develop Smarthome Core configurations (HomeAssistant/Mosquitto MQTT broker, Prometheus/Grafana) 
   * Develop ( and update )  SmartHome software ( mainly OTA ) configurations for various devices 
     * Tuya smart plugs
     * Sonoff switches 
     * RTMP security cameras
     * wide scope of humidity/temperature/water( and air) pressure /current/voltage/power consumption sensors) 
-
 Making software support of monitoring / checking / load balancing internal infrastructure to perform best practices of IOT 
-
-
 Also, i have a HAM radio licence in Ukraine - callsing UT3UDX
 and have a technician expertise in:
-
 * DMR, APRS, SVXLink, Repeater Builds
 
 
