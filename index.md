@@ -18,7 +18,8 @@ My key expertise includes design and implementation of continuous integration, d
  - Strong understanding of DevOps principles and methodologies.
  - Strong experience with Python
  - Proficiency in cloud infrastructure management using AWS.
- - Experience in configuration management using Ansible,Terraform.
+ - Proficient in Apache NiFi and Apache Airflow, adept at designing, implementing, and managing complex data workflows for optimal efficiency.
+ - Experience in configuration management using Ansible,Terraform,Terragrunt.
  - Working knowledge of Kubernetes and Docker containerization.
  - Expertise in Continuous Integration/Deployment (CI/CD) using Jenkins and ARGO CI.
  - Familiarity with scripting languages such as Python, Bash.
