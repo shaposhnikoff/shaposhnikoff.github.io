@@ -10,10 +10,11 @@
 
 ## RESUME SUMMARY
 
-DevOps Engineer with experience in designing, implementing and maintaining cloud infrastructure on AWS. Strong experience with Python, Bash scripting, automation tools like Ansible and Terraform.
+Experienced DevOps Engineer with 12 years experience specialized in crafting and maintaining AWS-based cloud infrastructure. Proficient in Python, Bash, and automation tools like Ansible and Terraform.
 
-My key expertise includes design and implementation of continuous integration, delivery, and deployment using Jenkins, Gitlab CI/CD, Argo CD/CD, Git, Docker, Vagrant, Ansible, and AWS/EC2.
+My core competencies encompass architecting seamless continuous integration, delivery, and deployment pipelines using Gitlab CI/CD, Jenkins, Git, Docker, Vagrant, Argo CD/CD, and AWS/EC2.
 
+Additionally, I excel in big data tools such as Apache NiFi and Apache Airflow, ensuring optimal efficiency in designing, implementing, and managing complex data workflows. My expertise extends to AWS Glue and Datalake technologies, enabling streamlined and efficient data management.
 
  - Strong understanding of DevOps principles and methodologies.
  - Strong experience with Python
