@@ -5,6 +5,10 @@
 <ul>
 <li>telegram <a href="https://t.me/shaposhnikoff">shaposhnikoff</a></li>
 </ul>
+<h2 id="education">EDUCATION</h2>
+<h3 id="moscow-technical-university-of-communication-and-informatics-mtuci">Moscow Technical University of Communication and Informatics (MTUCI)</h3>
+<p>1992 - 1997</p>
+<p>Software of computers and automation systems</p>
 <h2 id="resume-summary">RESUME SUMMARY</h2>
 <p>Advanced DevOps Engineer With Python Experience specialized in crafting and maintaining AWS-based cloud infrastructure. Proficient in Python, Bash, and automation tools like Ansible and Terraform.</p>
 <p>My core competencies encompass architecting seamless continuous integration, delivery, and deployment pipelines using Gitlab CI/CD, Jenkins, Git, Docker, Vagrant, Argo CD/CD, and AWS/EC2.</p>
