@@ -35,8 +35,23 @@ Additionally, I excel in big data tools such as Apache NiFi and Apache Airflow, 
  
 # WORK Experience
 
+### Raiffeisen international - Senior Devops Engineer 
+## Jan,2023 - now
+Joined DataOps team, maintining AWS,K8s infrastructure on project 
+
+  - AWS multiaccount IAM roles and permissions maintanence ( Glue, Athena, EMR, Airflow crossaccount permissions hell maintenance
+  - Creating Github Templates repository with Github Actions inside, for Helm charts build and updload to Harbor
+  - Build and check security issues with Docker containers with Trivy 
+  - Make crossaccount deployments for internal Bank teams with Terragrunt ( and make modules in Terraform for that )
+  - Collaborated with development and operations teams to integrate IAM policies into CI/CD pipelines, enhancing automation and security.
+  - Create and provide workshops and information traning inside the Bank about moitoring tools (Prometheus, Zabbix and such things),
+    Opensearch logging solution, creating AWS Lambdas/Airflow Dags using Python, etc.
+  - Utilized scripting (Python and Shell) for automation of routine tasks, improving operational efficiency.
+  - Actively participated in Agile and DevOps methodologies, contributing to the continuous improvement of development and deployment processes.
+    
+
 ### Zoolatec - Senior Devops Engineer
-###### Dec,2020 - Now
+###### Dec,2020 - Jan,2023
 
 Main responsibilities on the project 
 
