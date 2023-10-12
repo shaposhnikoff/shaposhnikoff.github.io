@@ -24,8 +24,21 @@
 <li>Familiarity with scripting languages such as Python, Bash.</li>
 </ul>
 <h1 id="work-experience">WORK Experience</h1>
+<h3 id="raiffeisen-international---senior-devops-engineer">Raiffeisen international - Senior Devops Engineer</h3>
+<h2 id="jan2023---now">Jan,2023 - now</h2>
+<p>Joined DataOps team, maintining AWS,K8s infrastructure on project</p>
+<ul>
+<li>AWS multiaccount IAM roles and permissions maintanence ( Glue, Athena, EMR, Airflow crossaccount permissions hell maintenance</li>
+<li>Creating Github Templates repository with Github Actions inside, for Helm charts build and updload to Harbor</li>
+<li>Build and check security issues with Docker containers with Trivy</li>
+<li>Make crossaccount deployments for internal Bank teams with Terragrunt ( and make modules in Terraform for that )</li>
+<li>Collaborated with development and operations teams to integrate IAM policies into CI/CD pipelines, enhancing automation and security.</li>
+<li>Create and provide workshops and information traning inside the Bank about moitoring tools (Prometheus, Zabbix and such things), Opensearch logging solution, creating AWS Lambdas/Airflow Dags using Python, etc.</li>
+<li>Utilized scripting (Python and Shell) for automation of routine tasks, improving operational efficiency.</li>
+<li>Actively participated in Agile and DevOps methodologies, contributing to the continuous improvement of development and deployment processes.</li>
+</ul>
 <h3 id="zoolatec---senior-devops-engineer">Zoolatec - Senior Devops Engineer</h3>
-<h6 id="dec2020---now">Dec,2020 - Now</h6>
+<h6 id="dec2020---jan2023">Dec,2020 - Jan,2023</h6>
 <p>Main responsibilities on the project</p>
 <ul>
 <li>EMR (Elastic Map Reduse ) AWS based clusters,EMR servers templates, EMR studio deployment and Support, DataLake, Glue Databases and Tables, IAM roles, permissions and access</li>
