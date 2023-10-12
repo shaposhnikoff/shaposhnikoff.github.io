@@ -40,12 +40,11 @@ Additionally, I excel in big data tools such as Apache NiFi and Apache Airflow, 
 Joined DataOps team, maintining AWS,K8s infrastructure on project 
 
   - AWS multiaccount IAM roles and permissions maintanence ( Glue, Athena, EMR, Airflow crossaccount permissions hell maintenance
-  - Creating Github Templates repository with Github Actions inside, for Helm charts build and updload to Harbor
+  - Implement GitOps practices and container orchestration using Kubernetes,Harbor and Helm
+  - Manage artifact repositories and enable Continuous Integration/Deployment (CI/CD) pipelines using Harbor and GitHub Actions Workflows
+  - Implement and enable monitoring solutions using Prometheus,Alertmanager,Blackbox and Grafana to ensure proactive issue detection and resolution
   - Build and check security issues with Docker containers with Trivy 
   - Make crossaccount deployments for internal Bank teams with Terragrunt ( and make modules in Terraform for that )
-  - Collaborated with development and operations teams to integrate IAM policies into CI/CD pipelines, enhancing automation and security.
-  - Create and provide workshops and information traning inside the Bank about moitoring tools (Prometheus, Zabbix and such things),
-    Opensearch logging solution, creating AWS Lambdas/Airflow Dags using Python, etc.
   - Utilized scripting (Python and Shell) for automation of routine tasks, improving operational efficiency.
   - Actively participated in Agile and DevOps methodologies, contributing to the continuous improvement of development and deployment processes.
     
