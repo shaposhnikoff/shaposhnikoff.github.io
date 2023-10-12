@@ -29,11 +29,11 @@
 <p>Joined DataOps team, maintining AWS,K8s infrastructure on project</p>
 <ul>
 <li>AWS multiaccount IAM roles and permissions maintanence ( Glue, Athena, EMR, Airflow crossaccount permissions hell maintenance</li>
-<li>Creating Github Templates repository with Github Actions inside, for Helm charts build and updload to Harbor</li>
+<li>Implement GitOps practices and container orchestration using Kubernetes,Harbor and Helm</li>
+<li>Manage artifact repositories and enable Continuous Integration/Deployment (CI/CD) pipelines using Harbor and GitHub Actions Workflows</li>
+<li>Implement and enable monitoring solutions using Prometheus,Alertmanager,Blackbox and Grafana to ensure proactive issue detection and resolution</li>
 <li>Build and check security issues with Docker containers with Trivy</li>
 <li>Make crossaccount deployments for internal Bank teams with Terragrunt ( and make modules in Terraform for that )</li>
-<li>Collaborated with development and operations teams to integrate IAM policies into CI/CD pipelines, enhancing automation and security.</li>
-<li>Create and provide workshops and information traning inside the Bank about moitoring tools (Prometheus, Zabbix and such things), Opensearch logging solution, creating AWS Lambdas/Airflow Dags using Python, etc.</li>
 <li>Utilized scripting (Python and Shell) for automation of routine tasks, improving operational efficiency.</li>
 <li>Actively participated in Agile and DevOps methodologies, contributing to the continuous improvement of development and deployment processes.</li>
 </ul>
