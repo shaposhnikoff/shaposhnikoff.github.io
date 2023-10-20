@@ -1,20 +1,7 @@
 # Maksym Shaposhnikov
-
-### Senior Devops Engineer, Build, Release and Configuration Manager
-### CI/CD | AWS | Ansible | Terraform | Python | Docker | Jenkins | Kubernetes
-### Kiev, Ukraine
+### Results-Driven Experienced Devops Engineer with strong Python background | Software developer |AWS | Ansible | Terraform | Docker | Kubernetes | Helm | ArgoCD
 
 * telegram		[shaposhnikoff](https://t.me/shaposhnikoff)
-
-## EDUCATION
-
-### Moscow Technical University of Communication and Informatics (MTUCI) 
-
-1992 - 1997
-
-Software of computers and automation systems
- 
-
 
 ## RESUME SUMMARY
 
