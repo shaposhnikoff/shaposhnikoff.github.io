@@ -20,7 +20,7 @@
 <h1 id="work-experience">WORK Experience</h1>
 <h3 id="raiffeisen-international---senior-devops-engineer">Raiffeisen international - Senior Devops Engineer</h3>
 <h2 id="jan2023---now">Jan,2023 - now</h2>
-<p>Joined DataOps team, maintining AWS,K8s infrastructure on project</p>
+<p>Maintining AWS,K8s infrastructure on project</p>
 <ul>
 <li>AWS multiaccount IAM roles and permissions maintanence ( Glue, Athena, EMR, Airflow crossaccount permissions hell maintenance</li>
 <li>Implement GitOps practices and container orchestration using Kubernetes,Harbor and Helm</li>
