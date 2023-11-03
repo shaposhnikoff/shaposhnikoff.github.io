@@ -24,7 +24,8 @@ Additionally, I excel in big data tools such as Apache NiFi and Apache Airflow, 
 
 ### Raiffeisen international - Senior Devops Engineer 
 ## Jan,2023 - now
-Joined DataOps team, maintining AWS,K8s infrastructure on project 
+
+Maintining AWS,K8s infrastructure on project 
 
   - AWS multiaccount IAM roles and permissions maintanence ( Glue, Athena, EMR, Airflow crossaccount permissions hell maintenance
   - Implement GitOps practices and container orchestration using Kubernetes,Harbor and Helm
