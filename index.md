@@ -9,12 +9,11 @@ Advanced DevOps Engineer With Python Experience specialized in crafting and main
 
 My core competencies encompass architecting seamless continuous integration, delivery, and deployment pipelines using Gitlab CI/CD, Jenkins, Git, Docker, Vagrant, Argo CD/CD, and AWS/EC2.
 
-Additionally, I excel in big data tools such as Apache NiFi and Apache Airflow, ensuring optimal efficiency in designing, implementing, and managing complex data workflows. My expertise extends to AWS Glue and Datalake technologies, enabling streamlined and efficient data management.
 
  - Strong understanding of DevOps principles and methodologies.
  - Strong experience with Python
+ - Prometheus/Grafana, ELK Stack
  - Proficiency in cloud infrastructure management using AWS.
- - Proficient in Apache NiFi and Apache Airflow, adept at designing, implementing, and managing complex data workflows for optimal efficiency.
  - Experience in configuration management using Ansible,Terraform,Terragrunt.
  - Working knowledge of Kubernetes and Docker containerization.
  - Expertise in Continuous Integration/Deployment (CI/CD) using Jenkins and ARGO CI.
