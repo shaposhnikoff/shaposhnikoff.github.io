@@ -6,12 +6,11 @@
 <h2 id="resume-summary">RESUME SUMMARY</h2>
 <p>Advanced DevOps Engineer With Python Experience specialized in crafting and maintaining AWS-based cloud infrastructure. Proficient in Python, Bash, and automation tools like Ansible and Terraform.</p>
 <p>My core competencies encompass architecting seamless continuous integration, delivery, and deployment pipelines using Gitlab CI/CD, Jenkins, Git, Docker, Vagrant, Argo CD/CD, and AWS/EC2.</p>
-<p>Additionally, I excel in big data tools such as Apache NiFi and Apache Airflow, ensuring optimal efficiency in designing, implementing, and managing complex data workflows. My expertise extends to AWS Glue and Datalake technologies, enabling streamlined and efficient data management.</p>
 <ul>
 <li>Strong understanding of DevOps principles and methodologies.</li>
 <li>Strong experience with Python</li>
+<li>Prometheus/Grafana, ELK Stack</li>
 <li>Proficiency in cloud infrastructure management using AWS.</li>
-<li>Proficient in Apache NiFi and Apache Airflow, adept at designing, implementing, and managing complex data workflows for optimal efficiency.</li>
 <li>Experience in configuration management using Ansible,Terraform,Terragrunt.</li>
 <li>Working knowledge of Kubernetes and Docker containerization.</li>
 <li>Expertise in Continuous Integration/Deployment (CI/CD) using Jenkins and ARGO CI.</li>
