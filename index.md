@@ -28,6 +28,8 @@ Maintining AWS,K8s infrastructure on project
 
   - AWS multiaccount IAM roles and permissions maintanence ( Glue, Athena, EMR, Airflow crossaccount permissions hell maintenance
   - Implement GitOps practices and container orchestration using Kubernetes,Harbor and Helm
+  - Designed and implemented end-to-end ETL workflows using Apache Airflow, orchestrating the extraction, transformation, and loading of data from diverse sources into a centralized data warehouse ( mostly CSV's from S3 buckets ) .
+  - Developed and maintained simple Airflow DAG's for scheduling and monitoring ETL tasks, ensuring timely and accurate data processing.
   - Manage artifact repositories and enable Continuous Integration/Deployment (CI/CD) pipelines using Harbor and GitHub Actions Workflows
   - Implement and enable monitoring solutions using Prometheus,Alertmanager,Blackbox and Grafana to ensure proactive issue detection and resolution
   - Build and check security issues with Docker containers with Trivy 
