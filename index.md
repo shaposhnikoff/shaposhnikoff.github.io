@@ -5,11 +5,6 @@
 * English level B2+
 * Location Kiev/Ukraine
 
-### EDUCATION
-###### Moscow Technical University of Communications and Informatics
-###### Master's degree in Computer Science
-1992 - 1998
-
 ### RESUME SUMMARY
 
 Advanced DevOps Engineer With Python Experience specialized in crafting and maintaining AWS-based cloud infrastructure. Proficient in Python, Bash, and automation tools like Ansible and Terraform.
