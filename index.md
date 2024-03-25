@@ -11,60 +11,54 @@ Advanced DevOps Engineer With Python Experience specialized in crafting and main
 
 My core competencies encompass architecting seamless continuous integration, delivery, and deployment pipelines using Gitlab CI/CD, Jenkins, Git, Docker, Vagrant, Argo CD/CD, and AWS/EC2.
 
- - Strong understanding of DevOps principles and methodologies.
- - Strong experience with Python
- - Prometheus/Grafana, ELK Stack
- - Proficiency in cloud infrastructure management using AWS.
- - Experience in configuration management using Ansible,Terraform,Terragrunt.
- - Working knowledge of Kubernetes and Docker containerization.
- - Expertise in Continuous Integration/Deployment (CI/CD) using Jenkins and ARGO CI.
- - Familiarity with scripting languages such as Python, Bash.
+  * Strong understanding of DevOps principles and methodologies.
+  * Strong experience with Python
+  * Prometheus/Grafana, ELK Stack
+  * Proficiency in cloud infrastructure management using AWS.
+  * Experience in configuration management using Ansible,Terraform,Terragrunt.
+  * Working knowledge of Kubernetes and Docker containerization.
+  * Expertise in Continuous Integration/Deployment (CI/CD) using Jenkins and ARGO CI.
+  * Familiarity with scripting languages such as Python, Bash.
  
 ### WORK Experience
 
 #### Raiffeisen international - Senior Devops Engineer 
 ##### Jan,2023 - now
 
-Maintining AWS,K8s infrastructure on project 
-
-  - AWS multiaccount IAM roles and permissions maintanence ( Glue, Athena, EMR, Airflow crossaccount permissions hell maintenance
-  - Implement GitOps practices and container orchestration using Kubernetes,Harbor and Helm
-  - Simplifying Kubernetes for Data Scientists/Engineers: Developed user-friendly containers, enabling Data Scientists to utilize Kubernetes effortlessly. Achieved a complete transition to Kubernetes infrastructure with a 40% cost saving💸
-  - Reusable Data Pipelines: Assisted Data Engineers in accelerating their workflow by refining and creating reusable data pipelines, leading to a robust library of reusable data engineering tools.
-  - Designed and implemented end-to-end ETL workflows using Apache Airflow, orchestrating the extraction, transformation, and loading of data from diverse sources into a centralized data warehouse ( mostly CSV's from S3 buckets ) .
-  - Developed and maintained simple Airflow DAG's for scheduling and monitoring ETL tasks, ensuring timely and accurate data processing.
-  - Manage artifact repositories and enable Continuous Integration/Deployment (CI/CD) pipelines using Harbor and GitHub Actions Workflows
-  - Implement and enable monitoring solutions using Prometheus,Alertmanager,Blackbox and Grafana to ensure proactive issue detection and resolution
-  - Build and check security issues with Docker containers with Trivy 
-  - Make crossaccount deployments for internal Bank teams with Terragrunt ( and make modules in Terraform for that )
-  - Utilized scripting (Python and Shell) for automation of routine tasks, improving operational efficiency.
-  - Actively participated in Agile and DevOps methodologies, contributing to the continuous improvement of development and deployment processes.
+  * AWS multiaccount IAM roles and permissions maintanence ( Glue, Athena, EMR, Airflow crossaccount permissions hell maintenance
+  * Implement GitOps practices and container orchestration using Kubernetes,Harbor and Helm
+  * Simplifying Kubernetes for Data Scientists/Engineers: Developed user-friendly containers, enabling Data Scientists to utilize Kubernetes effortlessly. Achieved a complete transition to Kubernetes infrastructure with a 40% cost saving💸
+  * Reusable Data Pipelines: Assisted Data Engineers in accelerating their workflow by refining and creating reusable data pipelines, leading to a robust library of reusable data engineering tools.
+  * Designed and implemented end-to-end ETL workflows using Apache Airflow, orchestrating the extraction, transformation, and loading of data from diverse sources into a centralized data warehouse ( mostly CSV's from S3 buckets ) .
+  * Developed and maintained simple Airflow DAG's for scheduling and monitoring ETL tasks, ensuring timely and accurate data processing.
+  * Manage artifact repositories and enable Continuous Integration/Deployment (CI/CD) pipelines using Harbor and GitHub Actions Workflows
+  * Implement and enable monitoring solutions using Prometheus,Alertmanager,Blackbox and Grafana to ensure proactive issue detection and resolution
+  * Build and check security issues with Docker containers with Trivy 
+  * Make crossaccount deployments for internal Bank teams with Terragrunt ( and make modules in Terraform for that )
+  * Utilized scripting (Python and Shell) for automation of routine tasks, improving operational efficiency.
+  * Actively participated in Agile and DevOps methodologies, contributing to the continuous improvement of development and deployment processes.
     
 
 #### Zoolatec - Senior Devops Engineer
 ##### Dec,2020 - Jan,2023
 
-Main responsibilities on the project 
-
- -  EMR (Elastic Map Reduse ) AWS based clusters,EMR servers templates, EMR studio deployment and Support, DataLake, Glue Databases and Tables, IAM roles, permissions and access
- -  Terragrunt multiaccount , multitieams architecture, deployment and development
- -  Kubernetes: Proficient in managing Kubernetes clusters, deploying and scaling applications, configuring networking, and troubleshooting issues.
- -  Helm: Skilled in utilizing Helm charts for packaging and deploying applications in Kubernetes, managing dependencies, and ensuring reproducibility.
- -  ArgoCD: Experienced in implementing ArgoCD for GitOps-based continuous deployment, automating application deployment and monitoring synchronization.
- -  GitOps: Proficient in applying GitOps principles to maintain infrastructure and application configurations as code, enabling automated deployments and version control.
- -  Continuous Integration/Continuous Deployment (CI/CD): Implementing and optimizing modern CI/CD pipelines to automate build, test, and deployment processes, ensuring rapid and reliable software releases based on Github Actions.
+  * EMR (Elastic Map Reduse ) AWS based clusters,EMR servers templates, EMR studio deployment and Support, DataLake, Glue Databases and Tables, IAM roles, permissions and access
+  * Terragrunt multiaccount , multitieams architecture, deployment and development
+  * Kubernetes: Proficient in managing Kubernetes clusters, deploying and scaling applications, configuring networking, and troubleshooting issues.
+  * Helm: Skilled in utilizing Helm charts for packaging and deploying applications in Kubernetes, managing dependencies, and ensuring reproducibility.
+  * ArgoCD: Experienced in implementing ArgoCD for GitOps-based continuous deployment, automating application deployment and monitoring synchronization.
+  * GitOps: Proficient in applying GitOps principles to maintain infrastructure and application configurations as code, enabling automated deployments and version control.
+  * Continuous Integration/Continuous Deployment (CI/CD): Implementing and optimizing modern CI/CD pipelines to automate build, test, and deployment processes, ensuring rapid and reliable software releases based on Github Actions.
     Infrastructure as Code (IaC): Creating ifrastructure utilizing tools like Terragrunt/Terraform or Ansible to provision and manage infrastructure resources, enabling reproducibility and scalability. Importing Clickops based infrastructure to Terraform 
- -  Scripting and Automation: Proficient in scripting languages (e.g., Bash, Python) and automation tools to streamline repetitive tasks, improve efficiency, and enhance system reliability.
- -  Monitoring and Logging: Experience with monitoring tools (e.g., Prometheus, Grafana) and log aggregation platforms (e.g., ELK Stack) to proactively monitor system health, identify performance bottlenecks, and troubleshoot issues.
+  * Scripting and Automation: Proficient in scripting languages (e.g., Bash, Python) and automation tools to streamline repetitive tasks, improve efficiency, and enhance system reliability.
+  * Monitoring and Logging: Experience with monitoring tools (e.g., Prometheus, Grafana) and log aggregation platforms (e.g., ELK Stack) to proactively monitor system health, identify performance bottlenecks, and troubleshoot issues.
  
 #### Grid Dynamics - Senior Devops Engineer
 ######  Dec,2017 - Dec,2020
 
-Main responsibilities on the project 
-
- - Designed and managed the cloud infrastructure on AWS for PROD&&DEV environments.
- - Developed scripts using Bash and Python to automate infrastructure deployments and configuration management.
- - Implemented monitoring and logging systems to provide visibility to the infrastructure and applications.
+  * Designed and managed the cloud infrastructure on AWS for PROD&&DEV environments.
+  * Developed scripts using Bash and Python to automate infrastructure deployments and configuration management.
+  * Implemented monitoring and logging systems to provide visibility to the infrastructure and applications.
 
 
 #### EPAM Systems - Senior Devops Engineer
