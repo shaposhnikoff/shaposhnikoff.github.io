@@ -5,10 +5,6 @@
 <li>English level B2+</li>
 <li>Location Kiev/Ukraine</li>
 </ul>
-<h3 id="education">EDUCATION</h3>
-<h6 id="moscow-technical-university-of-communications-and-informatics">Moscow Technical University of Communications and Informatics</h6>
-<h6 id="masters-degree-in-computer-science">Master’s degree in Computer Science</h6>
-<p>1992 - 1998</p>
 <h3 id="resume-summary">RESUME SUMMARY</h3>
 <p>Advanced DevOps Engineer With Python Experience specialized in crafting and maintaining AWS-based cloud infrastructure. Proficient in Python, Bash, and automation tools like Ansible and Terraform.</p>
 <p>My core competencies encompass architecting seamless continuous integration, delivery, and deployment pipelines using Gitlab CI/CD, Jenkins, Git, Docker, Vagrant, Argo CD/CD, and AWS/EC2.</p>
