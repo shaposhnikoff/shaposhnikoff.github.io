@@ -1,16 +1,15 @@
 # Maksym Shaposhnikov
-### Results-Driven Experienced Devops Engineer with strong Python background | Software developer |AWS | Ansible | Terraform | Docker | Kubernetes | Helm | ArgoCD
+#### Results-Driven Experienced Devops Engineer with strong Python background | Software developer |AWS | Ansible | Terraform | Docker | Kubernetes | Helm | ArgoCD
 
 * telegram		[shaposhnikoff](https://t.me/shaposhnikoff)
 * English level B2+
 * Location Kiev/Ukraine
 
-## RESUME SUMMARY
+### RESUME SUMMARY
 
 Advanced DevOps Engineer With Python Experience specialized in crafting and maintaining AWS-based cloud infrastructure. Proficient in Python, Bash, and automation tools like Ansible and Terraform.
 
 My core competencies encompass architecting seamless continuous integration, delivery, and deployment pipelines using Gitlab CI/CD, Jenkins, Git, Docker, Vagrant, Argo CD/CD, and AWS/EC2.
-
 
  - Strong understanding of DevOps principles and methodologies.
  - Strong experience with Python
@@ -21,10 +20,10 @@ My core competencies encompass architecting seamless continuous integration, del
  - Expertise in Continuous Integration/Deployment (CI/CD) using Jenkins and ARGO CI.
  - Familiarity with scripting languages such as Python, Bash.
  
-# WORK Experience
+### WORK Experience
 
-### Raiffeisen international - Senior Devops Engineer 
-## Jan,2023 - now
+#### Raiffeisen international - Senior Devops Engineer 
+##### Jan,2023 - now
 
 Maintining AWS,K8s infrastructure on project 
 
@@ -42,8 +41,8 @@ Maintining AWS,K8s infrastructure on project
   - Actively participated in Agile and DevOps methodologies, contributing to the continuous improvement of development and deployment processes.
     
 
-### Zoolatec - Senior Devops Engineer
-###### Dec,2020 - Jan,2023
+#### Zoolatec - Senior Devops Engineer
+##### Dec,2020 - Jan,2023
 
 Main responsibilities on the project 
 
@@ -58,9 +57,8 @@ Main responsibilities on the project
  -  Scripting and Automation: Proficient in scripting languages (e.g., Bash, Python) and automation tools to streamline repetitive tasks, improve efficiency, and enhance system reliability.
  -  Monitoring and Logging: Experience with monitoring tools (e.g., Prometheus, Grafana) and log aggregation platforms (e.g., ELK Stack) to proactively monitor system health, identify performance bottlenecks, and troubleshoot issues.
  
-### Grid Dynamics - Senior Devops Engineer
+#### Grid Dynamics - Senior Devops Engineer
 ######  Dec,2017 - Dec,2020
-######  IOT && ECS project for NDA company
 
 Main responsibilities on the project 
 
@@ -69,7 +67,7 @@ Main responsibilities on the project
  - Implemented monitoring and logging systems to provide visibility to the infrastructure and applications.
 
 
-### EPAM Systems - Senior Devops Engineer
+#### EPAM Systems - Senior Devops Engineer
 ######  Feb 2014 - Apr 2017 
 
 
