@@ -5,6 +5,11 @@
 * English level B2+
 * Location Kiev/Ukraine
 
+### EDUCATION
+###### Moscow Technical University of Communications and Informatics
+###### Master's degree in Computer Science
+1992 - 1998
+
 ### RESUME SUMMARY
 
 Advanced DevOps Engineer With Python Experience specialized in crafting and maintaining AWS-based cloud infrastructure. Proficient in Python, Bash, and automation tools like Ansible and Terraform.
@@ -21,6 +26,8 @@ My core competencies encompass architecting seamless continuous integration, del
   * Familiarity with scripting languages such as Python, Bash.
  
 ### WORK Experience
+
+
 
 #### Raiffeisen international - Senior Devops Engineer 
 ##### Jan,2023 - now
@@ -39,6 +46,7 @@ My core competencies encompass architecting seamless continuous integration, del
   * Actively participated in Agile and DevOps methodologies, contributing to the continuous improvement of development and deployment processes.
     
 
+
 #### Zoolatec - Senior Devops Engineer
 ##### Dec,2020 - Jan,2023
 
@@ -53,12 +61,15 @@ My core competencies encompass architecting seamless continuous integration, del
   * Scripting and Automation: Proficient in scripting languages (e.g., Bash, Python) and automation tools to streamline repetitive tasks, improve efficiency, and enhance system reliability.
   * Monitoring and Logging: Experience with monitoring tools (e.g., Prometheus, Grafana) and log aggregation platforms (e.g., ELK Stack) to proactively monitor system health, identify performance bottlenecks, and troubleshoot issues.
  
+
+
 #### Grid Dynamics - Senior Devops Engineer
 ######  Dec,2017 - Dec,2020
 
   * Designed and managed the cloud infrastructure on AWS for PROD&&DEV environments.
   * Developed scripts using Bash and Python to automate infrastructure deployments and configuration management.
   * Implemented monitoring and logging systems to provide visibility to the infrastructure and applications.
+
 
 
 #### EPAM Systems - Senior Devops Engineer
@@ -77,7 +88,6 @@ My core competencies encompass architecting seamless continuous integration, del
   * Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions.
   * Created automation and deployment templates for relational databases (standalone and RDS).
   * Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions (Zabbix && Ansible).
-
 
 
 
