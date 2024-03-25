@@ -21,7 +21,6 @@
 <h3 id="work-experience">WORK Experience</h3>
 <h4 id="raiffeisen-international---senior-devops-engineer">Raiffeisen international - Senior Devops Engineer</h4>
 <h5 id="jan2023---now">Jan,2023 - now</h5>
-<p>Maintining AWS,K8s infrastructure on project</p>
 <ul>
 <li>AWS multiaccount IAM roles and permissions maintanence ( Glue, Athena, EMR, Airflow crossaccount permissions hell maintenance</li>
 <li>Implement GitOps practices and container orchestration using Kubernetes,Harbor and Helm</li>
@@ -38,7 +37,6 @@
 </ul>
 <h4 id="zoolatec---senior-devops-engineer">Zoolatec - Senior Devops Engineer</h4>
 <h5 id="dec2020---jan2023">Dec,2020 - Jan,2023</h5>
-<p>Main responsibilities on the project</p>
 <ul>
 <li>EMR (Elastic Map Reduse ) AWS based clusters,EMR servers templates, EMR studio deployment and Support, DataLake, Glue Databases and Tables, IAM roles, permissions and access</li>
 <li>Terragrunt multiaccount , multitieams architecture, deployment and development</li>
@@ -52,7 +50,6 @@
 </ul>
 <h4 id="grid-dynamics---senior-devops-engineer">Grid Dynamics - Senior Devops Engineer</h4>
 <h6 id="dec2017---dec2020">Dec,2017 - Dec,2020</h6>
-<p>Main responsibilities on the project</p>
 <ul>
 <li>Designed and managed the cloud infrastructure on AWS for PROD&amp;&amp;DEV environments.</li>
 <li>Developed scripts using Bash and Python to automate infrastructure deployments and configuration management.</li>
