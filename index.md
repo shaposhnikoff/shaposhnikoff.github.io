@@ -57,13 +57,13 @@ My core competencies encompass architecting seamless continuous integration, del
 #### Zoolatec - Senior Devops Engineer
 ##### Dec,2020 - Jan,2023
 
-  * EMR (Elastic Map Reduse ) AWS based clusters,EMR servers templates, EMR studio deployment and Support, DataLake, Glue Databases and Tables, IAM roles, permissions and access
+  * [EMR](https://aws.amazon.com/emr/) (Elastic Map Reduse ) AWS based clusters,EMR servers templates, [EMR studio](https://aws.amazon.com/emr/features/studio/) deployment and Support, DataLake, Glue Databases and Tables, IAM roles, permissions and access
   * Terragrunt multiaccount , multitieams architecture, deployment and development
   * Kubernetes: Proficient in managing Kubernetes clusters, deploying and scaling applications, configuring networking, and troubleshooting issues.
   * Helm: Skilled in utilizing Helm charts for packaging and deploying applications in Kubernetes, managing dependencies, and ensuring reproducibility.
-  * ArgoCD: Experienced in implementing ArgoCD for GitOps-based continuous deployment, automating application deployment and monitoring synchronization.
+  * [ArgoCD](https://argo-cd.readthedocs.io/en/stable/): Experienced in implementing ArgoCD for GitOps-based continuous deployment, automating application deployment and monitoring synchronization.
   * GitOps: Proficient in applying GitOps principles to maintain infrastructure and application configurations as code, enabling automated deployments and version control.
-  * Continuous Integration/Continuous Deployment (CI/CD): Implementing and optimizing modern CI/CD pipelines to automate build, test, and deployment processes, ensuring rapid and reliable software releases based on Github Actions.
+  * [Continuous Integration/Continuous Deployment](https://www.redhat.com/en/topics/devops/what-is-ci-cd) (CI/CD): Implementing and optimizing modern CI/CD pipelines to automate build, test, and deployment processes, ensuring rapid and reliable software releases based on Github Actions.
     Infrastructure as Code (IaC): Creating ifrastructure utilizing tools like Terragrunt/Terraform or Ansible to provision and manage infrastructure resources, enabling reproducibility and scalability. Importing Clickops based infrastructure to Terraform 
   * Scripting and Automation: Proficient in scripting languages (e.g., Bash, Python) and automation tools to streamline repetitive tasks, improve efficiency, and enhance system reliability.
   * Monitoring and Logging: Experience with monitoring tools (e.g., Prometheus, Grafana) and log aggregation platforms (e.g., ELK Stack) to proactively monitor system health, identify performance bottlenecks, and troubleshoot issues.
