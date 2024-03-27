@@ -22,14 +22,6 @@ My core competencies encompass architecting seamless continuous integration, del
  
 ### WORK Experience
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<img src="raif.png" alt="image" width="100" height="auto">
-
 #### Raiffeisen international - Senior Devops Engineer 
 ##### Jan,2023 - now
 
@@ -46,13 +38,6 @@ My core competencies encompass architecting seamless continuous integration, del
   * Utilized scripting (Python and Shell) for automation of routine tasks, improving operational efficiency.
   * Actively participated in Agile and DevOps methodologies, contributing to the continuous improvement of development and deployment processes.
     
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<img src="pic/zt_logo.jpg" alt="image" width="100" height="auto">
 
 #### Zoolatec - Senior Devops Engineer
 ##### Dec,2020 - Jan,2023
@@ -69,13 +54,6 @@ My core competencies encompass architecting seamless continuous integration, del
   * Monitoring and Logging: Experience with monitoring tools (e.g., Prometheus, Grafana) and log aggregation platforms (e.g., ELK Stack) to proactively monitor system health, identify performance bottlenecks, and troubleshoot issues.
  
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<img src="pic/gd_logo.jpeg" alt="image" width="100" height="auto">
 
 #### Grid Dynamics - Senior Devops Engineer
 ######  Dec,2017 - Dec,2020
@@ -85,14 +63,6 @@ My core competencies encompass architecting seamless continuous integration, del
   * Implemented monitoring and logging systems to provide visibility to the infrastructure and applications.
 
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<img src="pic/epam_logo.jpeg" alt="image" width="100" height="auto">
 
 #### EPAM Systems - Senior Devops Engineer
 ######  Feb 2014 - Apr 2017 
