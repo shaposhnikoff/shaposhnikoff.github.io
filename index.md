@@ -1,14 +1,21 @@
+<div align="center">
+
 # Maksym Shaposhnikov
-#### Results-Driven Experienced Devops Engineer with strong Python background | Software developer |AWS | Ansible | Terraform | Docker | Kubernetes | Helm | ArgoCD
+
+
+## Results-Driven Experienced Devops Engineer with strong Python background | Software developer |AWS | Ansible | Terraform | Docker | Kubernetes | Helm | ArgoCD
+</div>
 
 * telegram		[shaposhnikoff](https://t.me/shaposhnikoff)
 * English level B2+
 * Location Kiev/Ukraine
 
+<div align="center">
+
 ### RESUME SUMMARY
 
 Advanced DevOps Engineer With Python Experience specialized in crafting and maintaining AWS-based cloud infrastructure. Proficient in Python, Bash, and automation tools like Ansible and Terraform.
-
+</div>
 My core competencies encompass architecting seamless continuous integration, delivery, and deployment pipelines using Gitlab CI/CD, Jenkins, Git, Docker, Vagrant, Argo CD/CD, and AWS/EC2.
 
   * Strong understanding of DevOps principles and methodologies.
@@ -19,6 +26,7 @@ My core competencies encompass architecting seamless continuous integration, del
   * Working knowledge of Kubernetes and Docker containerization.
   * Expertise in Continuous Integration/Deployment (CI/CD) using Jenkins and ARGO CI.
   * Familiarity with scripting languages such as Python, Bash.
+  * 
  
 ### WORK Experience
 
