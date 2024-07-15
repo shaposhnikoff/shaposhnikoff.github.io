@@ -6,7 +6,9 @@
 ## Results-Driven Experienced Devops Engineer with strong Python background | Software developer |AWS | Ansible | Terraform | Docker | Kubernetes | Helm | ArgoCD
 </div>
 
-* telegram		[shaposhnikoff](https://t.me/shaposhnikoff)
+* [Telegram](https://t.me/shaposhnikoff)
+* [Github](https://gist.github.com/shaposhnikoff)
+* [Linkedin](https://www.linkedin.com/in/shaposhnikovmaksym/)
 * English level B2+
 * Location Kiev/Ukraine
 

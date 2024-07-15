@@ -1,7 +1,9 @@
 <h1 id="maksym-shaposhnikov">Maksym Shaposhnikov</h1>
 <h4 id="results-driven-experienced-devops-engineer-with-strong-python-background-software-developer-aws-ansible-terraform-docker-kubernetes-helm-argocd">Results-Driven Experienced Devops Engineer with strong Python background | Software developer |AWS | Ansible | Terraform | Docker | Kubernetes | Helm | ArgoCD</h4>
 <ul>
-<li>telegram <a href="https://t.me/shaposhnikoff">shaposhnikoff</a></li>
+<li><a href="https://t.me/shaposhnikoff">Telegram</a></li>
+<li><a href="https://gist.github.com/shaposhnikoff">Github</a></li>
+<li><a href="https://www.linkedin.com/in/shaposhnikovmaksym/">Linkedin</a></li>
 <li>English level B2+</li>
 <li>Location Kiev/Ukraine</li>
 </ul>
@@ -19,8 +21,6 @@
 <li>Familiarity with scripting languages such as Python, Bash.</li>
 </ul>
 <h3 id="work-experience">WORK Experience</h3>
-<p><br> <br> <br> <br> <br></p>
-<p><img src="raif.png" alt="image" width="100" height="auto"></p>
 <h4 id="raiffeisen-international---senior-devops-engineer">Raiffeisen international - Senior Devops Engineer</h4>
 <h5 id="jan2023---now">Jan,2023 - now</h5>
 <ul>
@@ -37,23 +37,19 @@
 <li>Utilized scripting (Python and Shell) for automation of routine tasks, improving operational efficiency.</li>
 <li>Actively participated in Agile and DevOps methodologies, contributing to the continuous improvement of development and deployment processes.</li>
 </ul>
-<p><br> <br> <br> <br> <br></p>
-<p><img src="pic/zt_logo.jpg" alt="image" width="100" height="auto"></p>
 <h4 id="zoolatec---senior-devops-engineer">Zoolatec - Senior Devops Engineer</h4>
 <h5 id="dec2020---jan2023">Dec,2020 - Jan,2023</h5>
 <ul>
-<li>EMR (Elastic Map Reduse ) AWS based clusters,EMR servers templates, EMR studio deployment and Support, DataLake, Glue Databases and Tables, IAM roles, permissions and access</li>
+<li><a href="https://aws.amazon.com/emr/">EMR</a> (Elastic Map Reduse ) AWS based clusters,EMR servers templates, <a href="https://aws.amazon.com/emr/features/studio/">EMR studio</a> deployment and Support, DataLake, Glue Databases and Tables, IAM roles, permissions and access</li>
 <li>Terragrunt multiaccount , multitieams architecture, deployment and development</li>
 <li>Kubernetes: Proficient in managing Kubernetes clusters, deploying and scaling applications, configuring networking, and troubleshooting issues.</li>
 <li>Helm: Skilled in utilizing Helm charts for packaging and deploying applications in Kubernetes, managing dependencies, and ensuring reproducibility.</li>
-<li>ArgoCD: Experienced in implementing ArgoCD for GitOps-based continuous deployment, automating application deployment and monitoring synchronization.</li>
+<li><a href="https://argo-cd.readthedocs.io/en/stable/">ArgoCD</a>: Experienced in implementing ArgoCD for GitOps-based continuous deployment, automating application deployment and monitoring synchronization.</li>
 <li>GitOps: Proficient in applying GitOps principles to maintain infrastructure and application configurations as code, enabling automated deployments and version control.</li>
-<li>Continuous Integration/Continuous Deployment (CI/CD): Implementing and optimizing modern CI/CD pipelines to automate build, test, and deployment processes, ensuring rapid and reliable software releases based on Github Actions. Infrastructure as Code (IaC): Creating ifrastructure utilizing tools like Terragrunt/Terraform or Ansible to provision and manage infrastructure resources, enabling reproducibility and scalability. Importing Clickops based infrastructure to Terraform</li>
+<li><a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd">Continuous Integration/Continuous Deployment</a> (CI/CD): Implementing and optimizing modern CI/CD pipelines to automate build, test, and deployment processes, ensuring rapid and reliable software releases based on Github Actions. Infrastructure as Code (IaC): Creating ifrastructure utilizing tools like Terragrunt/Terraform or Ansible to provision and manage infrastructure resources, enabling reproducibility and scalability. Importing Clickops based infrastructure to Terraform</li>
 <li>Scripting and Automation: Proficient in scripting languages (e.g., Bash, Python) and automation tools to streamline repetitive tasks, improve efficiency, and enhance system reliability.</li>
 <li>Monitoring and Logging: Experience with monitoring tools (e.g., Prometheus, Grafana) and log aggregation platforms (e.g., ELK Stack) to proactively monitor system health, identify performance bottlenecks, and troubleshoot issues.</li>
 </ul>
-<p><br> <br> <br> <br> <br></p>
-<p><img src="pic/gd_logo.jpeg" alt="image" width="100" height="auto"></p>
 <h4 id="grid-dynamics---senior-devops-engineer">Grid Dynamics - Senior Devops Engineer</h4>
 <h6 id="dec2017---dec2020">Dec,2017 - Dec,2020</h6>
 <ul>
@@ -61,8 +57,6 @@
 <li>Developed scripts using Bash and Python to automate infrastructure deployments and configuration management.</li>
 <li>Implemented monitoring and logging systems to provide visibility to the infrastructure and applications.</li>
 </ul>
-<p><br> <br> <br> <br> <br></p>
-<p><img src="pic/epam_logo.jpeg" alt="image" width="100" height="auto"></p>
 <h4 id="epam-systems---senior-devops-engineer">EPAM Systems - Senior Devops Engineer</h4>
 <h6 id="feb-2014---apr-2017">Feb 2014 - Apr 2017</h6>
 <ul>
