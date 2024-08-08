@@ -32,20 +32,16 @@ My core competencies encompass architecting seamless continuous integration, del
  
 ### WORK Experience
 
-#### Raiffeisen international - Senior Devops Engineer 
+#### Softserve - Senior Devops Engineer 
 ##### Jan,2023 - now
 
-  * AWS multiaccount IAM roles and permissions maintanence ( Glue, Athena, EMR, Airflow crossaccount permissions hell maintenance
   * Implement GitOps practices and container orchestration using Kubernetes,Harbor and Helm
   * Simplifying Kubernetes for Data Scientists/Engineers: Developed user-friendly containers, enabling Data Scientists to utilize Kubernetes effortlessly. Achieved a complete transition to Kubernetes infrastructure with a 40% cost saving💸
-  * Reusable Data Pipelines: Assisted Data Engineers in accelerating their workflow by refining and creating reusable data pipelines, leading to a robust library of reusable data engineering tools.
-  * Designed and implemented end-to-end ETL workflows using Apache Airflow, orchestrating the extraction, transformation, and loading of data from diverse sources into a centralized data warehouse ( mostly CSV's from S3 buckets ) .
-  * Developed and maintained simple Airflow DAG's for scheduling and monitoring ETL tasks, ensuring timely and accurate data processing.
+  * Reusable Data Pipelines: Assisted Data Engineers in accelerating their workflow by refining and creating reusable data pipelines, leading to a robust library of reusable data engineering tools. 
   * Manage artifact repositories and enable Continuous Integration/Deployment (CI/CD) pipelines using Harbor and GitHub Actions Workflows
   * Implement and enable monitoring solutions using Prometheus,Alertmanager,Blackbox and Grafana to ensure proactive issue detection and resolution
   * Build and check security issues with Docker containers with Trivy 
-  * Make crossaccount deployments for internal Bank teams with Terragrunt ( and make modules in Terraform for that )
-  * Utilized scripting (Python and Shell) for automation of routine tasks, improving operational efficiency.
+  * Utilized scripting (mostly Python) for automation of routine tasks, improving operational efficiency.
   * Actively participated in Agile and DevOps methodologies, contributing to the continuous improvement of development and deployment processes.
     
 
