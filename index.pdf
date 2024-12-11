@@ -22,7 +22,13 @@
 <li>Monitoring &amp; Logging: Prometheus/Grafana,Dynatrace, ELK Stack</li>
 <li>Scripting: Python, Bash</li>
 </ul>
-<p>Achievements: * Automated EC2 and RDS hibernation scheduling, enabling shutdown during off-hours and startup during business hours or events, reducing infrastructure costs by 50%. * Extended the solution to Azure Compute Instances and PostgreSQL databases, achieving similar cost savings * Streamlined CI/CD pipelines, cutting release times by 30%. * Automated infrastructure provisioning with Terraform, improving scalability and consistency.</p>
+<p>Achievements:</p>
+<ul>
+<li>Automated EC2 and RDS hibernation scheduling, enabling shutdown during off-hours and startup during business hours or events, reducing infrastructure costs by 50%.</li>
+<li>Extended the solution to Azure Compute Instances and PostgreSQL databases, achieving similar cost savings</li>
+<li>Streamlined CI/CD pipelines, cutting release times by 30%.</li>
+<li>Automated infrastructure provisioning with Terraform, improving scalability and consistency.</li>
+</ul>
 <h3 id="work-experience">WORK Experience</h3>
 <h4 id="softserve---senior-devops-engineer">Softserve - Senior Devops Engineer</h4>
 <h5 id="jan2023---now">Jan,2023 - now</h5>
@@ -72,3 +78,4 @@
 <li>Created automation and deployment templates for relational databases (standalone and RDS).</li>
 <li>Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions (Zabbix &amp;&amp; Ansible).</li>
 </ul>
+<p>Hobbies * Licensed Radio Amateur – actively exploring radio communication technologies. * Microcontroller Programming – developing embedded solutions for hardware projects. * Smart Home Development – creating custom software to automate and enhance smart home systems.</p>
