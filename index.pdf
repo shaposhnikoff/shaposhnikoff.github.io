@@ -22,6 +22,7 @@
 <li>Monitoring &amp; Logging: Prometheus/Grafana,Dynatrace, ELK Stack</li>
 <li>Scripting: Python, Bash</li>
 </ul>
+<p>Achievements: * Automated EC2 and RDS hibernation scheduling, enabling shutdown during off-hours and startup during business hours or events, reducing infrastructure costs by 50%. * Extended the solution to Azure Compute Instances and PostgreSQL databases, achieving similar cost savings * Streamlined CI/CD pipelines, cutting release times by 30%. * Automated infrastructure provisioning with Terraform, improving scalability and consistency.</p>
 <h3 id="work-experience">WORK Experience</h3>
 <h4 id="softserve---senior-devops-engineer">Softserve - Senior Devops Engineer</h4>
 <h5 id="jan2023---now">Jan,2023 - now</h5>
