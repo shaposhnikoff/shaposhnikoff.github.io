@@ -29,6 +29,7 @@ Core Skills:
 * Scripting: Python, Bash  
 
 Achievements:
+
 * Automated EC2 and RDS hibernation scheduling, enabling shutdown during off-hours and startup during business hours or events, reducing infrastructure costs by 50%.
 * Extended the solution to Azure Compute Instances and PostgreSQL databases, achieving similar cost savings
 * Streamlined CI/CD pipelines, cutting release times by 30%.
