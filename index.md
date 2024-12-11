@@ -16,19 +16,17 @@
 
 ### RESUME SUMMARY
 
-Advanced DevOps Engineer With Python Experience specialized in crafting and maintaining AWS-based cloud infrastructure. Proficient in Python, Bash, and automation tools like Ansible and Terraform.
+Experienced DevOps Engineer with Strong Python Expertise, specializing in building scalable, resilient AWS-based cloud infrastructure. Proficient in automation, CI/CD, and container orchestration to optimize delivery pipelines and system performance.
 </div>
-My core competencies encompass architecting seamless continuous integration, delivery, and deployment pipelines using Gitlab CI/CD, Jenkins, Git, Docker, Vagrant, Argo CD/CD, and AWS/EC2.
 
-  * Strong understanding of DevOps principles and methodologies.
-  * Strong experience with Python
-  * Prometheus/Grafana, ELK Stack
-  * Proficiency in cloud infrastructure management using AWS.
-  * Experience in configuration management using Ansible,Terraform,Terragrunt.
-  * Working knowledge of Kubernetes and Docker containerization.
-  * Expertise in Continuous Integration/Deployment (CI/CD) using Jenkins and ARGO CI.
-  * Familiarity with scripting languages such as Python, Bash.
-  * 
+Core Skills:
+
+* Cloud Infrastructure: AWS (EC2, S3, IAM, RDS)
+* Automation Tools: Ansible, Terraform, Terragrunt
+* CI/CD Pipelines: GitLab CI/CD, Jenkins, Argo CD
+* Containerization & Orchestration: Docker, Kubernetes
+* Monitoring & Logging: Prometheus/Grafana,Dynatrace, ELK Stack
+* Scripting: Python, Bash  
  
 ### WORK Experience
 
