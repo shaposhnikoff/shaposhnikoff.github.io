@@ -1,14 +1,15 @@
-name: Update CV from MD to PDF 
+name: Update CV from MD to PDF
 
 on:
-#  schedule:
-#      - cron: '0 22 * * *'
   push:
     branches: 
       - '*' 
   pull_request:
     branches:
       - '*'
+  # Uncomment to run on a schedule
+  # schedule:
+  #   - cron: '0 22 * * *'
 
 jobs:
   build:
@@ -23,31 +24,43 @@ jobs:
         with:
           python-version: 3.7
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
+          sudo apt-get install -y pandoc texlive-latex-base \
+              texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
 
-      - name: 'Convert index.md to index.html with pandoc'
-        run:  pandoc index.md > index.html
+      - name: Convert Markdown to PDF
+        run: |
+          pandoc index.md -o index.pdf \
+            --pdf-engine=xelatex \
+            --toc --highlight-style=tango \
+            --variable "geometry:margin=1in"
 
-      - name: 'Convert index.md to index.pdf with pandoc'
-        run:  pandoc index.md > index.pdf
-
-      - name: Upload PDF artifact
+      - name: Upload PDF Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: index
+          name: CV-PDF
           path: index.pdf
-        
-      - name: setup git config
+
+      - name: Configure Git User
         run: |
-          git config user.name shaposhnikoff
-          git config user.email max@shaposhnikoff.info
-          git add .
-          
-      - name: commit changes
+          git config user.name "shaposhnikoff"
+          git config user.email "max@shaposhnikoff.info"
+
+      - name: Commit Changes
         run: |
-          chmod +x ./commit.sh
-          ./commit.sh
-          
+          git add index.pdf
+          git commit -m "Update generated CV PDF from index.md" || echo "No changes to commit"
+          git push
+
+      - name: Send Telegram Notification
+        if: success()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          MESSAGE="✅ PDF generation successful! CV has been updated and committed. 🎉"
+          curl -s -X POST https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage \
+          -d chat_id=$TELEGRAM_CHAT_ID \
+          -d text="$MESSAGE"
