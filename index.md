@@ -27,7 +27,14 @@ Core Skills:
 * Containerization & Orchestration: Docker, Kubernetes
 * Monitoring & Logging: Prometheus/Grafana,Dynatrace, ELK Stack
 * Scripting: Python, Bash  
- 
+
+Achievements:
+* Automated EC2 and RDS hibernation scheduling, enabling shutdown during off-hours and startup during business hours or events, reducing infrastructure costs by 50%.
+* Extended the solution to Azure Compute Instances and PostgreSQL databases, achieving similar cost savings
+* Streamlined CI/CD pipelines, cutting release times by 30%.
+* Automated infrastructure provisioning with Terraform, improving scalability and consistency.
+
+
 ### WORK Experience
 
 #### Softserve - Senior Devops Engineer 
