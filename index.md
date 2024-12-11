@@ -93,7 +93,8 @@ Achievements:
   * Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions (Zabbix && Ansible).
 
 
-Hobbies
+Hobbies:
+
 * Licensed Radio Amateur – actively exploring radio communication technologies.
 * Microcontroller Programming – developing embedded solutions for hardware projects.
 * Smart Home Development – creating custom software to automate and enhance smart home systems.
