@@ -38,18 +38,15 @@ Achievements:
 
 ### WORK Experience
 
-#### Softserve - Senior Devops Engineer 
+#### Softserve - Senior Data/Devops Engineer 
 ##### Jan,2023 - now
 
-  * Implement GitOps practices and container orchestration using Kubernetes,Harbor and Helm
-  * Simplifying Kubernetes for Data Scientists/Engineers: Developed user-friendly containers, enabling Data Scientists to utilize Kubernetes effortlessly. Achieved a complete transition to Kubernetes infrastructure with a 40% cost saving💸
-  * Reusable Data Pipelines: Assisted Data Engineers in accelerating their workflow by refining and creating reusable data pipelines, leading to a robust library of reusable data engineering tools. 
-  * Manage artifact repositories and enable Continuous Integration/Deployment (CI/CD) pipelines using Harbor and GitHub Actions Workflows
-  * Implement and enable monitoring solutions using Prometheus,Alertmanager,Blackbox and Grafana to ensure proactive issue detection and resolution
-  * Build and check security issues with Docker containers with Trivy 
-  * Utilized scripting (mostly Python) for automation of routine tasks, improving operational efficiency.
-  * Actively participated in Agile and DevOps methodologies, contributing to the continuous improvement of development and deployment processes.
-    
+
+* Development and implementation of automated solutions for monitoring and managing costs in AWS and Azure using Python and Terraform. Creating custom reports for Cloudability and automating cost reporting.
+
+* Configuring and maintaining CI/CD pipelines in GitLab and Jenkins, including integration with Mailgun for failure notifications. Developing and testing integrations using Pytest and GitLab API. Working with Tekton to create pipelines in Kubernetes.
+
+* Working with large datasets for data analysis and transformation in Azure and Databricks. Automating ETL processes using Airflow. Data management in Snowflake and optimizing storage and processing processes.
 
 #### Zoolatec - Senior Devops Engineer
 ##### Dec,2020 - Jan,2023
