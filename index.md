@@ -34,16 +34,11 @@ Core Skills:
 #### Softserve - FinOps TeamLead / NDA Client 
 ##### Jan,2023 - now
 
-
-* Automated EC2 and RDS hibernation scheduling, enabling shutdown during off-hours and startup during business hours or events, reducing infrastructure costs by 50%.
-
-* Extended the solution to Azure Compute Instances and PostgreSQL databases, achieving similar cost savings
-
-* Development and implementation of automated solutions for monitoring and managing costs in AWS and Azure using Python and Terraform. Creating custom reports for Cloudability and automating cost reporting.
-
-* Configuring and maintaining CI/CD pipelines in GitLab and Jenkins, including integration with Mailgun for failure notifications. Developing and testing integrations using Pytest and GitLab API. Working with Tekton to create pipelines in Kubernetes.
-
-* Working with large datasets for data analysis and transformation in Azure and Databricks. Automating ETL processes using Airflow. Data management in Snowflake and optimizing storage and processing processes.
+* Automated cost reporting pipeline, reducing manual effort.
+* EC2, RDS, Azure Compute, and PostgreSQL hibernation scheduling, cutting infrastructure costs by 50%.
+* Developed Python and Terraform solutions for AWS/Azure cost monitoring, including Cloudability reporting automation.
+* Configured and maintained CI/CD pipelines in GitLab, Jenkins, and Tekton, with Mailgun-integrated failure notifications and Pytest-driven integration testing.
+* Analyzed and transformed large datasets in Azure/Databricks, automated ETL with Airflow, and optimized data management in Snowflake.
 
 #### Zoolatec - Senior Devops Engineer
 ##### Dec,2020 - Jan,2023
