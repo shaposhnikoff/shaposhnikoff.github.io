@@ -28,19 +28,16 @@ Core Skills:
 * Monitoring & Logging: Prometheus/Grafana,Dynatrace, ELK Stack
 * Scripting: Python, Bash  
 
-Achievements:
-
-* Automated EC2 and RDS hibernation scheduling, enabling shutdown during off-hours and startup during business hours or events, reducing infrastructure costs by 50%.
-* Extended the solution to Azure Compute Instances and PostgreSQL databases, achieving similar cost savings
-* Streamlined CI/CD pipelines, cutting release times by 30%.
-* Automated infrastructure provisioning with Terraform, improving scalability and consistency.
-
 
 ### WORK Experience
 
-#### Softserve - Senior Data/Devops Engineer 
+#### Softserve - FinOps TeamLead / NDA Client 
 ##### Jan,2023 - now
 
+
+* Automated EC2 and RDS hibernation scheduling, enabling shutdown during off-hours and startup during business hours or events, reducing infrastructure costs by 50%.
+
+* Extended the solution to Azure Compute Instances and PostgreSQL databases, achieving similar cost savings
 
 * Development and implementation of automated solutions for monitoring and managing costs in AWS and Azure using Python and Terraform. Creating custom reports for Cloudability and automating cost reporting.
 
