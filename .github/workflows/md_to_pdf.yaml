@@ -26,7 +26,7 @@ jobs:
         run: |
           pandoc index.md -o index.pdf \
             --pdf-engine=xelatex \
-            --toc --highlight-style=tango \
+            --highlight-style=tango \
             --variable "geometry:margin=1in"
 
       - name: Upload PDF Artifact
