@@ -1,91 +1,79 @@
-<div align="center">
-
 # Maksym Shaposhnikov
 
-
-## Results-Driven Experienced Devops Engineer with strong Python background | Software developer |AWS | Ansible | Terraform | Docker | Kubernetes | Helm | ArgoCD
-</div>
-
-* [Telegram](https://t.me/shaposhnikoff)
-* [Github](https://gist.github.com/shaposhnikoff)
-* [Linkedin](https://www.linkedin.com/in/shaposhnikovmaksym/)
-* English level B2+
-* Location Kiev/Ukraine
-
-<div align="center">
-
-### RESUME SUMMARY
-
-Experienced DevOps Engineer with Strong Python Expertise, specializing in building scalable, resilient AWS-based cloud infrastructure. Proficient in automation, CI/CD, and container orchestration to optimize delivery pipelines and system performance.
-</div>
-
-Core Skills:
-
-* Cloud Infrastructure: AWS (EC2, S3, IAM, RDS)
-* Automation Tools: Ansible, Terraform, Terragrunt
-* CI/CD Pipelines: GitLab CI/CD, Jenkins, Argo CD
-* Containerization & Orchestration: Docker, Kubernetes
-* Monitoring & Logging: Prometheus/Grafana,Dynatrace, ELK Stack
-* Scripting: Python, Bash  
+📍 Kyiv, Ukraine | 🇬🇧 English: B2+
+<br>
+🔧 DevOps Engineer | Python Automation | AWS | Terraform | Kubernetes | ArgoCD
+<br>
+📫 [Telegram](https://t.me/shaposhnikoff) | [Github](https://gist.github.com/shaposhnikoff) | [Linkedin](https://www.linkedin.com/in/shaposhnikovmaksym/)
 
 
-### WORK Experience
+### SUMMARY
 
-#### Softserve - FinOps TeamLead / NDA Client 
-##### Jan,2023 - now
+Senior DevOps Engineer with 10+ years of experience automating cloud infrastructure, CI/CD pipelines, and Kubernetes environments. Strong background in Python and Bash scripting. Proven record of reducing cloud spend, accelerating delivery, and enabling platform scalability for data-driven teams. Comfortable in Agile/DevOps cultures and experienced across AWS and Azure.
 
-* Automated cost reporting pipeline, reducing manual effort.
-* EC2, RDS, Azure Compute, and PostgreSQL hibernation scheduling, cutting infrastructure costs by 50%.
-* Developed Python and Terraform solutions for AWS/Azure cost monitoring, including Cloudability reporting automation.
-* Configured and maintained CI/CD pipelines in GitLab, Jenkins, and Tekton, with Mailgun-integrated failure notifications and Pytest-driven integration testing.
-* Analyzed and transformed large datasets in Azure/Databricks, automated ETL with Airflow, and optimized data management in Snowflake.
+### SKILLS
+* Cloud Platforms: AWS (EC2, S3, RDS, IAM), Azure (Compute, PostgreSQL)
+* IaC & Automation: Terraform, Terragrunt, Ansible, Python, Bash
+* Containers & Orchestration: Docker, Kubernetes, Helm, ArgoCD, Harbor
+* CI/CD: GitLab CI/CD, GitHub Actions, Jenkins
+* Monitoring & Logging: Prometheus, Alertmanager, Grafana, ELK, Dynatrace, Trivy
+* Practices: GitOps, Agile, Secure CI/CD, Cost Optimization
 
-#### Zoolatec - Senior Devops Engineer
-##### Dec,2020 - Jan,2023
+### PROFESSIONAL EXPERIENCE
+#### SoftServe – Senior DevOps Engineer
 
-  * [EMR](https://aws.amazon.com/emr/) (Elastic Map Reduse ) AWS based clusters,EMR servers templates, [EMR studio](https://aws.amazon.com/emr/features/studio/) deployment and Support, DataLake, Glue Databases and Tables, IAM roles, permissions and access
-  * Terragrunt multiaccount , multitieams architecture, deployment and development
-  * Kubernetes: Proficient in managing Kubernetes clusters, deploying and scaling applications, configuring networking, and troubleshooting issues.
-  * Helm: Skilled in utilizing Helm charts for packaging and deploying applications in Kubernetes, managing dependencies, and ensuring reproducibility.
-  * [ArgoCD](https://argo-cd.readthedocs.io/en/stable/): Experienced in implementing ArgoCD for GitOps-based continuous deployment, automating application deployment and monitoring synchronization.
-  * GitOps: Proficient in applying GitOps principles to maintain infrastructure and application configurations as code, enabling automated deployments and version control.
-  * [Continuous Integration/Continuous Deployment](https://www.redhat.com/en/topics/devops/what-is-ci-cd) (CI/CD): Implementing and optimizing modern CI/CD pipelines to automate build, test, and deployment processes, ensuring rapid and reliable software releases based on Github Actions.
-    Infrastructure as Code (IaC): Creating ifrastructure utilizing tools like Terragrunt/Terraform or Ansible to provision and manage infrastructure resources, enabling reproducibility and scalability. Importing Clickops based infrastructure to Terraform 
-  * Scripting and Automation: Proficient in scripting languages (e.g., Bash, Python) and automation tools to streamline repetitive tasks, improve efficiency, and enhance system reliability.
-  * Monitoring and Logging: Experience with monitoring tools (e.g., Prometheus, Grafana) and log aggregation platforms (e.g., ELK Stack) to proactively monitor system health, identify performance bottlenecks, and troubleshoot issues.
- 
+Jan 2023 – Present
+  * Designed GitOps workflows using ArgoCD and Helm, simplifying Kubernetes adoption across teams
+  * Enabled full migration to Kubernetes for ML workloads, cutting platform costs by 40%
+  * Built reusable pipelines for data engineering teams, improving delivery speed and code reuse
+  * Deployed end-to-end monitoring (Prometheus, Blackbox, Grafana) with alerting and SLA visibility
+  * Automated security scanning of container images using Trivy
+  * Scripted internal tooling in Python to reduce manual overhead and improve ops efficiency
 
+#### Zoolatec – Senior DevOps Engineer
 
-#### Grid Dynamics - Senior Devops Engineer
-######  Dec,2017 - Dec,2020
+Dec 2020 – Jan 2023
 
-  * Designed and managed the cloud infrastructure on AWS for PROD&&DEV environments.
-  * Developed scripts using Bash and Python to automate infrastructure deployments and configuration management.
-  * Implemented monitoring and logging systems to provide visibility to the infrastructure and applications.
+  * Managed AWS EMR clusters, Glue, and IAM for scalable data pipelines
+  * Built multi-account Terragrunt setup for team-based infrastructure deployments
+  * Deployed Kubernetes workloads using Helm and ArgoCD in GitOps style
+  * Automated infrastructure imports from manual “ClickOps” to Terraform
+  * Designed CI/CD pipelines using GitHub Actions; reduced deployment friction
+  * Enabled system reliability with Prometheus/Grafana + ELK logging stack
 
+#### Grid Dynamics – Senior DevOps Engineer
 
+Dec 2017 – Dec 2020
 
-#### EPAM Systems - Senior Devops Engineer
-######  Feb 2014 - Apr 2017 
+  * Owned AWS infrastructure for production/dev environments
+  * Automated provisioning with Bash/Python, improving consistency and release confidence
+  * Implemented centralized logging and monitoring for multi-service apps
 
+#### EPAM Systems – Senior DevOps Engineer
 
-  * Design and develop continuous deployment pipeline, integrating Test-Kitchen, Docker, Git, Jenkins and Ansible across geographically separated hosting zones in AWS.
-  * Performed new Ansible automation to replace old-bash-style scripting tools to provide Continuous integration / Continuous delivery of results working of Development team.
-  * Performed custom Docker integration solution to run test suites (functional, unit, web, integration tests) - running tests in docker-compose created environment with hybris image and wide range of MySQL database versions.
-  * Developed fully completed CI/CD solution (Jenkins/Docker/Ansible based) from scratch to build and deploy artifacts starting from git pull and ending to checking Hybris startup logs and email notification to dev team members.
-  * Developed many fully customized Ansible playbooks for maintenance next application on customer cloud - Apache Solr Cluster, SMTP server Postfix.
-  * Also, created and maintained everyday ansible automation and special automated branch to GoLive production environments.
-  * Collect the new technologies and tools and introduced them to the client; in which way it helped the company build up an agile development environment - it improved the product quantity and the work efficiency.
-  * Developed automation and deployment utilities using Bash and Ansible.
-  * Designed and developed automated deployment and scaling processes based on Docker and Ansible for a wide range of server types and application tiers, including Elasticsearch, Tomcat, Varnish and SOLR Clusters.
-  * Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions.
-  * Created automation and deployment templates for relational databases (standalone and RDS).
-  * Wrote custom monitoring and integrated monitoring methods into deployment processes to develop self-healing solutions (Zabbix && Ansible).
+Feb 2014 – Apr 2017
 
+  * Built full CI/CD system with Jenkins, Docker, Ansible for global e-commerce client
+  * Replaced legacy scripts with modular Ansible playbooks, improving maintainability
+  * Automated test environments via Docker Compose, including legacy MySQL setups
+  * Designed containerized deployment strategy across app tiers (Solr, Tomcat, Varnish)
+  * Integrated monitoring tools (Zabbix, custom scripts) for self-healing automation
+  * Drove tech adoption internally—bringing modern DevOps tooling to distributed teams
 
-Hobbies:
+PROJECT ACHIEVEMENTS
 
-* Licensed Radio Amateur – actively exploring radio communication technologies.
-* Microcontroller Programming – developing embedded solutions for hardware projects.
-* Smart Home Development – creating custom software to automate and enhance smart home systems.
+    🔄 50%+ cost reduction: Automated EC2/RDS shutdown during off-hours on AWS and Azure
 
+    🚀 30% faster releases: Streamlined CI/CD processes using GitLab and GitHub Actions
+
+    ☁️ Migrated complex ClickOps infrastructure to Terraform for full IaC management
+
+    📈 Built monitoring and alerting stack for dozens of production services
+
+HOBBIES & INTERESTS
+
+    🎙 Licensed Radio Amateur – RF experimentation & digital comms
+
+    🔌 Microcontroller Programming – ESP32, Arduino, RF/LoRa-based projects
+
+    🏠 Smart Home Development – Custom automations with Home Assistant
