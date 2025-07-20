@@ -15,33 +15,36 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      # 2. Устанавливаем зависимости
-      - name: Install Pandoc & LaTeX
+      # 2. Установка зависимостей: pandoc, LaTeX, и emoji-шрифты
+      - name: Install Dependencies (Pandoc, LaTeX, Emoji Fonts)
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc \
             texlive-xetex \
             texlive-fonts-recommended \
             texlive-latex-base \
-            texlive-latex-extra
+            texlive-latex-extra \
+            fonts-noto \
+            fonts-noto-color-emoji
 
-      # 3. Генерация PDF из Markdown
+      # 3. Генерация PDF с поддержкой emoji
       - name: Generate PDF from Markdown
         run: |
           pandoc index.md -o index.pdf \
             --pdf-engine=xelatex \
             --highlight-style=tango \
             -V geometry:margin=1in \
-            -V mainfont="DejaVu Serif" # Можно изменить на желаемый шрифт
+            -V mainfont="Noto Sans" \
+            -V monofont="Noto Sans Mono"
 
-      # 4. Загружаем PDF как артефакт
+      # 4. Загрузка артефакта PDF
       - name: Upload PDF Artifact
         uses: actions/upload-artifact@v4
         with:
           name: CV-PDF
           path: index.pdf
 
-      # 5. Коммит PDF-файла обратно в репозиторий (опционально)
+      # 5. Коммит изменений PDF обратно в репозиторий
       - name: Commit Generated PDF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -52,19 +55,7 @@ jobs:
           git diff --cached --quiet || git commit -m "Update generated CV PDF"
           git push
 
-      # 6. Уведомление в Telegram
-      - name: Send Telegram Notification
-        if: success()
-        env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          curl -s -X POST https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage \
-            -d chat_id="$TELEGRAM_CHAT_ID" \
-            -d text="✅ *CV PDF обновлён!* Файл успешно сгенерирован и отправлен в репозиторий. 🎉" \
-            -d parse_mode="Markdown"
-
-
+      # 6. Отправка PDF в Telegram как файл
       - name: Send PDF to Telegram
         if: success()
         env:
@@ -74,5 +65,5 @@ jobs:
           curl -s -X POST https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendDocument \
             -F chat_id="$TELEGRAM_CHAT_ID" \
             -F document=@index.pdf \
-            -F caption="📄 *Новый CV PDF сгенерирован и загружен!*" \
+            -F caption="📄 *CV PDF обновлён!* Файл успешно сгенерирован и загружен." \
             -F parse_mode=Markdown
