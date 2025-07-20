@@ -21,14 +21,17 @@ Senior DevOps Engineer with 10+ years of experience automating cloud infrastruct
 
 ### PROFESSIONAL EXPERIENCE
 #### SoftServe – Senior DevOps Engineer
-
 Jan 2023 – Present
-  * Designed GitOps workflows using ArgoCD and Helm, simplifying Kubernetes adoption across teams
-  * Enabled full migration to Kubernetes for ML workloads, cutting platform costs by 40%
-  * Built reusable pipelines for data engineering teams, improving delivery speed and code reuse
-  * Deployed end-to-end monitoring (Prometheus, Blackbox, Grafana) with alerting and SLA visibility
-  * Automated security scanning of container images using Trivy
-  * Scripted internal tooling in Python to reduce manual overhead and improve ops efficiency
+
+* Automated multi-cloud cost reporting pipeline, eliminating manual reporting and increasing accuracy.
+* Implemented hibernation scheduling for EC2, RDS, Azure Compute, and PostgreSQL, reducing infrastructure costs by up to 50%.
+* Built Python- and Terraform-based tooling for AWS and Azure cost visibility, including full automation of Cloudability extended reports.
+* Designed and maintained CI/CD pipelines in GitLab, Jenkins, and Tekton, integrating Mailgun alerts for pipeline failures and Pytest for integration tests.
+* Automated ETL processes in Azure Databricks and Snowflake, processing large datasets with Airflow and Python (Pandas, SQLAlchemy), optimizing query performance and storage usage.
+
+Tools & Technologies:
+Python (Pandas, Requests, SQLAlchemy, Jinja2), Terraform, AWS (EC2, RDS, Cost Explorer), Azure (Compute, PostgreSQL), GitLab CI, Jenkins, Tekton, Mailgun, Pytest, Databricks, Airflow, Snowflake
+ 
 
 #### Zoolatec – Senior DevOps Engineer
 
