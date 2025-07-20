@@ -2,57 +2,77 @@ name: Update CV from MD to PDF
 
 on:
   push:
-    branches: 
-      - '*' 
+    branches: [ "*" ]
   pull_request:
-    branches:
-      - '*'
+    branches: [ "*" ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Клонируем репозиторий
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Install Dependencies (Pandoc & LaTeX)
+      # 2. Устанавливаем зависимости
+      - name: Install Pandoc & LaTeX
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended \
-              texlive-latex-base texlive-latex-extra
+          sudo apt-get install -y pandoc \
+            texlive-xetex \
+            texlive-fonts-recommended \
+            texlive-latex-base \
+            texlive-latex-extra
 
-      - name: Convert Markdown to PDF
+      # 3. Генерация PDF из Markdown
+      - name: Generate PDF from Markdown
         run: |
           pandoc index.md -o index.pdf \
             --pdf-engine=xelatex \
             --highlight-style=tango \
-            --variable "geometry:margin=1in"
+            -V geometry:margin=1in \
+            -V mainfont="DejaVu Serif" # Можно изменить на желаемый шрифт
 
+      # 4. Загружаем PDF как артефакт
       - name: Upload PDF Artifact
         uses: actions/upload-artifact@v4
         with:
           name: CV-PDF
           path: index.pdf
 
-      - name: Configure Git User
+      # 5. Коммит PDF-файла обратно в репозиторий (опционально)
+      - name: Commit Generated PDF
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "shaposhnikoff"
           git config user.email "max@shaposhnikoff.info"
-
-      - name: Commit Changes
-        run: |
           git add index.pdf
-          git commit -m "Update generated CV PDF from index.md" || echo "No changes to commit"
+          git diff --cached --quiet || git commit -m "Update generated CV PDF"
           git push
 
+      # 6. Уведомление в Telegram
       - name: Send Telegram Notification
         if: success()
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          MESSAGE="✅ PDF generation successful! CV has been updated and committed. 🎉"
           curl -s -X POST https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage \
-          -d chat_id=$TELEGRAM_CHAT_ID \
-          -d text="$MESSAGE"
+            -d chat_id="$TELEGRAM_CHAT_ID" \
+            -d text="✅ *CV PDF обновлён!* Файл успешно сгенерирован и отправлен в репозиторий. 🎉" \
+            -d parse_mode="Markdown"
+
+
+      - name: Send PDF to Telegram
+        if: success()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          curl -s -X POST https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendDocument \
+            -F chat_id="$TELEGRAM_CHAT_ID" \
+            -F document=@index.pdf \
+            -F caption="📄 *Новый CV PDF сгенерирован и загружен!*" \
+            -F parse_mode=Markdown
