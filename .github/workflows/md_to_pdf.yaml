@@ -36,13 +36,22 @@ jobs:
             -V geometry:margin=1in \
             -V mainfont="Noto Sans" \
             -V monofont="Noto Sans Mono"
+          
+          pandoc maksym_resume_redesigned.md -o maksym_resume_redesigned.pdf \
+            --pdf-engine=xelatex \
+            --highlight-style=tango \
+            -V geometry:margin=1in \
+            -V mainfont="Noto Sans" \
+            -V monofont="Noto Sans Mono"
 
       # 4. Загрузка артефакта PDF
       - name: Upload PDF Artifact
         uses: actions/upload-artifact@v4
         with:
           name: CV-PDF
-          path: index.pdf
+          path: |
+            index.pdf
+            maksym_resume_redesigned.pdf
 
       # 5. Коммит изменений PDF обратно в репозиторий
       - name: Commit Generated PDF
@@ -51,8 +60,8 @@ jobs:
         run: |
           git config user.name "shaposhnikoff"
           git config user.email "max@shaposhnikoff.info"
-          git add index.pdf
-          git diff --cached --quiet || git commit -m "Update generated CV PDF"
+          git add index.pdf maksym_resume_redesigned.pdf
+          git diff --cached --quiet || git commit -m "Update generated CV PDF files"
           git push
 
       # 6. Отправка PDF в Telegram как файл
@@ -65,5 +74,11 @@ jobs:
           curl -s -X POST https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendDocument \
             -F chat_id="$TELEGRAM_CHAT_ID" \
             -F document=@index.pdf \
-            -F caption="📄 *CV PDF обновлён!* Файл успешно сгенерирован и загружен." \
+            -F caption="📄 *CV PDF обновлён!* Файл index.pdf успешно сгенерирован и загружен." \
+            -F parse_mode=Markdown
+          
+          curl -s -X POST https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendDocument \
+            -F chat_id="$TELEGRAM_CHAT_ID" \
+            -F document=@maksym_resume_redesigned.pdf \
+            -F caption="📄 *Redesigned Resume PDF обновлён!* Файл maksym_resume_redesigned.pdf успешно сгенерирован и загружен." \
             -F parse_mode=Markdown
