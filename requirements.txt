@@ -1,0 +1,3 @@
+mkdocs==1.6.1
+# если нужно:
+# mkdocs-material==9.5.33
