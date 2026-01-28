@@ -1,94 +1,77 @@
 # Maksym Shaposhnikov
-**Senior DevOps & Data Engineer | AI-Driven Infrastructure Specialist**
+Senior DevOps / Platform & Data Engineer (AWS, Azure) • Automation • Cost Optimization • Observability • CI/CD
 
-📍 Kyiv, Ukraine | 🌐 English: B2+ | 📧 Available upon request  
-🔗 [Telegram](https://t.me/shaposhnikoff) | [GitHub](https://gist.github.com/shaposhnikoff) | [LinkedIn](https://www.linkedin.com/in/shaposhnikovmaksym/)
+Kyiv, Ukraine • English: Upper-Intermediate (B2+) • Email: available upon request  
+- Telegram: https://t.me/shaposhnikoff
+- GitHub: https://gist.github.com/shaposhnikoff
+- LinkedIn: https://www.linkedin.com/in/shaposhnikovmaksym/
 
----
+## Professional Summary
+Senior DevOps/Platform & Data Engineer with 20+ years of experience designing and operating cloud infrastructure and data-adjacent platforms across AWS and Azure. Strong focus on Python-driven automation, Infrastructure as Code (Terraform/Ansible), CI/CD standardization, cost governance, and observability (Prometheus/Grafana). Delivered measurable improvements in cloud spend, delivery lead time, and incident triage by automating lifecycle management and reducing manual operational overhead.  
+LLM/AI tooling experience used for engineering productivity (documentation, validation, migration assistance) with security-minded handling (sanitized inputs, no secrets in prompts, audit-friendly outputs).
 
-## 🚀 Professional Summary
-
-**Innovative DevOps leader with 20+ years of experience** transforming infrastructure through cloud automation, AI integration, and data-driven solutions. Proven track record of **reducing operational costs by 20%+** and **deployment times by 40%** through intelligent automation and cutting-edge AI implementations.
-
-**Core Expertise:** Python-driven automation • Multi-cloud architecture • AI/ML pipeline integration • Cost optimization • High-availability systems
-
----
+## Key Skills
+- Cloud: AWS (EC2, S3, RDS, IAM, EMR, Glue, Cost Explorer), Azure (Compute, Networking, PostgreSQL Flexible Server, Key Vault)
+- IaC & Automation: Terraform, Terragrunt, Ansible, Python, Bash
+- Containers & GitOps: Docker, Kubernetes, Helm, Argo CD, OCI registries (Harbor/JFrog)
+- CI/CD: GitLab CI/CD, GitHub Actions, Jenkins, Tekton
+- Observability & Security: Prometheus, Alertmanager, Grafana, ELK, Dynatrace, Trivy, policy checks (e.g., IaC scanning)
+- Data Platforms: Databricks, Airflow, Snowflake; ETL/ELT concepts, data quality validation patterns
+- Engineering Practices: secure CI/CD, blue-green/rolling deploys, incident response, runbooks, testing (Pytest), API validation frameworks
 
 ## Professional Experience
-### **SoftServe** — Senior DevOps Engineer
-*January 2023 – Present*
 
-### **AI-Powered Infrastructure Innovation**
-- **Revolutionized cost management** with automated resource hibernation system featuring intelligent scheduling and state management, delivering **significant cost reductions** on idle infrastructure
-- **Pioneered AI-assisted DevOps workflows** using custom OpenAI + LangChain agents for infrastructure validation, documentation generation, and incident troubleshooting
-- **Accelerated CI/CD transformation** by migrating GitLab → GitHub Actions with custom AI agent, achieving **40% faster deployments** and eliminating manual overhead
+### SoftServe — Senior DevOps Engineer
+Jan 2023 – Present
 
-### **Data & Monitoring Excellence**
-- **Enhanced incident response by 35%** through AI-assisted Grafana/Prometheus dashboards with intelligent anomaly correlation
-- **Architected secure API validation framework** for HR processes, ensuring consistent verification across large-scale user datasets
-- **Optimized multi-cloud operations** (Azure + AWS) using Terraform & Ansible, supported by AI-driven cost analysis
+Cost & Platform Automation
+- Built automated resource hibernation/scheduling for non-production workloads (state management + safety checks), reducing idle cloud spend by ~20% (baseline/period available upon request).
+- Standardized and hardened IaC workflows (Terraform/Ansible), improving repeatability and reducing drift across multi-subscription/multi-account environments.
 
-#### **Technology Stack** 
-Python (Pandas, SQLAlchemy, Jinja2), Terraform, AWS (EC2, RDS, Cost Explorer), Azure, GitLab CI, Jenkins, Tekton, Databricks, Airflow, Snowflake, Pytest
+CI/CD & Delivery Acceleration
+- Led GitLab → GitHub Actions migration with reusable workflows and policy gates; improved delivery lead time by ~40% and reduced manual pipeline maintenance overhead (baseline/period available upon request).
+- Implemented migration tooling and conventions to reduce per-repo onboarding time and ensure consistency.
 
-### **Zoolatec** — Senior DevOps Engineer  
-*December 2020 – January 2023*
+Observability & Incident Response
+- Improved incident triage via Prometheus/Grafana dashboarding and alert signal correlation; reduced MTTR by ~35% (baseline/period available upon request).
 
-**☁️ Cloud & Data Pipeline Mastery**
-- **Scaled data operations** through AWS EMR clusters, Glue, and sophisticated IAM management
-- **Streamlined team deployments** with multi-account Terragrunt infrastructure setup
-- **Implemented GitOps excellence** using Kubernetes, Helm, and ArgoCD for seamless workload management
-- **Eliminated manual processes** by automating infrastructure imports from ClickOps to Infrastructure as Code
-- **Boosted system reliability** with comprehensive Prometheus/Grafana monitoring and ELK logging stack
+Data & Governance
+- Designed and implemented cross-cloud storage governance reporting (inventory + posture signals + normalized schema), producing stakeholder-ready CSV/tabular outputs used for remediation planning and cost/governance decisions.
 
-### **Grid Dynamics** — Senior DevOps Engineer
-*December 2017 – December 2020*
+Кealized Engineering Projects
+- AI-assisted GitLab CI → GitHub Actions converter (Anthropic Claude): converts `.gitlab-ci.yml` into `.github/workflows/*.yml`, generates conversion notes (mappings, assumptions, gaps), supports repository auto-discovery; credential handling via environment variables.
+- kvpass: CLI password manager backed by Azure Key Vault, providing a “pass-like” workflow with centralized governance and access control.
 
-**Enterprise-scale infrastructure management and cloud migration leadership**
+Tech Stack: Python (Pandas, SQLAlchemy, Jinja2), Terraform, Ansible, AWS, Azure, GitHub Actions, GitLab CI, Jenkins, Tekton, Prometheus, Grafana, Databricks, Airflow, Snowflake, Pytest
 
-### **EPAM Systems** — Senior DevOps Engineer  
-*February 2014 – April 2017*
+### Zoolatec — Senior DevOps Engineer
+Dec 2020 – Jan 2023
 
-**Foundation-building in DevOps practices and automation frameworks**
+- Scaled data operations on AWS using EMR/Glue; improved IAM structure and operational reliability for data workloads.
+- Built multi-account infrastructure with Terragrunt, enabling consistent environment provisioning and reducing manual setup.
+- Implemented GitOps practices with Kubernetes/Helm/Argo CD for workload management and safer deployments.
+- Automated migration/import from ClickOps into IaC to reduce drift and increase auditability.
+- Expanded monitoring and logging with Prometheus/Grafana and ELK to improve visibility and alerting quality.
 
----
+### Grid Dynamics — Senior DevOps Engineer
+Dec 2017 – Dec 2020
 
-## 🛠 Technical Expertise
+- Enterprise infrastructure operations and cloud migration support across multiple teams/projects.
+- CI/CD reliability improvements, IaC enablement, and operational automation (details available upon request).
 
-### **Cloud & Infrastructure**
-- **Platforms:** AWS (EC2, S3, RDS, IAM, EMR, Glue), Azure (Compute, PostgreSQL)
-- **IaC & Automation:** Terraform, Terragrunt, Ansible, Python scripting, Bash
-- **Containerization:** Docker, Kubernetes, Helm, ArgoCD, Harbor
+### EPAM Systems — Senior DevOps Engineer
+Feb 2014 – Apr 2017
 
-### **DevOps & CI/CD**
-- **Pipelines:** GitLab CI/CD, GitHub Actions, Jenkins, Tekton
-- **Practices:** GitOps, Agile methodologies, Secure CI/CD, Blue-Green deployments
-- **Monitoring:** Prometheus, Alertmanager, Grafana, ELK Stack, Dynatrace, Trivy
+- Built foundational DevOps practices: automation, CI/CD, configuration management, and monitoring for production systems.
+- Supported multiple delivery teams with standardized tooling and operational patterns (details available upon request).
 
-### **Data & AI**
-- **Data Engineering:** Databricks, Airflow, Snowflake, ETL pipeline design
-- **AI/ML Integration:** OpenAI APIs, LangChain, Custom AI agents, Automated analysis
-- **Programming:** Python (Pandas, Requests, SQLAlchemy, Jinja2), SQL, Data analysis
+## Selected Achievements
+- Reduced operational cloud spend by up to ~20% through automated lifecycle management and governance reporting.
+- Improved delivery lead time by ~40% via CI/CD migration and workflow standardization.
+- Reduced MTTR by ~35% through observability improvements and better triage workflows.
+- Delivered cross-cloud reporting that enabled unified governance decisions across AWS and Azure.
 
----
+## Personal Technical Interests
+- RF & Electronics: licensed radio amateur; digital communications experimentation.
+- Embedded/IoT: ESP32/Arduino, Home Assistant integrations, custom automation and telemetry collection.
 
-## 🎯 Key Achievements
-
-- **💰 Cost Optimization:** Reduced operational expenses by up to 20% through AI-driven resource management
-- **⚡ Performance:** Cut deployment time by 40% with intelligent CI/CD automation  
-- **🚨 Reliability:** Improved incident response time by 35% using AI-assisted monitoring
-- **🔄 Process Innovation:** Transformed manual infrastructure operations into fully automated IaC workflows
-- **🤖 AI Leadership:** First-to-market implementation of AI agents in DevOps workflows at enterprise scale
-
----
-
-## 🌟 Personal Interests & Technical Hobbies
-
-**🔬 Electronics & RF Engineering**
-- **Licensed Radio Amateur** with expertise in RF experimentation and digital communications
-- **Microcontroller Development:** ESP32, Arduino programming for IoT and RF/LoRa projects
-- **Smart Home Innovation:** Custom automation systems using Home Assistant and self-developed integrations
-
----
-
-*Ready to transform your infrastructure with next-generation DevOps practices and AI-driven automation.*
