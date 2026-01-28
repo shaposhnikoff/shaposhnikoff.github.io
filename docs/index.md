@@ -19,17 +19,17 @@
 ### **SoftServe** — Senior DevOps Engineer
 *January 2023 – Present*
 
-**🤖 AI-Powered Infrastructure Innovation**
+** 🤖 AI-Powered Infrastructure Innovation**
 - **Revolutionized cost management** with automated resource hibernation system featuring intelligent scheduling and state management, delivering **significant cost reductions** on idle infrastructure
 - **Pioneered AI-assisted DevOps workflows** using custom OpenAI + LangChain agents for infrastructure validation, documentation generation, and incident troubleshooting
 - **Accelerated CI/CD transformation** by migrating GitLab → GitHub Actions with custom AI agent, achieving **40% faster deployments** and eliminating manual overhead
 
-**📊 Data & Monitoring Excellence**
+** 📊 Data & Monitoring Excellence**
 - **Enhanced incident response by 35%** through AI-assisted Grafana/Prometheus dashboards with intelligent anomaly correlation
 - **Architected secure API validation framework** for HR processes, ensuring consistent verification across large-scale user datasets
 - **Optimized multi-cloud operations** (Azure + AWS) using Terraform & Ansible, supported by AI-driven cost analysis
 
-**🛠 Technology Stack:** Python (Pandas, SQLAlchemy, Jinja2), Terraform, AWS (EC2, RDS, Cost Explorer), Azure, GitLab CI, Jenkins, Tekton, Databricks, Airflow, Snowflake, Pytest
+** 🛠 Technology Stack:** Python (Pandas, SQLAlchemy, Jinja2), Terraform, AWS (EC2, RDS, Cost Explorer), Azure, GitLab CI, Jenkins, Tekton, Databricks, Airflow, Snowflake, Pytest
 
 ### **Zoolatec** — Senior DevOps Engineer  
 *December 2020 – January 2023*
