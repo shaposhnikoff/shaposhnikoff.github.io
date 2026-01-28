@@ -2,6 +2,7 @@
 Senior DevOps / Platform & Data Engineer (AWS, Azure) • Automation • Cost Optimization • Observability • CI/CD
 
 Kyiv, Ukraine • English: Upper-Intermediate (B2+) • Email: available upon request  
+
 - Telegram: https://t.me/shaposhnikoff
 - GitHub: https://gist.github.com/shaposhnikoff
 - LinkedIn: https://www.linkedin.com/in/shaposhnikovmaksym/
@@ -38,7 +39,7 @@ Observability & Incident Response
 Data & Governance
 - Designed and implemented cross-cloud storage governance reporting (inventory + posture signals + normalized schema), producing stakeholder-ready CSV/tabular outputs used for remediation planning and cost/governance decisions.
 
-Кealized Engineering Projects
+Realized Engineering Projects
 - AI-assisted GitLab CI → GitHub Actions converter (Anthropic Claude): converts `.gitlab-ci.yml` into `.github/workflows/*.yml`, generates conversion notes (mappings, assumptions, gaps), supports repository auto-discovery; credential handling via environment variables.
 - kvpass: CLI password manager backed by Azure Key Vault, providing a “pass-like” workflow with centralized governance and access control.
 
