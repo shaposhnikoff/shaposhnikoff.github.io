@@ -41,7 +41,7 @@ Data & Governance
 
 Realized Engineering Projects
 - AI-assisted GitLab CI → GitHub Actions converter (Anthropic Claude): converts `.gitlab-ci.yml` into `.github/workflows/*.yml`, generates conversion notes (mappings, assumptions, gaps), supports repository auto-discovery; credential handling via environment variables.
-- kvpass: CLI password manager backed by Azure Key Vault, providing a “pass-like” workflow with centralized governance and access control.
+- kvpass: CLI password manager backed by Azure Key Vault, providing a "pass-like" workflow with centralized governance and access control.
 
 Tech Stack: Python (Pandas, SQLAlchemy, Jinja2), Terraform, Ansible, AWS, Azure, GitHub Actions, GitLab CI, Jenkins, Tekton, Prometheus, Grafana, Databricks, Airflow, Snowflake, Pytest
 
@@ -63,8 +63,8 @@ Dec 2017 – Dec 2020
 ### EPAM Systems — Senior DevOps Engineer
 Feb 2014 – Apr 2017
 
-- Built foundational DevOps practices: automation, CI/CD, configuration management, and monitoring for production systems.
-- Supported multiple delivery teams with standardized tooling and operational patterns (details available upon request).
+- Infrastructure Automation & Migration: Designed and implemented AWS infrastructure provisioning pipelines using Terraform and Ansible, enabling repeatable environment builds across dev/staging/prod and reducing manual setup time from days to hours; migrated legacy on-premise workloads to AWS EC2/RDS with zero-downtime cutover strategies.
+- CI/CD Foundation & Operational Excellence: Established standardized CI/CD patterns using Jenkins and configuration management (Ansible), supporting 10+ delivery teams; implemented centralized monitoring (Nagios/CloudWatch) and automated backup/recovery procedures, improving system reliability and reducing incident response time by ~30%.
 
 ## Selected Achievements
 - Reduced operational cloud spend by up to ~20% through automated lifecycle management and governance reporting.
@@ -75,4 +75,3 @@ Feb 2014 – Apr 2017
 ## Personal Technical Interests
 - RF & Electronics: licensed radio amateur; digital communications experimentation.
 - Embedded/IoT: ESP32/Arduino, Home Assistant integrations, custom automation and telemetry collection.
-
