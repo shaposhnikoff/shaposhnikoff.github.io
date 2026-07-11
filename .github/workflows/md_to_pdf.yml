@@ -1,0 +1,66 @@
+name: Generate CV PDF
+
+on:
+  push:
+    branches: ["master"]
+    paths:
+      - "index.md"
+      - "scripts/build_pdf.sh"
+      - ".github/workflows/md_to_pdf.yml"
+  pull_request:
+    branches: ["master"]
+    paths:
+      - "index.md"
+      - "scripts/build_pdf.sh"
+      - ".github/workflows/md_to_pdf.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cv-pdf-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install PDF dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            pandoc \
+            poppler-utils \
+            texlive-fonts-recommended \
+            texlive-latex-base \
+            texlive-latex-extra \
+            texlive-xetex \
+            fonts-noto \
+            fonts-noto-color-emoji
+
+      - name: Generate and validate PDF
+        run: ./scripts/build_pdf.sh index.md build/cv.pdf
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: cv-pdf
+          path: build/cv.pdf
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Send PDF to Telegram
+        if: ${{ github.event_name != 'pull_request' && env.TELEGRAM_BOT_TOKEN != '' && env.TELEGRAM_CHAT_ID != '' }}
+        run: |
+          curl --fail --silent --show-error \
+            -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendDocument" \
+            -F "chat_id=${TELEGRAM_CHAT_ID}" \
+            -F "document=@build/cv.pdf" \
+            -F "caption=CV PDF updated."
