@@ -1,61 +1,88 @@
 # Maksym Shaposhnikov
 
-📍 Kyiv, Ukraine | 🇬🇧 English: B2+
-<br>
-🔧 Data & Finops Engineer | Python | Pandas | Data Analysis | Cloud (AWS/Azure) | ETL Pipelines | CI/CD | Databricks, Snowflake
-<br>
-📫 [Telegram](https://t.me/shaposhnikoff) | [Github](https://gist.github.com/shaposhnikoff) | [Linkedin](https://www.linkedin.com/in/shaposhnikovmaksym/)
+**Principal DevOps / Platform Engineer**
 
+Kyiv, Ukraine | Remote | English: Upper-Intermediate (B2+)  
+shaposhnikoff@gmail.com | [LinkedIn](https://www.linkedin.com/in/shaposhnikovmaksym/)  
+[GitHub](https://github.com/shaposhnikoff) | [Portfolio](https://shaposhnikoff.github.io)
 
-### SUMMARY
+## PROFESSIONAL SUMMARY
 
-DevOps leader with 15+ years of experience in cloud, automation, and AI-driven solutions. Expert in Python, CI/CD, and multi-cloud infrastructure. I help teams deliver faster, reduce costs, and boost reliability through automation and AI innovation.DevOps leader with 20+ years of experience in cloud, automation, and AI-driven solutions. Expert in Python, CI/CD, and multi-cloud infrastructure. I help teams deliver faster, reduce costs, and boost reliability through automation and AI innovation.
+Senior/Principal-level DevOps and Platform Engineer with extensive enterprise experience designing secure cloud platforms, automating infrastructure and delivery, and improving reliability across Azure and AWS environments.
 
+Strong in Terraform, Terragrunt, Kubernetes, GitHub Actions, Python, observability, cloud security, and large-scale platform migrations. Works across engineering, security, SRE, and application teams to turn operational problems into repeatable platform capabilities.
 
-### SKILLS
-* Cloud Platforms: AWS (EC2, S3, RDS, IAM), Azure (Compute, PostgreSQL)
-* IaC & Automation: Terraform, Terragrunt, Ansible, Python, Bash
-* Containers & Orchestration: Docker, Kubernetes, Helm, ArgoCD, Harbor
-* CI/CD: GitLab CI/CD, GitHub Actions, Jenkins
-* Monitoring & Logging: Prometheus, Alertmanager, Grafana, ELK, Dynatrace, Trivy
-* Practices: GitOps, Agile, Secure CI/CD, Cost Optimization
+## CORE COMPETENCIES
 
-### PROFESSIONAL EXPERIENCE
-#### SoftServe – Senior DevOps Engineer
-Jan 2023 – Present
+Platform Engineering | Cloud Architecture | Infrastructure as Code | CI/CD and GitOps | Kubernetes | Developer Platforms | Cloud Security | Observability | FinOps | Python Automation | Enterprise Migrations | Incident Response
 
-* Implemented automated resource hibernation system (scheduling, state management, monitoring), significantly lowering idle infrastructure costs.
-* Designed and tested API validation framework for HR-related processes, ensuring secure, consistent, and automated verification across large-scale user datasets.
-* Migrated and optimized CI/CD pipelines (GitLab → GitHub Actions) using a custom AI agent, reducing deployment time by 40% and eliminating manual migration overhead.
-* Built AI-assisted monitoring dashboards in Grafana/Prometheus, where a custom agent correlates anomalies and alerts, cutting incident response time by 35%.
-* Developed custom AI agents (OpenAI + LangChain) for repetitive DevOps workflows — infrastructure validation, documentation generation, incident troubleshooting.
-* Optimized multi-cloud infrastructure (Azure + AWS) with Terraform & Ansible, supported by an AI-driven cost analysis agent, reducing operational expenses by up to 20%.
+## TECHNICAL SKILLS
 
+- **Cloud:** Azure, AWS, multi-account and multi-subscription environments
+- **Infrastructure as Code:** Terraform, Terragrunt, Ansible, Packer, Helm
+- **Containers and GitOps:** Kubernetes, Amazon EKS, Docker, Argo CD, container registries
+- **CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins, Tekton
+- **Programming and Automation:** Python, Bash, Go, FastAPI, REST APIs, SQL
+- **Observability:** Prometheus, Grafana, Dynatrace, ELK, Splunk, Alertmanager
+- **Security:** Cloudflare WAF, Azure networking, Key Vault, IAM, managed identities, GitHub Advanced Security, CodeQL, Trivy, Semgrep
+- **Data Platforms:** PostgreSQL, Snowflake, Kafka, Redis, Airflow, Apache NiFi, AWS EMR, AWS Glue
 
-Tools & Technologies:
-Python (Pandas, Requests, SQLAlchemy, Jinja2), Terraform, AWS (EC2, RDS, Cost Explorer), Azure (Compute, PostgreSQL), GitLab CI, Jenkins, Tekton, Mailgun, Pytest, Databricks, Airflow, Snowflake
- 
+## PROFESSIONAL EXPERIENCE
 
-#### Zoolatec – Senior DevOps Engineer
+### SoftServe - Senior DevOps Engineer
 
-Dec 2020 – Jan 2023
+**January 2023 - Present | Remote**
 
-  * Managed AWS EMR clusters, Glue, and IAM for scalable data pipelines
-  * Built multi-account Terragrunt setup for team-based infrastructure deployments
-  * Deployed Kubernetes workloads using Helm and ArgoCD in GitOps style
-  * Automated infrastructure imports from manual “ClickOps” to Terraform
-  * Designed CI/CD pipelines using GitHub Actions; reduced deployment friction
-  * Enabled system reliability with Prometheus/Grafana + ELK logging stack
+- Design and operate enterprise platform capabilities across Azure and AWS using Terraform, Terragrunt, Ansible, Python, and cloud-native services.
+- Led migration from GitLab to GitHub, standardizing reusable Actions workflows, repository governance, security gates, and runner infrastructure.
+- Modernized an internal API platform from AWS Lambda, API Gateway, and RDS to Azure APIM, Functions, and PostgreSQL.
+- Implemented private networking, managed identities, Key Vault integration, container deployment, health checks, and infrastructure automation.
+- Designed an allowlist-based credential-rotation process with validation, staged cutover, rollback, and audit reporting.
+- Implemented cloud, network, WAF, and CI/CD telemetry integrations for operational monitoring and security investigations.
+- Automated resource lifecycle and scheduling processes to reduce idle usage and improve infrastructure consistency.
+- Partner with Security, SRE, and application teams on WAF, DNS, certificates, networking, access, and production reliability issues.
 
-----------------------------------------------------------------------------
-##### Grid Dynamics – Senior DevOps Engineer
-###### Dec 2017 – Dec 2020
-----------------------------------------------------------------------------
-##### EPAM Systems – Senior DevOps Engineer
-###### Feb 2014 – Apr 2017
-----------------------------------------------------------------------------
-### HOBBIES & INTERESTS
+**Environment:** Azure, AWS, Terraform, Terragrunt, Kubernetes, GitHub Actions, GitLab CI, Python, Bash, APIM, Azure Functions, PostgreSQL, Cloudflare, Dynatrace, Grafana
 
-* Licensed Radio Amateur – RF experimentation & digital comms
-* microcontroller Programming – ESP32, Arduino, RF/LoRa-based projects
-* smart Home Development – Custom automations with Home Assistant
+### Zoolatec - Senior DevOps Engineer
+
+**December 2020 - January 2023**
+
+- Built and maintained multi-account AWS infrastructure using Terraform and Terragrunt for application and data engineering teams.
+- Managed AWS EMR, Glue, IAM, networking, and supporting services for scalable data-processing workloads.
+- Deployed Kubernetes applications using Helm and Argo CD with GitOps-based delivery and environment promotion.
+- Converted manually provisioned resources into reusable infrastructure-as-code modules and automated deployment workflows.
+- Developed CI/CD pipelines with GitHub Actions and improved consistency across build, test, and deployment processes.
+- Implemented monitoring and logging with Prometheus, Grafana, Alertmanager, and the ELK stack.
+
+**Environment:** AWS, Terraform, Terragrunt, Kubernetes, Docker, Helm, Argo CD, GitHub Actions, Python, Prometheus, Grafana, ELK
+
+### Grid Dynamics - Senior DevOps Engineer
+
+**December 2017 - December 2020**
+
+- Designed and supported cloud infrastructure, Kubernetes platforms, and automated delivery pipelines for enterprise projects.
+- Automated infrastructure provisioning and configuration using Terraform, Ansible, Python, and Bash.
+- Built CI/CD workflows and implemented monitoring, alerting, and centralized logging for reliable operations.
+
+**Environment:** AWS, Kubernetes, Docker, Terraform, Ansible, Jenkins, Python, Bash, Prometheus, Grafana, ELK
+
+### EPAM Systems - Senior DevOps Engineer
+
+**February 2014 - April 2017**
+
+- Supported Linux and AWS infrastructure for enterprise application environments.
+- Automated provisioning, configuration, application deployment, and routine operational processes.
+- Developed Jenkins pipelines and standardized release automation across development and production environments.
+
+**Environment:** Linux, AWS, Jenkins, Ansible, Docker, Python, Bash, monitoring and logging platforms
+
+## EDUCATION
+
+**Moscow Technical University of Communications and Informatics (MTUCI)**  
+**Specialization:** Software for Industrial Complexes and Automated Systems
+
+## ADDITIONAL INFORMATION
+
+**Languages:** English - Upper-Intermediate (B2+); Ukrainian and Russian - native or fluent  
+**Technical interests:** Platform engineering, cloud automation, observability, networking, embedded systems, and amateur radio
