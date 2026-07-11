@@ -6,7 +6,7 @@ flowchart TD
     B --> C[Build PDF from index.md]
     C --> D{PDF validation passes}
     D -- No --> E[Fail workflow]
-    D -- Yes --> F[Upload cv-pdf artifact]
+    D -- Yes --> F[Upload dated PDF artifact]
     D -- Yes --> G{Telegram secrets available}
     G -- Yes --> H[Send PDF notification]
     G -- No --> I[Skip Telegram notification]

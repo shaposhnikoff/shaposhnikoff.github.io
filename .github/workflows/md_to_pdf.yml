@@ -45,14 +45,24 @@ jobs:
             fonts-noto \
             fonts-noto-color-emoji
 
+      - name: Set dated PDF filename
+        id: pdf
+        run: |
+          pdf_date="$(date -u +%F)"
+          pdf_name="shaposhnikov_devops_${pdf_date}.pdf"
+          pdf_path="build/${pdf_name}"
+          echo "name=${pdf_name}" >> "$GITHUB_OUTPUT"
+          echo "path=${pdf_path}" >> "$GITHUB_OUTPUT"
+          echo "PDF_PATH=${pdf_path}" >> "$GITHUB_ENV"
+
       - name: Generate and validate PDF
-        run: ./scripts/build_pdf.sh index.md build/cv.pdf
+        run: ./scripts/build_pdf.sh index.md "$PDF_PATH"
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
         with:
-          name: cv-pdf
-          path: build/cv.pdf
+          name: ${{ steps.pdf.outputs.name }}
+          path: ${{ steps.pdf.outputs.path }}
           if-no-files-found: error
           retention-days: 14
 
@@ -62,5 +72,5 @@ jobs:
           curl --fail --silent --show-error \
             -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendDocument" \
             -F "chat_id=${TELEGRAM_CHAT_ID}" \
-            -F "document=@build/cv.pdf" \
+            -F "document=@${PDF_PATH}" \
             -F "caption=CV PDF updated."
