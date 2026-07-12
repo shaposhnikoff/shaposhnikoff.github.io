@@ -1,37 +1,42 @@
+---
+lang: en-US
+---
+
 # Maksym Shaposhnikov
 
 **Principal DevOps / Platform Engineer**
 
-Kyiv, Ukraine | Remote | English: Upper-Intermediate (B2+)  
-shaposhnikoff@gmail.com | [LinkedIn](https://www.linkedin.com/in/shaposhnikovmaksym/)  
-[GitHub](https://github.com/shaposhnikoff) | [Portfolio](https://shaposhnikoff.github.io)
+| Kyiv, Ukraine | Remote | English: Upper-Intermediate (B2+) |
+| --- | --- | --- |
+| [shaposhnikoff@gmail.com](mailto:shaposhnikoff@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shaposhnikovmaksym/) | [GitHub](https://github.com/shaposhnikoff) |
+| Platform engineering, cloud automation and secure delivery | [Portfolio](https://shaposhnikoff.github.io) | Open to remote opportunities |
 
-## PROFESSIONAL SUMMARY
+## Professional Summary
 
 Senior/Principal-level DevOps and Platform Engineer with extensive enterprise experience designing secure cloud platforms, automating infrastructure and delivery, and improving reliability across Azure and AWS environments.
 
 Strong in Terraform, Terragrunt, Kubernetes, GitHub Actions, Python, observability, cloud security, and large-scale platform migrations. Works across engineering, security, SRE, and application teams to turn operational problems into repeatable platform capabilities.
 
-## CORE COMPETENCIES
+## Core Competencies
 
-Platform Engineering | Cloud Architecture | Infrastructure as Code | CI/CD and GitOps | Kubernetes | Developer Platforms | Cloud Security | Observability | FinOps | Python Automation | Enterprise Migrations | Incident Response
+Platform Engineering · Cloud Architecture · Infrastructure as Code · CI/CD and GitOps · Kubernetes · Developer Platforms · Cloud Security · Observability · FinOps · Python Automation · Enterprise Migrations · Incident Response
 
-## TECHNICAL SKILLS
+## Technical Strengths
 
-- **Cloud:** Azure, AWS, multi-account and multi-subscription environments
-- **Infrastructure as Code:** Terraform, Terragrunt, Ansible, Packer, Helm
+- **Cloud platforms:** Azure, AWS, multi-account and multi-subscription environments
+- **Infrastructure as code:** Terraform, Terragrunt, Ansible, Packer, Helm
 - **Containers and GitOps:** Kubernetes, Amazon EKS, Docker, Argo CD, container registries
 - **CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins, Tekton
-- **Programming and Automation:** Python, Bash, Go, FastAPI, REST APIs, SQL
+- **Programming and automation:** Python, Bash, Go, FastAPI, REST APIs, SQL
 - **Observability:** Prometheus, Grafana, Dynatrace, ELK, Splunk, Alertmanager
 - **Security:** Cloudflare WAF, Azure networking, Key Vault, IAM, managed identities, GitHub Advanced Security, CodeQL, Trivy, Semgrep
-- **Data Platforms:** PostgreSQL, Snowflake, Kafka, Redis, Airflow, Apache NiFi, AWS EMR, AWS Glue
+- **Data platforms:** PostgreSQL, Snowflake, Kafka, Redis, Airflow, Apache NiFi, AWS EMR, AWS Glue
 
-## PROFESSIONAL EXPERIENCE
+## Professional Experience
 
-### SoftServe - Senior DevOps Engineer
+### SoftServe
 
-**January 2023 - Present | Remote**
+**Senior DevOps Engineer** · January 2023 - Present · Remote
 
 - Design and operate enterprise platform capabilities across Azure and AWS using Terraform, Terragrunt, Ansible, Python, and cloud-native services.
 - Led migration from GitLab to GitHub, standardizing reusable Actions workflows, repository governance, security gates, and runner infrastructure.
@@ -44,9 +49,9 @@ Platform Engineering | Cloud Architecture | Infrastructure as Code | CI/CD and G
 
 **Environment:** Azure, AWS, Terraform, Terragrunt, Kubernetes, GitHub Actions, GitLab CI, Python, Bash, APIM, Azure Functions, PostgreSQL, Cloudflare, Dynatrace, Grafana
 
-### Zoolatec - Senior DevOps Engineer
+### Zoolatec
 
-**December 2020 - January 2023**
+**Senior DevOps Engineer** · December 2020 - January 2023
 
 - Built and maintained multi-account AWS infrastructure using Terraform and Terragrunt for application and data engineering teams.
 - Managed AWS EMR, Glue, IAM, networking, and supporting services for scalable data-processing workloads.
@@ -57,9 +62,9 @@ Platform Engineering | Cloud Architecture | Infrastructure as Code | CI/CD and G
 
 **Environment:** AWS, Terraform, Terragrunt, Kubernetes, Docker, Helm, Argo CD, GitHub Actions, Python, Prometheus, Grafana, ELK
 
-### Grid Dynamics - Senior DevOps Engineer
+### Grid Dynamics
 
-**December 2017 - December 2020**
+**Senior DevOps Engineer** · December 2017 - December 2020
 
 - Designed and supported cloud infrastructure, Kubernetes platforms, and automated delivery pipelines for enterprise projects.
 - Automated infrastructure provisioning and configuration using Terraform, Ansible, Python, and Bash.
@@ -67,9 +72,9 @@ Platform Engineering | Cloud Architecture | Infrastructure as Code | CI/CD and G
 
 **Environment:** AWS, Kubernetes, Docker, Terraform, Ansible, Jenkins, Python, Bash, Prometheus, Grafana, ELK
 
-### EPAM Systems - Senior DevOps Engineer
+### EPAM Systems
 
-**February 2014 - April 2017**
+**Senior DevOps Engineer** · February 2014 - April 2017
 
 - Supported Linux and AWS infrastructure for enterprise application environments.
 - Automated provisioning, configuration, application deployment, and routine operational processes.
@@ -77,12 +82,10 @@ Platform Engineering | Cloud Architecture | Infrastructure as Code | CI/CD and G
 
 **Environment:** Linux, AWS, Jenkins, Ansible, Docker, Python, Bash, monitoring and logging platforms
 
-## EDUCATION
+## Education
 
-**Moscow Technical University of Communications and Informatics (MTUCI)**  
-**Specialization:** Software for Industrial Complexes and Automated Systems
+**Moscow Technical University of Communications and Informatics (MTUCI)** - Specialization: Software for Industrial Complexes and Automated Systems
 
-## ADDITIONAL INFORMATION
+## Languages & Interests
 
-**Languages:** English - Upper-Intermediate (B2+); Ukrainian and Russian - native or fluent  
-**Technical interests:** Platform engineering, cloud automation, observability, networking, embedded systems, and amateur radio
+**Languages:** English - Upper-Intermediate (B2+); Ukrainian and Russian - native or fluent. **Technical interests:** Platform engineering, cloud automation, observability, networking, embedded systems, and amateur radio

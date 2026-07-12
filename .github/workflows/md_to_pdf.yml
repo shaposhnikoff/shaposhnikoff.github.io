@@ -6,12 +6,14 @@ on:
     paths:
       - "index.md"
       - "scripts/build_pdf.sh"
+      - "scripts/cv-header.tex"
       - ".github/workflows/md_to_pdf.yml"
   pull_request:
     branches: ["master"]
     paths:
       - "index.md"
       - "scripts/build_pdf.sh"
+      - "scripts/cv-header.tex"
       - ".github/workflows/md_to_pdf.yml"
   workflow_dispatch:
 

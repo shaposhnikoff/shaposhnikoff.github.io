@@ -36,7 +36,9 @@ pandoc "$input_file" \
   --output="$output_file" \
   --pdf-engine=xelatex \
   --highlight-style=tango \
-  -V geometry:margin=1in \
+  --include-in-header="$(dirname "$0")/cv-header.tex" \
+  -V geometry:margin=0.72in \
+  -V fontsize=10pt \
   -V mainfont="Noto Sans" \
   -V monofont="Noto Sans Mono"
 

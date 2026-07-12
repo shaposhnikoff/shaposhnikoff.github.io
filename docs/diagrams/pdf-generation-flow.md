@@ -3,16 +3,17 @@
 ```mermaid
 flowchart TD
     A[Change index.md or run workflow manually] --> B[Install Pandoc XeLaTeX and fonts]
-    B --> C[Build PDF from index.md]
-    C --> D{PDF validation passes}
-    D -- No --> E[Fail workflow]
-    D -- Yes --> F[Upload dated PDF artifact]
-    D -- Yes --> G{Telegram secrets available}
-    G -- Yes --> H[Send PDF notification]
-    G -- No --> I[Skip Telegram notification]
+    B --> C[Load cv-header.tex styling]
+    C --> D[Build PDF from index.md]
+    D --> E{PDF validation passes}
+    E -- No --> F[Fail workflow]
+    E -- Yes --> G[Upload dated PDF artifact]
+    E -- Yes --> H{Telegram secrets available}
+    H -- Yes --> I[Send PDF notification]
+    H -- No --> J[Skip Telegram notification]
 
-    J[Push to master] --> K[Build MkDocs site]
-    K --> L[Generate validated site/cv.pdf]
-    L --> M[Upload Pages artifact]
-    M --> N[Deploy GitHub Pages]
+    K[Push to master] --> L[Build MkDocs site from docs/index.md]
+    L --> M[Generate validated site/cv.pdf from index.md]
+    M --> N[Upload Pages artifact]
+    N --> O[Deploy GitHub Pages]
 ```
